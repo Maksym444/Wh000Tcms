@@ -1,0 +1,76 @@
+/home/dj0k4r/myowncript/hcz-jekyll-blog/
+404.html
+about.md
+assets
+test-page-image-1.jpg
+Blogger.txt
+category
+jekyll.md
+others.md
+_config.yml
+_data
+projects.json
+social.json
+urls.json
+feed.xml
+Gemfile
+Gemfile.lock
+_includes
+analytics.html
+css.html
+footer.html
+header.html
+js.html
+main.html
+meta.html
+navigation.html
+project_tags.html
+share-page.html
+sidemenu.html
+social_links.html
+index.html
+_layouts
+default.html
+page.html
+post.html
+posts_by_category.html
+project.html
+LICENSE
+_posts
+2015-07-11-welcome-to-jekyll.md
+2016-06-04-example-content.md
+2016-06-04-test-page.md
+projects.md
+README.md
+_sass
+_base.scss
+_layout.scss
+_syntax-highlighting.scss
+sitemap.xml
+static
+    css
+    bootstrap-material-design.min.css
+    bootstrap.min.css
+    main.css
+    projects.scss
+    syntax.css
+    thickbox.css
+    img
+    avatar.png
+    favicon.ico
+    loadingAnimation.gif
+    macFFBgHack.png
+    placeholder.jpg
+    screenshot-post-page.png
+    js
+    bootstrap.min.js
+    jquery.min.js
+    main.js
+    material.min.js
+    projects.js
+    super-search.js
+    thickbox-compressed.js
+    projects
+        placeholder.jpg
+
+12 directories, 61 files

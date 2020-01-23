@@ -1,0 +1,82 @@
+/home/dj0k4r/myowncript/Timber/
+├── assets
+│   ├── ajax-cart.js.liquid
+│   ├── fastclick.min.js
+│   ├── gift-card.scss.liquid
+│   ├── handlebars.min.js
+│   ├── icons.eot
+│   ├── icons.json
+│   ├── icons.svg
+│   ├── icons.ttf
+│   ├── icons.woff
+│   ├── ico-select.svg.liquid
+│   ├── modernizr.min.js
+│   ├── respond.min.js
+│   ├── respond-proxy.html
+│   ├── timber.js.liquid
+│   └── timber.scss.liquid
+├── bower.json
+├── circle.yml
+├── config
+│   ├── settings_data.json
+│   └── settings_schema.json
+├── config-sample.yml
+├── Gemfile
+├── Gemfile.lock
+├── layout
+│   └── theme.liquid
+├── LICENSE
+├── locales
+│   ├── de.json
+│   ├── en.default.json
+│   ├── es.json
+│   ├── fr.json
+│   ├── pt-BR.json
+│   └── pt-PT.json
+├── README.md
+├── snippets
+│   ├── ajax-cart-template.liquid
+│   ├── blog-sidebar.liquid
+│   ├── breadcrumb.liquid
+│   ├── collection-sidebar.liquid
+│   ├── collection-sorting.liquid
+│   ├── comment.liquid
+│   ├── oldIE-js.liquid
+│   ├── onboarding-empty-collection.liquid
+│   ├── onboarding-featured-collections.liquid
+│   ├── onboarding-featured-products.liquid
+│   ├── product-grid-item.liquid
+│   ├── respond.liquid
+│   ├── search-bar.liquid
+│   ├── social-meta-tags.liquid
+│   └── tags-article.liquid
+├── spec
+│   ├── helpers
+│   │   ├── html_helper.rb
+│   │   └── i18n_helper.rb
+│   ├── i18n_validity_spec.rb
+│   └── spec_helper.rb
+└── templates
+    ├── 404.liquid
+    ├── article.liquid
+    ├── blog.liquid
+    ├── cart.liquid
+    ├── collection.liquid
+    ├── collection.list.liquid
+    ├── customers
+    │   ├── account.liquid
+    │   ├── activate_account.liquid
+    │   ├── addresses.liquid
+    │   ├── login.liquid
+    │   ├── order.liquid
+    │   ├── register.liquid
+    │   └── reset_password.liquid
+    ├── gift_card.liquid
+    ├── index.liquid
+    ├── list-collections.liquid
+    ├── page.contact.liquid
+    ├── page.liquid
+    ├── product.liquid
+    └── search.liquid
+
+9 directories, 70 files

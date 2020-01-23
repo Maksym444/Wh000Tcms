@@ -1,0 +1,9526 @@
+/home/dj0k4r/myowncript/joomla-cms/
+administrator
+cache
+index.html
+components
+com_actionlogs
+actionlogs.php
+actionlogs.xml
+config.xml
+controller.php
+controllers
+actionlogs.php
+helpers
+actionlogs.php
+actionlogsphp55.php
+layouts
+logstable.php
+libraries
+actionlogplugin.php
+models
+actionlog.php
+actionlogs.php
+fields
+extension.php
+logcreator.php
+logsdaterange.php
+logtype.php
+plugininfo.php
+forms
+    filter_actionlogs.xml
+views
+    actionlogs
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_admin
+admin.php
+admin.xml
+controller.php
+controllers
+profile.php
+helpers
+html
+    directory.php
+    phpsetting.php
+    system.php
+models
+forms
+profile.xml
+help.php
+profile.php
+sysinfo.php
+postinstall
+addnosniff.php
+eaccelerator.php
+htaccess.php
+joomla40checks.php
+languageaccess340.php
+statscollection.php
+updatedefaultsettings.php
+script.php
+sql
+others
+mysql
+    utf8mb4-conversion-01.sql
+    utf8mb4-conversion-02.sql
+updates
+    mysql
+    2.5.0-2011-12-06.sql
+    2.5.0-2011-12-16.sql
+    2.5.0-2011-12-19.sql
+    2.5.0-2011-12-20.sql
+    2.5.0-2011-12-21-1.sql
+    2.5.0-2011-12-21-2.sql
+    2.5.0-2011-12-22.sql
+    2.5.0-2011-12-23.sql
+    2.5.0-2011-12-24.sql
+    2.5.0-2012-01-10.sql
+    2.5.0-2012-01-14.sql
+    2.5.1-2012-01-26.sql
+    2.5.2-2012-03-05.sql
+    2.5.3-2012-03-13.sql
+    2.5.4-2012-03-18.sql
+    2.5.4-2012-03-19.sql
+    2.5.5.sql
+    2.5.6.sql
+    2.5.7.sql
+    3.0.0.sql
+    3.0.1.sql
+    3.0.2.sql
+    3.0.3.sql
+    3.1.0.sql
+    3.1.1.sql
+    3.1.2.sql
+    3.1.3.sql
+    3.1.4.sql
+    3.1.5.sql
+    3.2.0.sql
+    3.2.1.sql
+    3.2.2-2013-12-22.sql
+    3.2.2-2013-12-28.sql
+    3.2.2-2014-01-08.sql
+    3.2.2-2014-01-15.sql
+    3.2.2-2014-01-18.sql
+    3.2.2-2014-01-23.sql
+    3.2.3-2014-02-20.sql
+    3.3.0-2014-02-16.sql
+    3.3.0-2014-04-02.sql
+    3.3.4-2014-08-03.sql
+    3.3.6-2014-09-30.sql
+    3.4.0-2014-08-24.sql
+    3.4.0-2014-09-01.sql
+    3.4.0-2014-09-16.sql
+    3.4.0-2014-10-20.sql
+    3.4.0-2014-12-03.sql
+    3.4.0-2015-01-21.sql
+    3.4.0-2015-02-26.sql
+    3.5.0-2015-07-01.sql
+    3.5.0-2015-10-13.sql
+    3.5.0-2015-10-26.sql
+    3.5.0-2015-10-30.sql
+    3.5.0-2015-11-04.sql
+    3.5.0-2015-11-05.sql
+    3.5.0-2016-02-26.sql
+    3.5.0-2016-03-01.sql
+    3.5.1-2016-03-25.sql
+    3.5.1-2016-03-29.sql
+    3.6.0-2016-04-01.sql
+    3.6.0-2016-04-06.sql
+    3.6.0-2016-04-08.sql
+    3.6.0-2016-04-09.sql
+    3.6.0-2016-05-06.sql
+    3.6.0-2016-06-01.sql
+    3.6.0-2016-06-05.sql
+    3.6.3-2016-08-15.sql
+    3.6.3-2016-08-16.sql
+    3.7.0-2016-08-06.sql
+    3.7.0-2016-08-22.sql
+    3.7.0-2016-08-29.sql
+    3.7.0-2016-09-29.sql
+    3.7.0-2016-10-01.sql
+    3.7.0-2016-10-02.sql
+    3.7.0-2016-11-04.sql
+    3.7.0-2016-11-19.sql
+    3.7.0-2016-11-21.sql
+    3.7.0-2016-11-24.sql
+    3.7.0-2016-11-27.sql
+    3.7.0-2017-01-08.sql
+    3.7.0-2017-01-09.sql
+    3.7.0-2017-01-15.sql
+    3.7.0-2017-01-17.sql
+    3.7.0-2017-01-31.sql
+    3.7.0-2017-02-02.sql
+    3.7.0-2017-02-15.sql
+    3.7.0-2017-02-17.sql
+    3.7.0-2017-03-03.sql
+    3.7.0-2017-03-09.sql
+    3.7.0-2017-03-19.sql
+    3.7.0-2017-04-10.sql
+    3.7.0-2017-04-19.sql
+    3.7.3-2017-06-03.sql
+    3.7.4-2017-07-05.sql
+    3.8.0-2017-07-28.sql
+    3.8.0-2017-07-31.sql
+    3.8.2-2017-10-14.sql
+    3.8.4-2018-01-16.sql
+    3.8.6-2018-02-14.sql
+    3.8.8-2018-05-18.sql
+    3.8.9-2018-06-19.sql
+    3.9.0-2018-05-02.sql
+    3.9.0-2018-05-03.sql
+    3.9.0-2018-05-05.sql
+    3.9.0-2018-05-19.sql
+    3.9.0-2018-05-20.sql
+    3.9.0-2018-05-24.sql
+    3.9.0-2018-05-27.sql
+    3.9.0-2018-06-02.sql
+    3.9.0-2018-06-12.sql
+    3.9.0-2018-06-13.sql
+    3.9.0-2018-06-14.sql
+    3.9.0-2018-06-17.sql
+    3.9.0-2018-07-09.sql
+    3.9.0-2018-07-10.sql
+    3.9.0-2018-07-11.sql
+    3.9.0-2018-08-12.sql
+    3.9.0-2018-08-28.sql
+    3.9.0-2018-08-29.sql
+    3.9.0-2018-09-04.sql
+    3.9.0-2018-10-15.sql
+    3.9.0-2018-10-20.sql
+    3.9.0-2018-10-21.sql
+    3.9.10-2019-07-09.sql
+    3.9.3-2019-01-12.sql
+    3.9.3-2019-02-07.sql
+    3.9.7-2019-04-23.sql
+    3.9.7-2019-04-26.sql
+    3.9.7-2019-05-16.sql
+    3.9.8-2019-06-11.sql
+    3.9.8-2019-06-15.sql
+    postgresql
+    3.0.0.sql
+    3.0.1.sql
+    3.0.2.sql
+    3.0.3.sql
+    3.1.0.sql
+    3.1.1.sql
+    3.1.2.sql
+    3.1.3.sql
+    3.1.4.sql
+    3.1.5.sql
+    3.2.0.sql
+    3.2.1.sql
+    3.2.2-2013-12-22.sql
+    3.2.2-2013-12-28.sql
+    3.2.2-2014-01-08.sql
+    3.2.2-2014-01-15.sql
+    3.2.2-2014-01-18.sql
+    3.2.2-2014-01-23.sql
+    3.2.3-2014-02-20.sql
+    3.3.0-2013-12-21.sql
+    3.3.0-2014-02-16.sql
+    3.3.0-2014-04-02.sql
+    3.3.4-2014-08-03.sql
+    3.3.6-2014-09-30.sql
+    3.4.0-2014-08-24.sql
+    3.4.0-2014-09-01.sql
+    3.4.0-2014-09-16.sql
+    3.4.0-2014-10-20.sql
+    3.4.0-2014-12-03.sql
+    3.4.0-2015-01-21.sql
+    3.4.0-2015-02-26.sql
+    3.4.4-2015-07-11.sql
+    3.5.0-2015-10-13.sql
+    3.5.0-2015-10-26.sql
+    3.5.0-2015-10-30.sql
+    3.5.0-2015-11-04.sql
+    3.5.0-2015-11-05.sql
+    3.5.0-2016-03-01.sql
+    3.6.0-2016-04-01.sql
+    3.6.0-2016-04-08.sql
+    3.6.0-2016-04-09.sql
+    3.6.0-2016-05-06.sql
+    3.6.0-2016-06-01.sql
+    3.6.0-2016-06-05.sql
+    3.6.3-2016-08-15.sql
+    3.6.3-2016-08-16.sql
+    3.6.3-2016-10-04.sql
+    3.7.0-2016-08-06.sql
+    3.7.0-2016-08-22.sql
+    3.7.0-2016-08-29.sql
+    3.7.0-2016-09-29.sql
+    3.7.0-2016-10-01.sql
+    3.7.0-2016-10-02.sql
+    3.7.0-2016-11-04.sql
+    3.7.0-2016-11-19.sql
+    3.7.0-2016-11-21.sql
+    3.7.0-2016-11-24.sql
+    3.7.0-2017-01-08.sql
+    3.7.0-2017-01-09.sql
+    3.7.0-2017-01-15.sql
+    3.7.0-2017-01-17.sql
+    3.7.0-2017-01-31.sql
+    3.7.0-2017-02-02.sql
+    3.7.0-2017-02-15.sql
+    3.7.0-2017-02-17.sql
+    3.7.0-2017-03-03.sql
+    3.7.0-2017-03-09.sql
+    3.7.0-2017-04-10.sql
+    3.7.0-2017-04-19.sql
+    3.7.4-2017-07-05.sql
+    3.8.0-2017-07-28.sql
+    3.8.0-2017-07-31.sql
+    3.8.2-2017-10-14.sql
+    3.8.4-2018-01-16.sql
+    3.8.6-2018-02-14.sql
+    3.8.8-2018-05-18.sql
+    3.8.9-2018-06-19.sql
+    3.9.0-2018-05-02.sql
+    3.9.0-2018-05-03.sql
+    3.9.0-2018-05-05.sql
+    3.9.0-2018-05-19.sql
+    3.9.0-2018-05-20.sql
+    3.9.0-2018-05-24.sql
+    3.9.0-2018-05-27.sql
+    3.9.0-2018-06-02.sql
+    3.9.0-2018-06-12.sql
+    3.9.0-2018-06-13.sql
+    3.9.0-2018-06-14.sql
+    3.9.0-2018-06-17.sql
+    3.9.0-2018-07-09.sql
+    3.9.0-2018-07-10.sql
+    3.9.0-2018-07-11.sql
+    3.9.0-2018-08-12.sql
+    3.9.0-2018-08-28.sql
+    3.9.0-2018-08-29.sql
+    3.9.0-2018-09-04.sql
+    3.9.0-2018-10-15.sql
+    3.9.0-2018-10-20.sql
+    3.9.0-2018-10-21.sql
+    3.9.10-2019-07-09.sql
+    3.9.3-2019-01-12.sql
+    3.9.3-2019-02-07.sql
+    3.9.7-2019-04-23.sql
+    3.9.7-2019-04-26.sql
+    3.9.7-2019-05-16.sql
+    3.9.8-2019-06-11.sql
+    3.9.8-2019-06-15.sql
+    sqlazure
+        2.5.2-2012-03-05.sql
+        2.5.3-2012-03-13.sql
+        2.5.4-2012-03-18.sql
+        2.5.4-2012-03-19.sql
+        2.5.5.sql
+        2.5.6.sql
+        2.5.7.sql
+        3.0.0.sql
+        3.0.1.sql
+        3.0.2.sql
+        3.0.3.sql
+        3.1.0.sql
+        3.1.1.sql
+        3.1.2.sql
+        3.1.3.sql
+        3.1.4.sql
+        3.1.5.sql
+        3.2.0.sql
+        3.2.1.sql
+        3.2.2-2013-12-22.sql
+        3.2.2-2013-12-28.sql
+        3.2.2-2014-01-08.sql
+        3.2.2-2014-01-15.sql
+        3.2.2-2014-01-18.sql
+        3.2.2-2014-01-23.sql
+        3.2.3-2014-02-20.sql
+        3.3.0-2014-02-16.sql
+        3.3.0-2014-04-02.sql
+        3.3.4-2014-08-03.sql
+        3.3.6-2014-09-30.sql
+        3.4.0-2014-08-24.sql
+        3.4.0-2014-09-01.sql
+        3.4.0-2014-09-16.sql
+        3.4.0-2014-10-20.sql
+        3.4.0-2014-12-03.sql
+        3.4.0-2015-01-21.sql
+        3.4.0-2015-02-26.sql
+        3.4.4-2015-07-11.sql
+        3.5.0-2015-10-13.sql
+        3.5.0-2015-10-26.sql
+        3.5.0-2015-10-30.sql
+        3.5.0-2015-11-04.sql
+        3.5.0-2015-11-05.sql
+        3.5.0-2016-03-01.sql
+        3.6.0-2016-04-01.sql
+        3.6.0-2016-04-06.sql
+        3.6.0-2016-04-08.sql
+        3.6.0-2016-04-09.sql
+        3.6.0-2016-05-06.sql
+        3.6.0-2016-06-01.sql
+        3.6.0-2016-06-05.sql
+        3.6.3-2016-08-15.sql
+        3.6.3-2016-08-16.sql
+        3.7.0-2016-08-06.sql
+        3.7.0-2016-08-22.sql
+        3.7.0-2016-08-29.sql
+        3.7.0-2016-09-29.sql
+        3.7.0-2016-10-01.sql
+        3.7.0-2016-10-02.sql
+        3.7.0-2016-11-04.sql
+        3.7.0-2016-11-19.sql
+        3.7.0-2016-11-24.sql
+        3.7.0-2017-01-08.sql
+        3.7.0-2017-01-09.sql
+        3.7.0-2017-01-15.sql
+        3.7.0-2017-01-17.sql
+        3.7.0-2017-01-31.sql
+        3.7.0-2017-02-02.sql
+        3.7.0-2017-02-15.sql
+        3.7.0-2017-02-16.sql
+        3.7.0-2017-02-17.sql
+        3.7.0-2017-03-03.sql
+        3.7.0-2017-03-09.sql
+        3.7.0-2017-04-10.sql
+        3.7.0-2017-04-19.sql
+        3.7.4-2017-07-05.sql
+        3.8.0-2017-07-28.sql
+        3.8.0-2017-07-31.sql
+        3.8.2-2017-10-14.sql
+        3.8.4-2018-01-16.sql
+        3.8.6-2018-02-14.sql
+        3.8.8-2018-05-18.sql
+        3.8.9-2018-06-19.sql
+        3.9.0-2018-05-02.sql
+        3.9.0-2018-05-03.sql
+        3.9.0-2018-05-05.sql
+        3.9.0-2018-05-19.sql
+        3.9.0-2018-05-20.sql
+        3.9.0-2018-05-24.sql
+        3.9.0-2018-05-27.sql
+        3.9.0-2018-06-02.sql
+        3.9.0-2018-06-12.sql
+        3.9.0-2018-06-13.sql
+        3.9.0-2018-06-14.sql
+        3.9.0-2018-06-17.sql
+        3.9.0-2018-07-09.sql
+        3.9.0-2018-07-10.sql
+        3.9.0-2018-07-11.sql
+        3.9.0-2018-08-12.sql
+        3.9.0-2018-08-28.sql
+        3.9.0-2018-08-29.sql
+        3.9.0-2018-09-04.sql
+        3.9.0-2018-10-15.sql
+        3.9.0-2018-10-20.sql
+        3.9.0-2018-10-21.sql
+        3.9.10-2019-07-09.sql
+        3.9.3-2019-01-12.sql
+        3.9.3-2019-02-07.sql
+        3.9.4-2019-03-06.sql
+        3.9.7-2019-04-23.sql
+        3.9.7-2019-04-26.sql
+        3.9.7-2019-05-16.sql
+        3.9.8-2019-06-11.sql
+        3.9.8-2019-06-15.sql
+views
+    help
+    tmpl
+    default.php
+    default.xml
+    langforum.php
+    view.html.php
+    profile
+    tmpl
+    edit.php
+    view.html.php
+    sysinfo
+        tmpl
+        default_config.php
+        default_directory.php
+        default.php
+        default_phpinfo.php
+        default_phpsettings.php
+        default_system.php
+        default.xml
+        view.html.php
+        view.json.php
+        view.text.php
+com_ajax
+ajax.php
+ajax.xml
+com_associations
+access.xml
+associations.php
+associations.xml
+config.xml
+controller.php
+controllers
+association.php
+associations.php
+helpers
+associations.php
+layouts
+joomla
+    searchtools
+        default
+            bar.php
+models
+association.php
+associations.php
+fields
+itemlanguage.php
+itemtype.php
+modalassociation.php
+forms
+    association.xml
+    filter_associations.xml
+views
+    association
+    tmpl
+    edit.php
+    view.html.php
+    associations
+        tmpl
+        default.php
+        default.xml
+        modal.php
+        view.html.php
+com_banners
+access.xml
+banners.php
+banners.xml
+config.xml
+controller.php
+controllers
+banner.php
+banners.php
+client.php
+clients.php
+tracks.php
+tracks.raw.php
+helpers
+banners.php
+html
+    banner.php
+models
+banner.php
+banners.php
+client.php
+clients.php
+download.php
+fields
+bannerclient.php
+clicks.php
+impmade.php
+imptotal.php
+forms
+banner.xml
+client.xml
+download.xml
+filter_banners.xml
+filter_clients.xml
+filter_tracks.xml
+tracks.php
+sql
+install.mysql.utf8.sql
+uninstall.mysql.utf8.sql
+tables
+banner.php
+client.php
+views
+    banner
+    tmpl
+    edit.php
+    view.html.php
+    banners
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    view.html.php
+    client
+    tmpl
+    edit.php
+    view.html.php
+    clients
+    tmpl
+    default.php
+    view.html.php
+    download
+    tmpl
+    default.php
+    view.html.php
+    tracks
+        tmpl
+        default.php
+        view.html.php
+        view.raw.php
+com_cache
+access.xml
+cache.php
+cache.xml
+config.xml
+controller.php
+helpers
+cache.php
+models
+cache.php
+forms
+    filter_cache.xml
+views
+    cache
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    purge
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_categories
+categories.php
+categories.xml
+controller.php
+controllers
+ajax.json.php
+categories.php
+category.php
+helpers
+association.php
+categories.php
+html
+    categoriesadministrator.php
+models
+categories.php
+category.php
+fields
+categoryedit.php
+categoryparent.php
+modal
+    category.php
+forms
+    category.xml
+    filter_categories.xml
+tables
+category.php
+views
+    categories
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    default.xml
+    modal.php
+    view.html.php
+    category
+        tmpl
+        edit_associations.php
+        edit_metadata.php
+        edit.php
+        edit.xml
+        modal_associations.php
+        modal_extrafields.php
+        modal_metadata.php
+        modal_options.php
+        modal.php
+        view.html.php
+com_checkin
+checkin.php
+checkin.xml
+config.xml
+controller.php
+models
+checkin.php
+forms
+    filter_checkin.xml
+views
+    checkin
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_config
+access.xml
+config.php
+config.xml
+controller
+application
+cancel.php
+display.php
+removeroot.php
+save.php
+sendtestmail.php
+store.php
+component
+    cancel.php
+    display.php
+    save.php
+controller.php
+controllers
+application.php
+component.php
+helper
+config.php
+model
+application.php
+component.php
+field
+configcomponents.php
+filters.php
+form
+    application.xml
+models
+application.php
+component.php
+view
+    application
+    html.php
+    json.php
+    tmpl
+        default_cache.php
+        default_cookie.php
+        default_database.php
+        default_debug.php
+        default_filters.php
+        default_ftplogin.php
+        default_ftp.php
+        default_locale.php
+        default_mail.php
+        default_metadata.php
+        default_navigation.php
+        default_permissions.php
+        default.php
+        default_proxy.php
+        default_seo.php
+        default_server.php
+        default_session.php
+        default_site.php
+        default_system.php
+        default.xml
+    component
+        html.php
+        tmpl
+            default_navigation.php
+            default.php
+            default.xml
+com_contact
+access.xml
+config.xml
+contact.php
+contact.xml
+controller.php
+controllers
+ajax.json.php
+contact.php
+contacts.php
+helpers
+associations.php
+contact.php
+html
+    contact.php
+models
+contact.php
+contacts.php
+fields
+modal
+    contact.php
+forms
+    contact.xml
+    fields
+    mail.xml
+    filter_contacts.xml
+sql
+install.mysql.utf8.sql
+uninstall.mysql.utf8.sql
+tables
+contact.php
+views
+    contact
+    tmpl
+    edit_associations.php
+    edit_metadata.php
+    edit_params.php
+    edit.php
+    modal_associations.php
+    modal_metadata.php
+    modal_params.php
+    modal.php
+    view.html.php
+    contacts
+        tmpl
+        default_batch_body.php
+        default_batch_footer.php
+        default_batch.php
+        default.php
+        modal.php
+        view.html.php
+com_content
+access.xml
+config.xml
+content.php
+content.xml
+controller.php
+controllers
+ajax.json.php
+article.php
+articles.php
+featured.php
+helpers
+associations.php
+content.php
+html
+    contentadministrator.php
+models
+article.php
+articles.php
+featured.php
+feature.php
+fields
+modal
+article.php
+voteradio.php
+forms
+    article.xml
+    filter_articles.xml
+    filter_featured.xml
+tables
+featured.php
+views
+    article
+    tmpl
+    edit_associations.php
+    edit_metadata.php
+    edit.php
+    edit.xml
+    modal_associations.php
+    modal_metadata.php
+    modal.php
+    pagebreak.php
+    view.html.php
+    articles
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    default.xml
+    modal.php
+    view.html.php
+    featured
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_contenthistory
+contenthistory.php
+contenthistory.xml
+controller.php
+controllers
+history.php
+preview.php
+helpers
+contenthistory.php
+html
+    textdiff.php
+models
+compare.php
+history.php
+preview.php
+views
+    compare
+    tmpl
+    compare.php
+    view.html.php
+    history
+    tmpl
+    modal.php
+    view.html.php
+    preview
+        tmpl
+        preview.php
+        view.html.php
+com_cpanel
+controller.php
+cpanel.php
+cpanel.xml
+views
+    cpanel
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_fields
+controller.php
+controllers
+field.php
+fields.php
+group.php
+groups.php
+fields.php
+fields.xml
+helpers
+fields.php
+libraries
+fieldslistplugin.php
+fieldsplugin.php
+models
+field.php
+fields
+fieldcontexts.php
+fieldgroups.php
+fieldlayout.php
+section.php
+type.php
+fields.php
+forms
+field.xml
+filter_fields.xml
+filter_groups.xml
+group.xml
+group.php
+groups.php
+tables
+field.php
+group.php
+views
+    field
+    tmpl
+    edit.php
+    view.html.php
+    fields
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    modal.php
+    view.html.php
+    group
+    tmpl
+    edit.php
+    view.html.php
+    groups
+        tmpl
+        default_batch_body.php
+        default_batch_footer.php
+        default.php
+        view.html.php
+com_finder
+access.xml
+config.xml
+controller.php
+controllers
+filter.php
+filters.php
+indexer.json.php
+index.php
+maps.php
+finder.php
+finder.xml
+helpers
+finder.php
+html
+finder.php
+indexer
+adapter.php
+driver
+mysql.php
+postgresql.php
+sqlsrv.php
+helper.php
+indexer.php
+parser
+html.php
+rtf.php
+txt.php
+parser.php
+query.php
+result.php
+stemmer
+fr.php
+porter_en.php
+snowball.php
+stemmer.php
+taxonomy.php
+token.php
+language.php
+models
+fields
+branches.php
+contentmap.php
+contenttypes.php
+directories.php
+searchfilter.php
+filter.php
+filters.php
+forms
+filter_filters.xml
+filter_index.xml
+filter_maps.xml
+filter.xml
+indexer.php
+index.php
+maps.php
+statistics.php
+sql
+install.mysql.sql
+install.postgresql.sql
+uninstall.mysql.sql
+uninstall.postgresql.sql
+tables
+filter.php
+link.php
+map.php
+views
+    filter
+    tmpl
+    edit.php
+    view.html.php
+    filters
+    tmpl
+    default.php
+    view.html.php
+    index
+    tmpl
+    default.php
+    view.html.php
+    indexer
+    tmpl
+    default.php
+    view.html.php
+    maps
+    tmpl
+    default.php
+    view.html.php
+    statistics
+        tmpl
+        default.php
+        view.html.php
+com_installer
+access.xml
+config.xml
+controller.php
+controllers
+database.php
+discover.php
+install.php
+manage.php
+update.php
+updatesites.php
+helpers
+html
+manage.php
+updatesites.php
+installer.php
+installer.php
+installer.xml
+models
+database.php
+discover.php
+extension.php
+fields
+extensionstatus.php
+folder.php
+location.php
+type.php
+forms
+filter_discover.xml
+filter_languages.xml
+filter_manage.xml
+filter_updatesites.xml
+filter_update.xml
+install.php
+languages.php
+manage.php
+update.php
+updatesites.php
+warnings.php
+views
+    database
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    default
+    tmpl
+    default_ftp.php
+    default_message.php
+    view.php
+    discover
+    tmpl
+    default_item.php
+    default.php
+    default.xml
+    view.html.php
+    install
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    languages
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    manage
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    update
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    updatesites
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    warnings
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_joomlaupdate
+config.xml
+controller.php
+controllers
+update.php
+helpers
+joomlaupdate.php
+select.php
+joomlaupdate.php
+joomlaupdate.xml
+models
+default.php
+restore_finalisation.php
+restore.php
+views
+    default
+    tmpl
+    complete.php
+    default_nodownload.php
+    default_noupdate.php
+    default.php
+    default_reinstall.php
+    default_updatemefirst.php
+    default_update.php
+    default_upload.php
+    default.xml
+    view.html.php
+    update
+    tmpl
+    default.php
+    finaliseconfirm.php
+    view.html.php
+    upload
+        tmpl
+        captive.php
+        view.html.php
+com_languages
+access.xml
+config.xml
+controller.php
+controllers
+installed.php
+language.php
+languages.php
+override.php
+overrides.php
+strings.json.php
+helpers
+html
+languages.php
+jsonresponse.php
+languages.php
+multilangstatus.php
+languages.php
+languages.xml
+layouts
+joomla
+    searchtools
+        default
+            bar.php
+models
+fields
+languageclient.php
+forms
+filter_installed.xml
+filter_languages.xml
+filter_overrides.xml
+language.xml
+override.xml
+installed.php
+language.php
+languages.php
+override.php
+overrides.php
+strings.php
+views
+    installed
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    language
+    tmpl
+    edit.php
+    view.html.php
+    languages
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    multilangstatus
+    tmpl
+    default.php
+    view.html.php
+    override
+    tmpl
+    edit.php
+    view.html.php
+    overrides
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_login
+controller.php
+login.php
+login.xml
+models
+login.php
+views
+    login
+        tmpl
+        default.php
+        view.html.php
+com_media
+access.xml
+config.xml
+controller.php
+controllers
+file.json.php
+file.php
+folder.php
+helpers
+media.php
+layouts
+toolbar
+    deletemedia.php
+    newfolder.php
+    uploadmedia.php
+media.php
+media.xml
+models
+list.php
+manager.php
+views
+    images
+    tmpl
+    default.php
+    view.html.php
+    imageslist
+    tmpl
+    default_folder.php
+    default_image.php
+    default.php
+    view.html.php
+    media
+    tmpl
+    default_folders.php
+    default_navigation.php
+    default.php
+    default.xml
+    view.html.php
+    medialist
+        tmpl
+        default.php
+        details_doc.php
+        details_docs.php
+        details_folder.php
+        details_folders.php
+        details_img.php
+        details_imgs.php
+        details.php
+        details_up.php
+        details_video.php
+        details_videos.php
+        thumbs_docs.php
+        thumbs_folders.php
+        thumbs_imgs.php
+        thumbs.php
+        thumbs_up.php
+        thumbs_videos.php
+        view.html.php
+com_menus
+access.xml
+config.xml
+controller.php
+controllers
+ajax.json.php
+item.php
+items.php
+menu.php
+menus.php
+helpers
+associations.php
+html
+menus.php
+menus.php
+layouts
+joomla
+    menu
+    edit_modules.php
+    searchtools
+        default
+        bar.php
+        default.php
+menus.php
+menus.xml
+models
+fields
+componentscategory.php
+menuitembytype.php
+menuordering.php
+menuparent.php
+menupreset.php
+menutype.php
+modal
+    menu.php
+forms
+filter_itemsadmin.xml
+filter_items.xml
+filter_menus.xml
+itemadmin_alias.xml
+itemadmin_component.xml
+itemadmin_container.xml
+itemadmin_heading.xml
+itemadmin_separator.xml
+itemadmin_url.xml
+itemadmin.xml
+item_alias.xml
+item_component.xml
+item_heading.xml
+item_separator.xml
+item_url.xml
+item.xml
+menu.xml
+item.php
+items.php
+menu.php
+menus.php
+menutypes.php
+presets
+joomla.xml
+menu.xsd
+modern.xml
+tables
+menu.php
+views
+    item
+    tmpl
+    edit_associations.php
+    edit_container.php
+    edit_modules.php
+    edit_options.php
+    edit.php
+    edit.xml
+    modal_associations.php
+    modal_options.php
+    modal.php
+    view.html.php
+    items
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    default.xml
+    modal.php
+    view.html.php
+    menu
+    tmpl
+    edit.php
+    edit.xml
+    view.html.php
+    view.xml.php
+    menus
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    menutypes
+        tmpl
+        default.php
+        view.html.php
+com_messages
+access.xml
+config.xml
+controller.php
+controllers
+config.php
+message.php
+messages.php
+helpers
+html
+messages.php
+messages.php
+messages.php
+messages.xml
+models
+config.php
+fields
+messagestates.php
+usermessages.php
+forms
+config.xml
+filter_messages.xml
+message.xml
+message.php
+messages.php
+tables
+message.php
+views
+    config
+    tmpl
+    default.php
+    view.html.php
+    message
+    tmpl
+    default.php
+    edit.php
+    view.html.php
+    messages
+        tmpl
+        default.php
+        view.html.php
+com_modules
+access.xml
+config.xml
+controller.php
+controllers
+module.php
+modules.php
+helpers
+html
+modules.php
+modules.php
+xml.php
+layouts
+toolbar
+    cancelselect.php
+    newmodule.php
+models
+fields
+modulesmodule.php
+modulesposition.php
+forms
+advanced.xml
+filter_modulesadmin.xml
+filter_modules.xml
+moduleadmin.xml
+module.xml
+module.php
+modules.php
+positions.php
+select.php
+modules.php
+modules.xml
+views
+    module
+    tmpl
+    edit_assignment.php
+    edit_options.php
+    edit.php
+    edit_positions.php
+    modal.php
+    view.html.php
+    view.json.php
+    modules
+    tmpl
+    default_batch_body.php
+    default_batch_footer.php
+    default.php
+    default.xml
+    modal.php
+    view.html.php
+    positions
+    tmpl
+    modal.php
+    view.html.php
+    preview
+    tmpl
+    default.php
+    view.html.php
+    select
+        tmpl
+        default.php
+        view.html.php
+com_newsfeeds
+access.xml
+config.xml
+controller.php
+controllers
+ajax.json.php
+newsfeed.php
+newsfeeds.php
+helpers
+associations.php
+html
+newsfeed.php
+newsfeeds.php
+models
+fields
+modal
+newsfeed.php
+newsfeeds.php
+forms
+filter_newsfeeds.xml
+newsfeed.xml
+newsfeed.php
+newsfeeds.php
+newsfeeds.php
+newsfeeds.xml
+sql
+install.mysql.utf8.sql
+uninstall.mysql.utf8.sql
+tables
+newsfeed.php
+views
+    newsfeed
+    tmpl
+    edit_associations.php
+    edit_display.php
+    edit_metadata.php
+    edit_params.php
+    edit.php
+    modal_associations.php
+    modal_display.php
+    modal_metadata.php
+    modal_params.php
+    modal.php
+    view.html.php
+    newsfeeds
+        tmpl
+        default_batch_body.php
+        default_batch_footer.php
+        default.php
+        modal.php
+        view.html.php
+com_plugins
+access.xml
+config.xml
+controller.php
+controllers
+plugin.php
+plugins.php
+helpers
+plugins.php
+models
+fields
+pluginelement.php
+pluginordering.php
+plugintype.php
+forms
+filter_plugins.xml
+plugin.xml
+plugin.php
+plugins.php
+plugins.php
+plugins.xml
+views
+    plugin
+    tmpl
+    edit_options.php
+    edit.php
+    modal.php
+    view.html.php
+    plugins
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_postinstall
+access.xml
+config.xml
+controllers
+message.php
+fof.xml
+models
+messages.php
+postinstall.php
+postinstall.xml
+toolbar.php
+views
+    messages
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_privacy
+config.xml
+controller.php
+controllers
+consents.php
+request.php
+requests.php
+request.xml.php
+helpers
+export
+domain.php
+field.php
+item.php
+html
+helper.php
+plugin.php
+privacy.php
+removal
+    status.php
+models
+capabilities.php
+consents.php
+dashboard.php
+export.php
+fields
+requeststatus.php
+requesttype.php
+forms
+filter_consents.xml
+filter_requests.xml
+request.xml
+remove.php
+request.php
+requests.php
+privacy.php
+privacy.xml
+tables
+consent.php
+request.php
+views
+    capabilities
+    tmpl
+    default.php
+    view.html.php
+    consents
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    dashboard
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    export
+    view.xml.php
+    request
+    tmpl
+    default.php
+    edit.php
+    view.html.php
+    requests
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_redirect
+access.xml
+config.xml
+controller.php
+controllers
+link.php
+links.php
+helpers
+html
+redirect.php
+redirect.php
+layouts
+toolbar
+    batch.php
+models
+fields
+redirect.php
+forms
+filter_links.xml
+link.xml
+link.php
+links.php
+redirect.php
+redirect.xml
+tables
+link.php
+views
+    link
+    tmpl
+    edit.php
+    view.html.php
+    links
+        tmpl
+        default_addform.php
+        default_batch_body.php
+        default_batch_footer.php
+        default.php
+        default.xml
+        view.html.php
+com_search
+access.xml
+config.xml
+controller.php
+controllers
+searches.php
+helpers
+search.php
+site.php
+models
+forms
+filter_searches.xml
+searches.php
+search.php
+search.xml
+views
+    searches
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_tags
+access.xml
+config.xml
+controller.php
+controllers
+tag.php
+tags.php
+helpers
+tags.php
+models
+forms
+filter_tags.xml
+tag.xml
+tag.php
+tags.php
+tables
+tag.php
+tags.php
+tags.xml
+views
+    tag
+    tmpl
+    edit_metadata.php
+    edit_options.php
+    edit.php
+    view.html.php
+    tags
+        tmpl
+        default_batch_body.php
+        default_batch_footer.php
+        default.php
+        default.xml
+        view.html.php
+com_templates
+access.xml
+config.xml
+controller.php
+controllers
+style.php
+styles.php
+template.php
+helpers
+html
+templates.php
+template.php
+templates.php
+models
+fields
+templatelocation.php
+templatename.php
+forms
+filter_styles.xml
+filter_templates.xml
+source.xml
+style_administrator.xml
+style_site.xml
+style.xml
+style.php
+styles.php
+template.php
+templates.php
+tables
+style.php
+templates.php
+templates.xml
+views
+    style
+    tmpl
+    edit_assignment.php
+    edit_options.php
+    edit.php
+    view.html.php
+    view.json.php
+    styles
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    template
+    tmpl
+    default_description.php
+    default_folders.php
+    default_modal_copy_body.php
+    default_modal_copy_footer.php
+    default_modal_delete_body.php
+    default_modal_delete_footer.php
+    default_modal_file_body.php
+    default_modal_file_footer.php
+    default_modal_folder_body.php
+    default_modal_folder_footer.php
+    default_modal_rename_body.php
+    default_modal_rename_footer.php
+    default_modal_resize_body.php
+    default_modal_resize_footer.php
+    default.php
+    default_tree.php
+    readonly.php
+    view.html.php
+    templates
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_users
+    access.xml
+    config.xml
+    controller.php
+    controllers
+    group.php
+    groups.php
+    level.php
+    levels.php
+    mail.php
+    note.php
+    notes.php
+    user.php
+    users.php
+    helpers
+    debug.php
+    html
+    users.php
+    users.php
+    models
+    debuggroup.php
+    debuguser.php
+    fields
+    groupparent.php
+    levels.php
+    forms
+    config_domain.xml
+    fields
+    user.xml
+    filter_debuggroup.xml
+    filter_debuguser.xml
+    filter_groups.xml
+    filter_levels.xml
+    filter_notes.xml
+    filter_users.xml
+    group.xml
+    level.xml
+    mail.xml
+    note.xml
+    user.xml
+    group.php
+    groups.php
+    level.php
+    levels.php
+    mail.php
+    note.php
+    notes.php
+    user.php
+    users.php
+    tables
+    note.php
+    users.php
+    users.xml
+    views
+        debuggroup
+        tmpl
+        default.php
+        view.html.php
+        debuguser
+        tmpl
+        default.php
+        view.html.php
+        group
+        tmpl
+        edit.php
+        edit.xml
+        view.html.php
+        groups
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+        level
+        tmpl
+        edit.php
+        edit.xml
+        view.html.php
+        levels
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+        mail
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+        note
+        tmpl
+        edit.php
+        edit.xml
+        view.html.php
+        notes
+        tmpl
+        default.php
+        default.xml
+        modal.php
+        view.html.php
+        user
+        tmpl
+        edit_groups.php
+        edit.php
+        edit.xml
+        view.html.php
+        users
+            tmpl
+            default_batch_body.php
+            default_batch_footer.php
+            default.php
+            default.xml
+            modal.php
+            view.html.php
+help
+en-GB
+toc.json
+helpsites.xml
+includes
+defines.php
+framework.php
+helper.php
+subtoolbar.php
+index.php
+language
+en-GB
+en-GB.com_actionlogs.ini
+en-GB.com_actionlogs.sys.ini
+en-GB.com_admin.ini
+en-GB.com_admin.sys.ini
+en-GB.com_ajax.ini
+en-GB.com_ajax.sys.ini
+en-GB.com_associations.ini
+en-GB.com_associations.sys.ini
+en-GB.com_banners.ini
+en-GB.com_banners.sys.ini
+en-GB.com_cache.ini
+en-GB.com_cache.sys.ini
+en-GB.com_categories.ini
+en-GB.com_categories.sys.ini
+en-GB.com_checkin.ini
+en-GB.com_checkin.sys.ini
+en-GB.com_config.ini
+en-GB.com_config.sys.ini
+en-GB.com_contact.ini
+en-GB.com_contact.sys.ini
+en-GB.com_contenthistory.ini
+en-GB.com_contenthistory.sys.ini
+en-GB.com_content.ini
+en-GB.com_content.sys.ini
+en-GB.com_cpanel.ini
+en-GB.com_cpanel.sys.ini
+en-GB.com_fields.ini
+en-GB.com_fields.sys.ini
+en-GB.com_finder.ini
+en-GB.com_finder.sys.ini
+en-GB.com_installer.ini
+en-GB.com_installer.sys.ini
+en-GB.com_joomlaupdate.ini
+en-GB.com_joomlaupdate.sys.ini
+en-GB.com_languages.ini
+en-GB.com_languages.sys.ini
+en-GB.com_login.ini
+en-GB.com_login.sys.ini
+en-GB.com_mailto.sys.ini
+en-GB.com_media.ini
+en-GB.com_media.sys.ini
+en-GB.com_menus.ini
+en-GB.com_menus.sys.ini
+en-GB.com_messages.ini
+en-GB.com_messages.sys.ini
+en-GB.com_modules.ini
+en-GB.com_modules.sys.ini
+en-GB.com_newsfeeds.ini
+en-GB.com_newsfeeds.sys.ini
+en-GB.com_plugins.ini
+en-GB.com_plugins.sys.ini
+en-GB.com_postinstall.ini
+en-GB.com_postinstall.sys.ini
+en-GB.com_privacy.ini
+en-GB.com_privacy.sys.ini
+en-GB.com_redirect.ini
+en-GB.com_redirect.sys.ini
+en-GB.com_search.ini
+en-GB.com_search.sys.ini
+en-GB.com_tags.ini
+en-GB.com_tags.sys.ini
+en-GB.com_templates.ini
+en-GB.com_templates.sys.ini
+en-GB.com_users.ini
+en-GB.com_users.sys.ini
+en-GB.com_weblinks.ini
+en-GB.com_weblinks.sys.ini
+en-GB.com_wrapper.ini
+en-GB.com_wrapper.sys.ini
+en-GB.ini
+en-GB.lib_joomla.ini
+en-GB.localise.php
+en-GB.mod_custom.ini
+en-GB.mod_custom.sys.ini
+en-GB.mod_feed.ini
+en-GB.mod_feed.sys.ini
+en-GB.mod_latestactions.ini
+en-GB.mod_latestactions.sys.ini
+en-GB.mod_latest.ini
+en-GB.mod_latest.sys.ini
+en-GB.mod_logged.ini
+en-GB.mod_logged.sys.ini
+en-GB.mod_login.ini
+en-GB.mod_login.sys.ini
+en-GB.mod_menu.ini
+en-GB.mod_menu.sys.ini
+en-GB.mod_multilangstatus.ini
+en-GB.mod_multilangstatus.sys.ini
+en-GB.mod_popular.ini
+en-GB.mod_popular.sys.ini
+en-GB.mod_privacy_dashboard.ini
+en-GB.mod_privacy_dashboard.sys.ini
+en-GB.mod_quickicon.ini
+en-GB.mod_quickicon.sys.ini
+en-GB.mod_sampledata.ini
+en-GB.mod_sampledata.sys.ini
+en-GB.mod_stats_admin.ini
+en-GB.mod_stats_admin.sys.ini
+en-GB.mod_status.ini
+en-GB.mod_status.sys.ini
+en-GB.mod_submenu.ini
+en-GB.mod_submenu.sys.ini
+en-GB.mod_title.ini
+en-GB.mod_title.sys.ini
+en-GB.mod_toolbar.ini
+en-GB.mod_toolbar.sys.ini
+en-GB.mod_version.ini
+en-GB.mod_version.sys.ini
+en-GB.plg_actionlog_joomla.ini
+en-GB.plg_actionlog_joomla.sys.ini
+en-GB.plg_authentication_cookie.ini
+en-GB.plg_authentication_cookie.sys.ini
+en-GB.plg_authentication_gmail.ini
+en-GB.plg_authentication_gmail.sys.ini
+en-GB.plg_authentication_joomla.ini
+en-GB.plg_authentication_joomla.sys.ini
+en-GB.plg_authentication_ldap.ini
+en-GB.plg_authentication_ldap.sys.ini
+en-GB.plg_captcha_recaptcha.ini
+en-GB.plg_captcha_recaptcha_invisible.ini
+en-GB.plg_captcha_recaptcha_invisible.sys.ini
+en-GB.plg_captcha_recaptcha.sys.ini
+en-GB.plg_content_confirmconsent.ini
+en-GB.plg_content_confirmconsent.sys.ini
+en-GB.plg_content_contact.ini
+en-GB.plg_content_contact.sys.ini
+en-GB.plg_content_emailcloak.ini
+en-GB.plg_content_emailcloak.sys.ini
+en-GB.plg_content_fields.ini
+en-GB.plg_content_fields.sys.ini
+en-GB.plg_content_finder.ini
+en-GB.plg_content_finder.sys.ini
+en-GB.plg_content_joomla.ini
+en-GB.plg_content_joomla.sys.ini
+en-GB.plg_content_loadmodule.ini
+en-GB.plg_content_loadmodule.sys.ini
+en-GB.plg_content_pagebreak.ini
+en-GB.plg_content_pagebreak.sys.ini
+en-GB.plg_content_pagenavigation.ini
+en-GB.plg_content_pagenavigation.sys.ini
+en-GB.plg_content_vote.ini
+en-GB.plg_content_vote.sys.ini
+en-GB.plg_editors_codemirror.ini
+en-GB.plg_editors_codemirror.sys.ini
+en-GB.plg_editors_none.ini
+en-GB.plg_editors_none.sys.ini
+en-GB.plg_editors_tinymce.ini
+en-GB.plg_editors_tinymce.sys.ini
+en-GB.plg_editors-xtd_article.ini
+en-GB.plg_editors-xtd_article.sys.ini
+en-GB.plg_editors-xtd_contact.ini
+en-GB.plg_editors-xtd_contact.sys.ini
+en-GB.plg_editors-xtd_fields.ini
+en-GB.plg_editors-xtd_fields.sys.ini
+en-GB.plg_editors-xtd_image.ini
+en-GB.plg_editors-xtd_image.sys.ini
+en-GB.plg_editors-xtd_menu.ini
+en-GB.plg_editors-xtd_menu.sys.ini
+en-GB.plg_editors-xtd_module.ini
+en-GB.plg_editors-xtd_module.sys.ini
+en-GB.plg_editors-xtd_pagebreak.ini
+en-GB.plg_editors-xtd_pagebreak.sys.ini
+en-GB.plg_editors-xtd_readmore.ini
+en-GB.plg_editors-xtd_readmore.sys.ini
+en-GB.plg_extension_joomla.ini
+en-GB.plg_extension_joomla.sys.ini
+en-GB.plg_fields_calendar.ini
+en-GB.plg_fields_calendar.sys.ini
+en-GB.plg_fields_checkboxes.ini
+en-GB.plg_fields_checkboxes.sys.ini
+en-GB.plg_fields_color.ini
+en-GB.plg_fields_color.sys.ini
+en-GB.plg_fields_editor.ini
+en-GB.plg_fields_editor.sys.ini
+en-GB.plg_fields_image.ini
+en-GB.plg_fields_imagelist.ini
+en-GB.plg_fields_imagelist.sys.ini
+en-GB.plg_fields_image.sys.ini
+en-GB.plg_fields_integer.ini
+en-GB.plg_fields_integer.sys.ini
+en-GB.plg_fields_list.ini
+en-GB.plg_fields_list.sys.ini
+en-GB.plg_fields_media.ini
+en-GB.plg_fields_media.sys.ini
+en-GB.plg_fields_radio.ini
+en-GB.plg_fields_radio.sys.ini
+en-GB.plg_fields_repeatable.ini
+en-GB.plg_fields_repeatable.sys.ini
+en-GB.plg_fields_sql.ini
+en-GB.plg_fields_sql.sys.ini
+en-GB.plg_fields_textarea.ini
+en-GB.plg_fields_textarea.sys.ini
+en-GB.plg_fields_text.ini
+en-GB.plg_fields_text.sys.ini
+en-GB.plg_fields_url.ini
+en-GB.plg_fields_url.sys.ini
+en-GB.plg_fields_usergrouplist.ini
+en-GB.plg_fields_usergrouplist.sys.ini
+en-GB.plg_fields_user.ini
+en-GB.plg_fields_user.sys.ini
+en-GB.plg_finder_categories.ini
+en-GB.plg_finder_categories.sys.ini
+en-GB.plg_finder_contacts.ini
+en-GB.plg_finder_contacts.sys.ini
+en-GB.plg_finder_content.ini
+en-GB.plg_finder_content.sys.ini
+en-GB.plg_finder_newsfeeds.ini
+en-GB.plg_finder_newsfeeds.sys.ini
+en-GB.plg_finder_tags.ini
+en-GB.plg_finder_tags.sys.ini
+en-GB.plg_finder_weblinks.ini
+en-GB.plg_finder_weblinks.sys.ini
+en-GB.plg_installer_folderinstaller.ini
+en-GB.plg_installer_folderinstaller.sys.ini
+en-GB.plg_installer_packageinstaller.ini
+en-GB.plg_installer_packageinstaller.sys.ini
+en-GB.plg_installer_urlinstaller.ini
+en-GB.plg_installer_urlinstaller.sys.ini
+en-GB.plg_installer_webinstaller.ini
+en-GB.plg_installer_webinstaller.sys.ini
+en-GB.plg_privacy_actionlogs.ini
+en-GB.plg_privacy_actionlogs.sys.ini
+en-GB.plg_privacy_consents.ini
+en-GB.plg_privacy_consents.sys.ini
+en-GB.plg_privacy_contact.ini
+en-GB.plg_privacy_contact.sys.ini
+en-GB.plg_privacy_content.ini
+en-GB.plg_privacy_content.sys.ini
+en-GB.plg_privacy_message.ini
+en-GB.plg_privacy_message.sys.ini
+en-GB.plg_privacy_user.ini
+en-GB.plg_privacy_user.sys.ini
+en-GB.plg_quickicon_extensionupdate.ini
+en-GB.plg_quickicon_extensionupdate.sys.ini
+en-GB.plg_quickicon_joomlaupdate.ini
+en-GB.plg_quickicon_joomlaupdate.sys.ini
+en-GB.plg_quickicon_phpversioncheck.ini
+en-GB.plg_quickicon_phpversioncheck.sys.ini
+en-GB.plg_quickicon_privacycheck.ini
+en-GB.plg_quickicon_privacycheck.sys.ini
+en-GB.plg_sampledata_blog.ini
+en-GB.plg_sampledata_blog.sys.ini
+en-GB.plg_search_categories.ini
+en-GB.plg_search_categories.sys.ini
+en-GB.plg_search_contacts.ini
+en-GB.plg_search_contacts.sys.ini
+en-GB.plg_search_content.ini
+en-GB.plg_search_content.sys.ini
+en-GB.plg_search_newsfeeds.ini
+en-GB.plg_search_newsfeeds.sys.ini
+en-GB.plg_search_tags.ini
+en-GB.plg_search_tags.sys.ini
+en-GB.plg_search_weblinks.ini
+en-GB.plg_search_weblinks.sys.ini
+en-GB.plg_system_actionlogs.ini
+en-GB.plg_system_actionlogs.sys.ini
+en-GB.plg_system_cache.ini
+en-GB.plg_system_cache.sys.ini
+en-GB.plg_system_debug.ini
+en-GB.plg_system_debug.sys.ini
+en-GB.plg_system_fields.ini
+en-GB.plg_system_fields.sys.ini
+en-GB.plg_system_highlight.ini
+en-GB.plg_system_highlight.sys.ini
+en-GB.plg_system_languagecode.ini
+en-GB.plg_system_languagecode.sys.ini
+en-GB.plg_system_languagefilter.ini
+en-GB.plg_system_languagefilter.sys.ini
+en-GB.plg_system_log.ini
+en-GB.plg_system_logout.ini
+en-GB.plg_system_logout.sys.ini
+en-GB.plg_system_logrotation.ini
+en-GB.plg_system_logrotation.sys.ini
+en-GB.plg_system_log.sys.ini
+en-GB.plg_system_p3p.ini
+en-GB.plg_system_p3p.sys.ini
+en-GB.plg_system_privacyconsent.ini
+en-GB.plg_system_privacyconsent.sys.ini
+en-GB.plg_system_redirect.ini
+en-GB.plg_system_redirect.sys.ini
+en-GB.plg_system_remember.ini
+en-GB.plg_system_remember.sys.ini
+en-GB.plg_system_sef.ini
+en-GB.plg_system_sef.sys.ini
+en-GB.plg_system_sessiongc.ini
+en-GB.plg_system_sessiongc.sys.ini
+en-GB.plg_system_stats.ini
+en-GB.plg_system_stats.sys.ini
+en-GB.plg_system_updatenotification.ini
+en-GB.plg_system_updatenotification.sys.ini
+en-GB.plg_twofactorauth_totp.ini
+en-GB.plg_twofactorauth_totp.sys.ini
+en-GB.plg_twofactorauth_yubikey.ini
+en-GB.plg_twofactorauth_yubikey.sys.ini
+en-GB.plg_user_contactcreator.ini
+en-GB.plg_user_contactcreator.sys.ini
+en-GB.plg_user_joomla.ini
+en-GB.plg_user_joomla.sys.ini
+en-GB.plg_user_profile.ini
+en-GB.plg_user_profile.sys.ini
+en-GB.plg_user_terms.ini
+en-GB.plg_user_terms.sys.ini
+en-GB.tpl_hathor.ini
+en-GB.tpl_hathor.sys.ini
+en-GB.tpl_isis.ini
+en-GB.tpl_isis.sys.ini
+en-GB.xml
+install.xml
+overrides
+    index.html
+logs
+index.html
+manifests
+files
+joomla.xml
+libraries
+fof.xml
+idna_convert.xml
+joomla.xml
+phpass.xml
+phputf8.xml
+packages
+    index.html
+    pkg_en-GB.xml
+    pkg_weblinks.xml
+modules
+mod_custom
+mod_custom.php
+mod_custom.xml
+tmpl
+    default.php
+mod_feed
+helper.php
+mod_feed.php
+mod_feed.xml
+tmpl
+    default.php
+mod_latest
+helper.php
+mod_latest.php
+mod_latest.xml
+tmpl
+    default.php
+mod_latestactions
+helper.php
+mod_latestactions.php
+mod_latestactions.xml
+tmpl
+    default.php
+mod_logged
+helper.php
+mod_logged.php
+mod_logged.xml
+tmpl
+    default.php
+mod_login
+helper.php
+mod_login.php
+mod_login.xml
+tmpl
+    default.php
+mod_menu
+helper.php
+menu.php
+mod_menu.php
+mod_menu.xml
+tmpl
+    default.php
+    default_submenu.php
+mod_multilangstatus
+language
+en-GB
+    en-GB.mod_multilangstatus.ini
+    en-GB.mod_multilangstatus.sys.ini
+mod_multilangstatus.php
+mod_multilangstatus.xml
+tmpl
+    default.php
+mod_popular
+helper.php
+mod_popular.php
+mod_popular.xml
+tmpl
+    default.php
+mod_privacy_dashboard
+helper.php
+mod_privacy_dashboard.php
+mod_privacy_dashboard.xml
+tmpl
+    default.php
+mod_quickicon
+helper.php
+mod_quickicon.php
+mod_quickicon.xml
+tmpl
+    default.php
+mod_sampledata
+helper.php
+mod_sampledata.php
+mod_sampledata.xml
+tmpl
+    default.php
+mod_stats_admin
+helper.php
+language
+en-GB.mod_stats_admin.ini
+en-GB.mod_stats_admin.sys.ini
+mod_stats_admin.php
+mod_stats_admin.xml
+tmpl
+    default.php
+mod_status
+mod_status.php
+mod_status.xml
+tmpl
+    default.php
+mod_submenu
+mod_submenu.php
+mod_submenu.xml
+tmpl
+    default.php
+mod_title
+mod_title.php
+mod_title.xml
+tmpl
+    default.php
+mod_toolbar
+mod_toolbar.php
+mod_toolbar.xml
+tmpl
+    default.php
+mod_version
+    helper.php
+    language
+    en-GB
+        en-GB.mod_version.ini
+        en-GB.mod_version.sys.ini
+    mod_version.php
+    mod_version.xml
+    tmpl
+        default.php
+templates
+    hathor
+    component.php
+    cpanel.php
+    css
+    boldtext.css
+    colour_blue.css
+    colour_blue_rtl.css
+    colour_brown.css
+    colour_brown_rtl.css
+    colour_highcontrast.css
+    colour_highcontrast_rtl.css
+    colour_standard.css
+    colour_standard_rtl.css
+    error.css
+    ie7.css
+    ie8.css
+    template.css
+    template_rtl.css
+    theme.css
+    error.php
+    favicon.ico
+    html
+    com_admin
+    help
+    default.php
+    profile
+    edit.php
+    sysinfo
+        default_config.php
+        default_directory.php
+        default_navigation.php
+        default.php
+        default_phpsettings.php
+        default_system.php
+    com_associations
+    associations
+        default.php
+    com_banners
+    banner
+    edit.php
+    banners
+    default.php
+    client
+    edit.php
+    clients
+    default.php
+    download
+    default.php
+    tracks
+        default.php
+    com_cache
+    cache
+    default.php
+    purge
+        default.php
+    com_categories
+    categories
+    default.php
+    category
+        edit_options.php
+        edit.php
+    com_checkin
+    checkin
+        default.php
+    com_config
+    application
+    default_cache.php
+    default_cookie.php
+    default_database.php
+    default_debug.php
+    default_filters.php
+    default_ftplogin.php
+    default_ftp.php
+    default_locale.php
+    default_mail.php
+    default_metadata.php
+    default_navigation.php
+    default_permissions.php
+    default.php
+    default_seo.php
+    default_server.php
+    default_session.php
+    default_site.php
+    default_system.php
+    component
+        default.php
+    com_contact
+    contact
+    edit_params.php
+    edit.php
+    contacts
+        default.php
+        modal.php
+    com_content
+    article
+    edit.php
+    articles
+    default.php
+    modal.php
+    featured
+        default.php
+    com_contenthistory
+    history
+        modal.php
+    com_cpanel
+    cpanel
+        default.php
+    com_fields
+    field
+    edit.php
+    fields
+    default.php
+    group
+    edit.php
+    groups
+        default.php
+    com_finder
+    filters
+    default.php
+    index
+    default.php
+    maps
+        default.php
+    com_installer
+    database
+    default.php
+    default
+    default_ftp.php
+    discover
+    default.php
+    install
+    default_form.php
+    default.php
+    languages
+    default_filter.php
+    default.php
+    manage
+    default_filter.php
+    default.php
+    update
+    default.php
+    warnings
+        default.php
+    com_joomlaupdate
+    default
+        default.php
+    com_languages
+    installed
+    default_ftp.php
+    default.php
+    languages
+    default.php
+    overrides
+        default.php
+    com_menus
+    item
+    edit_options.php
+    edit.php
+    items
+    default.php
+    menu
+    edit.php
+    menus
+    default.php
+    menutypes
+        default.php
+    com_messages
+    message
+    edit.php
+    messages
+        default.php
+    com_modules
+    module
+    edit_assignment.php
+    edit_options.php
+    edit.php
+    modules
+    default.php
+    positions
+        modal.php
+    com_newsfeeds
+    newsfeed
+    edit_params.php
+    edit.php
+    newsfeeds
+        default.php
+        modal.php
+    com_plugins
+    plugin
+    edit_options.php
+    edit.php
+    plugins
+        default.php
+    com_postinstall
+    messages
+        default.php
+    com_redirect
+    links
+        default.php
+    com_search
+    searches
+        default.php
+    com_tags
+    tag
+    edit_metadata.php
+    edit_options.php
+    edit.php
+    tags
+        default.php
+    com_templates
+    style
+    edit_assignment.php
+    edit_options.php
+    edit.php
+    styles
+    default.php
+    template
+    default_description.php
+    default_folders.php
+    default.php
+    default_tree.php
+    templates
+        default.php
+    com_users
+    debuggroup
+    default.php
+    debuguser
+    default.php
+    groups
+    default.php
+    levels
+    default.php
+    note
+    edit.php
+    notes
+    default.php
+    user
+    edit.php
+    users
+        default.php
+        modal.php
+    com_weblinks
+    weblink
+    edit_params.php
+    edit.php
+    weblinks
+        default.php
+    layouts
+    com_media
+    toolbar
+        deletemedia.php
+        newfolder.php
+        uploadmedia.php
+    com_messages
+    toolbar
+        mysettings.php
+    com_modules
+    toolbar
+        cancelselect.php
+        newmodule.php
+    joomla
+    edit
+    details.php
+    fieldset.php
+    global.php
+    metadata.php
+    params.php
+    quickicons
+    icon.php
+    sidebars
+    submenu.php
+    toolbar
+        base.php
+        batch.php
+        confirm.php
+        containerclose.php
+        containeropen.php
+        help.php
+        iconclass.php
+        link.php
+        modal.php
+        popup.php
+        separator.php
+        slider.php
+        standard.php
+        title.php
+        versions.php
+    plugins
+        user
+            profile
+                fields
+                    dob.php
+    mod_login
+    default.php
+    mod_quickicon
+    default.php
+    modules.php
+    pagination.php
+    images
+    admin
+    blank.png
+    checked_out.png
+    collapseall.png
+    disabled.png
+    downarrow0.png
+    downarrow-1.png
+    downarrow.png
+    expandall.png
+    featured.png
+    filesave.png
+    filter_16.png
+    icon-16-allowinactive.png
+    icon-16-allow.png
+    icon-16-denyinactive.png
+    icon-16-deny.png
+    icon-16-links.png
+    icon-16-notice-note.png
+    icon-16-protected.png
+    menu_divider.png
+    note_add_16.png
+    publish_g.png
+    publish_r.png
+    publish_x.png
+    publish_y.png
+    sort_asc.png
+    sort_desc.png
+    tick.png
+    trash.png
+    uparrow0.png
+    uparrow-1.png
+    uparrow.png
+    arrow.png
+    bg-menu.gif
+    calendar.png
+    header
+    icon-48-alert.png
+    icon-48-apply.png
+    icon-48-archive.png
+    icon-48-article-add.png
+    icon-48-article-edit.png
+    icon-48-article.png
+    icon-48-assoc.png
+    icon-48-banner-categories.png
+    icon-48-banner-client.png
+    icon-48-banner.png
+    icon-48-banner-tracks.png
+    icon-48-calendar.png
+    icon-48-category-add.png
+    icon-48-category.png
+    icon-48-checkin.png
+    icon-48-clear.png
+    icon-48-component.png
+    icon-48-config.png
+    icon-48-contacts-categories.png
+    icon-48-contacts.png
+    icon-48-content.png
+    icon-48-cpanel.png
+    icon-48-default.png
+    icon-48-deny.png
+    icon-48-download.png
+    icon-48-edit.png
+    icon-48-extension.png
+    icon-48-featured.png
+    icon-48-frontpage.png
+    icon-48-generic.png
+    icon-48-groups-add.png
+    icon-48-groups.png
+    icon-48-help-forum.png
+    icon-48-help_header.png
+    icon-48-help-this.png
+    icon-48-inbox.png
+    icon-48-info.png
+    icon-48-install.png
+    icon-48-jupdate-updatefound.png
+    icon-48-jupdate-uptodate.png
+    icon-48-language.png
+    icon-48-levels-add.png
+    icon-48-levels.png
+    icon-48-links-cat.png
+    icon-48-links.png
+    icon-48-massmail.png
+    icon-48-media.png
+    icon-48-menu-add.png
+    icon-48-menumgr.png
+    icon-48-menu.png
+    icon-48-module.png
+    icon-48-move.png
+    icon-48-newcategory.png
+    icon-48-new-privatemessage.png
+    icon-48-newsfeeds-cat.png
+    icon-48-newsfeeds.png
+    icon-48-notice.png
+    icon-48-plugin.png
+    icon-48-preview.png
+    icon-48-print.png
+    icon-48-purge.png
+    icon-48-puzzle.png
+    icon-48-readmess.png
+    icon-48-read-privatemessage.png
+    icon-48-redirect.png
+    icon-48-revert.png
+    icon-48-search.png
+    icon-48-section.png
+    icon-48-send.png
+    icon-48-static.png
+    icon-48-stats.png
+    icon-48-tags.png
+    icon-48-themes.png
+    icon-48-trash.png
+    icon-48-unarchive.png
+    icon-48-upload.png
+    icon-48-user-add.png
+    icon-48-user-edit.png
+    icon-48-user.png
+    icon-48-user-profile.png
+    icon-48-writemess.png
+    icon-messaging.png
+    j_arrow_down.png
+    j_arrow_left.png
+    j_arrow.png
+    j_arrow_right.png
+    j_login_lock.png
+    j_logo.png
+    logo.png
+    menu
+    icon-16-alert.png
+    icon-16-apply.png
+    icon-16-archive.png
+    icon-16-article.png
+    icon-16-assoc.png
+    icon-16-back-user.png
+    icon-16-banner-categories.png
+    icon-16-banner-client.png
+    icon-16-banner.png
+    icon-16-banner-tracks.png
+    icon-16-calendar.png
+    icon-16-category.png
+    icon-16-checkin.png
+    icon-16-clear.png
+    icon-16-component.png
+    icon-16-config.png
+    icon-16-contacts-categories.png
+    icon-16-contacts.png
+    icon-16-content.png
+    icon-16-cpanel.png
+    icon-16-default.png
+    icon-16-delete.png
+    icon-16-deny.png
+    icon-16-download.png
+    icon-16-edit.png
+    icon-16-featured.png
+    icon-16-frontpage.png
+    icon-16-generic.png
+    icon-16-groups.png
+    icon-16-help-community.png
+    icon-16-help-dev.png
+    icon-16-help-docs.png
+    icon-16-help-forum.png
+    icon-16-help-jed.png
+    icon-16-help-jrd.png
+    icon-16-help.png
+    icon-16-help-security.png
+    icon-16-help-shop.png
+    icon-16-help-this.png
+    icon-16-help-trans.png
+    icon-16-inbox.png
+    icon-16-info.png
+    icon-16-install.png
+    icon-16-language.png
+    icon-16-levels.png
+    icon-16-links-cat.png
+    icon-16-links.png
+    icon-16-logout.png
+    icon-16-maintenance.png
+    icon-16-massmail.png
+    icon-16-media.png
+    icon-16-menumgr.png
+    icon-16-menu.png
+    icon-16-messages.png
+    icon-16-messaging.png
+    icon-16-module.png
+    icon-16-move.png
+    icon-16-newarticle.png
+    icon-16-newcategory.png
+    icon-16-newgroup.png
+    icon-16-newlevel.png
+    icon-16-new.png
+    icon-16-new-privatemessage.png
+    icon-16-newsfeeds-cat.png
+    icon-16-newsfeeds.png
+    icon-16-newuser.png
+    icon-16-nopreview.png
+    icon-16-notdefault.png
+    icon-16-notice.png
+    icon-16-plugin.png
+    icon-16-preview.png
+    icon-16-print.png
+    icon-16-purge.png
+    icon-16-puzzle.png
+    icon-16-readmess.png
+    icon-16-read-privatemessage.png
+    icon-16-redirect.png
+    icon-16-revert.png
+    icon-16-search.png
+    icon-16-send.png
+    icon-16-stats.png
+    icon-16-tags.png
+    icon-16-themes.png
+    icon-16-trash.png
+    icon-16-unarticle.png
+    icon-16-upload.png
+    icon-16-user-dd.png
+    icon-16-user-note.png
+    icon-16-user.png
+    icon-16-viewsite.png
+    icon-16-writemess.png
+    mini_icon.png
+    notice-alert.png
+    notice-info.png
+    notice-note.png
+    required.png
+    selector-arrow-hc.png
+    selector-arrow.png
+    selector-arrow-rtl.png
+    selector-arrow-std.png
+    system
+    calendar.png
+    selector-arrow.png
+    toolbar
+        icon-32-adduser.png
+        icon-32-alert.png
+        icon-32-apply.png
+        icon-32-archive.png
+        icon-32-article-add.png
+        icon-32-article.png
+        icon-32-back.png
+        icon-32-banner-categories.png
+        icon-32-banner-client.png
+        icon-32-banner.png
+        icon-32-banner-tracks.png
+        icon-32-batch.png
+        icon-32-calendar.png
+        icon-32-cancel.png
+        icon-32-checkin.png
+        icon-32-cog.png
+        icon-32-component.png
+        icon-32-config.png
+        icon-32-contacts-categories.png
+        icon-32-contacts.png
+        icon-32-copy.png
+        icon-32-css.png
+        icon-32-default.png
+        icon-32-delete.png
+        icon-32-delete-style.png
+        icon-32-deny.png
+        icon-32-download.png
+        icon-32-edit.png
+        icon-32-error.png
+        icon-32-export.png
+        icon-32-extension.png
+        icon-32-featured.png
+        icon-32-forward.png
+        icon-32-help.png
+        icon-32-html.png
+        icon-32-inbox.png
+        icon-32-info.png
+        icon-32-links.png
+        icon-32-lock.png
+        icon-32-menu.png
+        icon-32-messaging.png
+        icon-32-messanging.png
+        icon-32-module.png
+        icon-32-move.png
+        icon-32-new.png
+        icon-32-new-privatemessage.png
+        icon-32-new-style.png
+        icon-32-notice.png
+        icon-32-preview.png
+        icon-32-print.png
+        icon-32-publish.png
+        icon-32-purge.png
+        icon-32-read-privatemessage.png
+        icon-32-refresh.png
+        icon-32-remove.png
+        icon-32-revert.png
+        icon-32-save-copy.png
+        icon-32-save-new.png
+        icon-32-save.png
+        icon-32-search.png
+        icon-32-send.png
+        icon-32-stats.png
+        icon-32-trash.png
+        icon-32-unarchive.png
+        icon-32-unblock.png
+        icon-32-unpublish.png
+        icon-32-upload.png
+        icon-32-user-add.png
+        icon-32-xml.png
+    index.php
+    js
+    template.js
+    language
+    en-GB
+        en-GB.tpl_hathor.ini
+        en-GB.tpl_hathor.sys.ini
+    less
+    buttons.less
+    colour_baseline.less
+    colour_blue.less
+    colour_brown.less
+    colour_standard.less
+    forms.less
+    hathor_variables.less
+    icomoon.less
+    modals.less
+    template.less
+    variables.less
+    LICENSE.txt
+    login.php
+    postinstall
+    hathormessage.php
+    templateDetails.xml
+    template_preview.png
+    template_thumbnail.png
+    isis
+    component.php
+    cpanel.php
+    css
+    template.css
+    template-rtl.css
+    error.php
+    favicon.ico
+    html
+    com_media
+    imageslist
+    default_folder.php
+    default_image.php
+    medialist
+        thumbs_folders.php
+        thumbs_imgs.php
+    editor_content.css
+    layouts
+    joomla
+        form
+        field
+            media.php
+            user.php
+        pagination
+        link.php
+        links.php
+        system
+        message.php
+        toolbar
+            versions.php
+    modules.php
+    mod_version
+    default.php
+    pagination.php
+    images
+    admin
+    blank.png
+    checked_out.png
+    collapseall.png
+    disabled.png
+    downarrow0.png
+    downarrow-1.png
+    downarrow.png
+    expandall.png
+    featured.png
+    filesave.png
+    filter_16.png
+    icon-16-add.png
+    icon-16-allowinactive.png
+    icon-16-allow.png
+    icon-16-denyinactive.png
+    icon-16-deny.png
+    icon-16-links.png
+    icon-16-notice-note.png
+    icon-16-protected.png
+    menu_divider.png
+    note_add_16.png
+    publish_g.png
+    publish_r.png
+    publish_x.png
+    publish_y.png
+    sort_asc.png
+    sort_desc.png
+    tick.png
+    trash.png
+    uparrow0.png
+    uparrow-1.png
+    uparrow.png
+    emailButton.png
+    joomla.png
+    login-joomla-inverse.png
+    login-joomla.png
+    logo-inverse.png
+    logo.png
+    pdf_button.png
+    printButton.png
+    system
+        sort_asc.png
+        sort_desc.png
+    img
+    glyphicons-halflings.png
+    glyphicons-halflings-white.png
+    index.php
+    js
+    application.js
+    classes.js
+    template.js
+    language
+    en-GB
+        en-GB.tpl_isis.ini
+        en-GB.tpl_isis.sys.ini
+    less
+    blocks
+    _chzn-override.less
+    _custom.less
+    _editors.less
+    _forms.less
+    _global.less
+    _header.less
+    _login.less
+    _media.less
+    _modals.less
+    _navbar.less
+    _quickicons.less
+    _sidebar.less
+    _status.less
+    _tables.less
+    _toolbar.less
+    _treeselect.less
+    _utility-classes.less
+    bootstrap
+    button-groups.less
+    buttons.less
+    mixins.less
+    responsive-1200px-min.less
+    responsive-768px-979px.less
+    wells.less
+    icomoon.less
+    pages
+    _com_cpanel.less
+    _com_postinstall.less
+    _com_privacy.less
+    _com_templates.less
+    template.less
+    template-rtl.less
+    variables.less
+    login.php
+    templateDetails.xml
+    template_preview.png
+    template_thumbnail.png
+    system
+        component.php
+        css
+        error.css
+        system.css
+        error.php
+        html
+        modules.php
+        images
+        calendar.png
+        index.php
+appveyor-phpunit.xml
+bin
+index.html
+keychain.php
+build
+bootstrap
+js
+bootstrap-affix.js
+bootstrap-alert.js
+bootstrap-button.js
+bootstrap-carousel.js
+bootstrap-collapse-joomla.js
+bootstrap-collapse.js
+bootstrap-dropdown-joomla.js
+bootstrap-dropdown.js
+bootstrap-modal.js
+bootstrap-popover.js
+bootstrap-scrollspy.js
+bootstrap-tab.js
+bootstrap-tooltip-joomla.js
+bootstrap-tooltip.js
+bootstrap-transition.js
+bootstrap-typeahead.js
+Makefile
+build.php
+bump.php
+deleted_file_check.php
+generatecss.php
+helpTOC.php
+indexmaker.php
+jenkins
+docker-compose.yml
+unit-tests.sh
+less
+bootstrap-extended.less
+bootstrap-rtl.less
+phpcs
+Joomla
+    ruleset.xml
+    Sniffs
+        Classes
+        InstantiateNewClassesSniff.php
+        MemberVarScopeSniff.php
+        MethodScopeSniff.php
+        Commenting
+        ClassCommentSniff.php
+        FileCommentSniff.php
+        FunctionCommentSniff.php
+        SingleCommentSniff.php
+        ControlStructures
+        ControlSignatureSniff.php
+        InlineControlStructureSniff.php
+        MultiLineConditionSniff.php
+        Functions
+        FunctionCallSignatureSniff.php
+        FunctionDeclarationSniff.php
+        WhiteSpace
+            ConcatenationSpacingSniff.php
+            MemberVarSpacingSniff.php
+            ObjectOperatorIndentSniff.php
+            SpaceAfterCastSniff.php
+phpmd.xml
+stubGenerator.php
+travis
+    apache2
+    php-apache
+    codeception-tests.sh
+    javascript-tests.sh
+    php-apache.sh
+    phpenv
+    apc-5.3.ini
+    apc-5.4.ini
+    apcu-5.5.ini
+    apcu-5.6.ini
+    apcu-7.0.ini
+    apcu-7.1.ini
+    apcu-7.2.ini
+    apcu-7.3.ini
+    apcu-7.4.ini
+    memcached.ini
+    memcache.ini
+    redis.ini
+    unit-tests.sh
+build.xml
+cache
+index.html
+cli
+deletefiles.php
+finder_indexer.php
+garbagecron.php
+index.html
+sessionGc.php
+sessionMetadataGc.php
+update_cron.php
+codeception.yml
+CODE_OF_CONDUCT.md
+components
+com_ajax
+ajax.php
+com_banners
+banners.php
+controller.php
+helpers
+banner.php
+category.php
+models
+banner.php
+banners.php
+router.php
+com_config
+config.php
+controller
+canceladmin.php
+cancel.php
+cmsbase.php
+config
+display.php
+save.php
+display.php
+helper.php
+modules
+cancel.php
+display.php
+save.php
+templates
+    display.php
+    save.php
+model
+cms.php
+config.php
+form
+config.xml
+modules_advanced.xml
+modules.xml
+templates.xml
+form.php
+modules.php
+templates.php
+view
+    cms
+    html.php
+    json.php
+    config
+    html.php
+    tmpl
+        default_metadata.php
+        default.php
+        default_seo.php
+        default_site.php
+        default.xml
+    modules
+    html.php
+    tmpl
+        default_options.php
+        default.php
+        default_positions.php
+    templates
+        html.php
+        tmpl
+            default_options.php
+            default.php
+            default.xml
+com_contact
+contact.php
+controller.php
+controllers
+contact.php
+helpers
+association.php
+category.php
+legacyrouter.php
+route.php
+layouts
+field
+render.php
+fields
+render.php
+joomla
+    form
+        renderfield.php
+models
+categories.php
+category.php
+contact.php
+featured.php
+forms
+contact.xml
+filter_contacts.xml
+form.xml
+rules
+    contactemailmessage.php
+    contactemail.php
+    contactemailsubject.php
+router.php
+views
+    categories
+    tmpl
+    default_items.php
+    default.php
+    default.xml
+    view.html.php
+    category
+    tmpl
+    default_children.php
+    default_items.php
+    default.php
+    default.xml
+    view.feed.php
+    view.html.php
+    contact
+    tmpl
+    default_address.php
+    default_articles.php
+    default_form.php
+    default_links.php
+    default.php
+    default_profile.php
+    default_user_custom_fields.php
+    default.xml
+    view.html.php
+    view.vcf.php
+    featured
+        tmpl
+        default_items.php
+        default.php
+        default.xml
+        view.html.php
+com_content
+content.php
+controller.php
+controllers
+article.php
+helpers
+association.php
+category.php
+icon.php
+legacyrouter.php
+query.php
+route.php
+models
+archive.php
+article.php
+articles.php
+categories.php
+category.php
+featured.php
+form.php
+forms
+    article.xml
+    filter_articles.xml
+router.php
+views
+    archive
+    tmpl
+    default_items.php
+    default.php
+    default.xml
+    view.html.php
+    article
+    tmpl
+    default_links.php
+    default.php
+    default.xml
+    view.html.php
+    categories
+    tmpl
+    default_items.php
+    default.php
+    default.xml
+    view.html.php
+    category
+    tmpl
+    blog_children.php
+    blog_item.php
+    blog_links.php
+    blog.php
+    blog.xml
+    default_articles.php
+    default_children.php
+    default.php
+    default.xml
+    view.feed.php
+    view.html.php
+    featured
+    tmpl
+    default_item.php
+    default_links.php
+    default.php
+    default.xml
+    view.feed.php
+    view.html.php
+    form
+        tmpl
+        edit.php
+        edit.xml
+        view.html.php
+com_contenthistory
+contenthistory.php
+com_fields
+controller.php
+fields.php
+layouts
+field
+render.php
+fields
+    render.php
+models
+    forms
+        filter_fields.xml
+com_finder
+controller.php
+controllers
+suggestions.json.php
+finder.php
+helpers
+html
+filter.php
+query.php
+route.php
+models
+search.php
+suggestions.php
+router.php
+views
+    search
+        tmpl
+        default_form.php
+        default.php
+        default_result.php
+        default_results.php
+        default.xml
+        view.feed.php
+        view.html.php
+        view.opensearch.php
+com_mailto
+controller.php
+helpers
+mailto.php
+mailto.php
+mailto.xml
+models
+forms
+mailto.xml
+mailto.php
+views
+    mailto
+    tmpl
+    default.php
+    view.html.php
+    sent
+        tmpl
+        default.php
+        view.html.php
+com_media
+media.php
+com_menus
+controller.php
+menus.php
+models
+    forms
+        filter_items.xml
+com_modules
+controller.php
+models
+forms
+    filter_modules.xml
+modules.php
+com_newsfeeds
+controller.php
+helpers
+association.php
+category.php
+legacyrouter.php
+route.php
+models
+categories.php
+category.php
+newsfeed.php
+newsfeeds.php
+router.php
+views
+    categories
+    tmpl
+    default_items.php
+    default.php
+    default.xml
+    view.html.php
+    category
+    tmpl
+    default_children.php
+    default_items.php
+    default.php
+    default.xml
+    view.html.php
+    newsfeed
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_privacy
+controller.php
+controllers
+request.php
+models
+confirm.php
+forms
+confirm.xml
+remind.xml
+request.xml
+remind.php
+request.php
+privacy.php
+router.php
+views
+    confirm
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    remind
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    request
+        tmpl
+        default.php
+        default.xml
+        view.html.php
+com_search
+controller.php
+models
+search.php
+router.php
+search.php
+views
+    search
+        tmpl
+        default_error.php
+        default_form.php
+        default.php
+        default_results.php
+        default.xml
+        view.html.php
+        view.opensearch.php
+com_tags
+controller.php
+controllers
+tags.php
+helpers
+route.php
+models
+tag.php
+tags.php
+router.php
+tags.php
+views
+    tag
+    tmpl
+    default_items.php
+    default.php
+    default.xml
+    list_items.php
+    list.php
+    list.xml
+    view.feed.php
+    view.html.php
+    tags
+        tmpl
+        default_items.php
+        default.php
+        default.xml
+        view.feed.php
+        view.html.php
+com_users
+controller.php
+controllers
+profile.php
+registration.php
+remind.php
+reset.php
+user.php
+helpers
+html
+users.php
+legacyrouter.php
+route.php
+layouts
+joomla
+    form
+        renderfield.php
+models
+forms
+frontend_admin.xml
+frontend.xml
+login.xml
+profile.xml
+registration.xml
+remind.xml
+reset_complete.xml
+reset_confirm.xml
+reset_request.xml
+sitelang.xml
+login.php
+profile.php
+registration.php
+remind.php
+reset.php
+rules
+    loginuniquefield.php
+    logoutuniquefield.php
+router.php
+users.php
+views
+    login
+    tmpl
+    default_login.php
+    default_logout.php
+    default.php
+    default.xml
+    logout.xml
+    view.html.php
+    profile
+    tmpl
+    default_core.php
+    default_custom.php
+    default_params.php
+    default.php
+    default.xml
+    edit.php
+    edit.xml
+    view.html.php
+    registration
+    tmpl
+    complete.php
+    default.php
+    default.xml
+    view.html.php
+    remind
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+    reset
+        tmpl
+        complete.php
+        confirm.php
+        default.php
+        default.xml
+        view.html.php
+com_wrapper
+controller.php
+router.php
+views
+wrapper
+    tmpl
+    default.php
+    default.xml
+    view.html.php
+wrapper.php
+wrapper.xml
+index.html
+composer.json
+composer.lock
+crowdin.yml
+htaccess.txt
+images
+banners
+osmbanner1.png
+osmbanner2.png
+shop-ad-books.jpg
+shop-ad.jpg
+white.png
+headers
+blue-flower.jpg
+maple.jpg
+raindrops.jpg
+walden-pond.jpg
+windows.jpg
+index.html
+joomla_black.png
+powered_by.png
+sampledata
+    fruitshop
+    apple.jpg
+    bananas_2.jpg
+    fruits.gif
+    tamarind.jpg
+    parks
+        animals
+        180px_koala_ag1.jpg
+        180px_wobbegong.jpg
+        200px_phyllopteryx_taeniolatus1.jpg
+        220px_spottedquoll_2005_seanmcclean.jpg
+        789px_spottedquoll_2005_seanmcclean.jpg
+        800px_koala_ag1.jpg
+        800px_phyllopteryx_taeniolatus1.jpg
+        800px_wobbegong.jpg
+        banner_cradle.jpg
+        landscape
+        120px_pinnacles_western_australia.jpg
+        120px_rainforest_bluemountainsnsw.jpg
+        180px_ormiston_pound.jpg
+        250px_cradle_mountain_seen_from_barn_bluff.jpg
+        727px_rainforest_bluemountainsnsw.jpg
+        800px_cradle_mountain_seen_from_barn_bluff.jpg
+        800px_ormiston_pound.jpg
+        800px_pinnacles_western_australia.jpg
+        parks.gif
+includes
+defines.php
+framework.php
+index.html
+index.php
+installation
+application
+bootstrap.php
+defines.php
+framework.php
+router.php
+web.php
+cache
+index.html
+configuration.php-dist
+controller
+database.php
+default.php
+detectftproot.php
+ftp.php
+install
+config.php
+database_backup.php
+database.php
+database_remove.php
+email.php
+languages.php
+sample.php
+preinstall.php
+removefolder.php
+setdefaultlanguage.php
+setlanguage.php
+site.php
+summary.php
+verifyftpsettings.php
+COPYRIGHT
+CREDITS
+favicon.ico
+form
+field
+language.php
+prefix.php
+sample.php
+rule
+    prefix.php
+    username.php
+helper
+database.php
+html
+helper.php
+index.php
+INSTALL
+language
+af-ZA
+af-ZA.ini
+af-ZA.xml
+ar-AA
+ar-AA.ini
+ar-AA.xml
+be-BY
+be-BY.ini
+be-BY.xml
+bg-BG
+bg-BG.ini
+bg-BG.xml
+bn-BD
+bn-BD.ini
+bn-BD.xml
+bs-BA
+bs-BA.ini
+bs-BA.xml
+ca-ES
+ca-ES.ini
+ca-ES.xml
+ckb-IQ
+ckb-IQ.ini
+ckb-IQ.xml
+cs-CZ
+cs-CZ.ini
+cs-CZ.xml
+cy-GB
+cy-GB.ini
+cy-GB.xml
+da-DK
+da-DK.ini
+da-DK.xml
+de-AT
+de-AT.ini
+de-AT.xml
+de-CH
+de-CH.ini
+de-CH.xml
+de-DE
+de-DE.ini
+de-DE.xml
+de-LI
+de-LI.ini
+de-LI.xml
+de-LU
+de-LU.ini
+de-LU.xml
+dz-BT
+dz-BT.ini
+dz-BT.xml
+el-GR
+el-GR.ini
+el-GR.xml
+en-AU
+en-AU.ini
+en-AU.xml
+en-CA
+en-CA.ini
+en-CA.xml
+en-GB
+en-GB.ini
+en-GB.xml
+en-NZ
+en-NZ.ini
+en-NZ.xml
+en-US
+en-US.ini
+en-US.xml
+eo-XX
+eo-XX.ini
+eo-XX.xml
+es-CO
+es-CO.ini
+es-CO.xml
+es-ES
+es-ES.ini
+es-ES.xml
+et-EE
+et-EE.ini
+et-EE.xml
+eu-ES
+eu-ES.ini
+eu-ES.xml
+fa-IR
+fa-IR.ini
+fa-IR.xml
+fi-FI
+fi-FI.ini
+fi-FI.xml
+fr-CA
+fr-CA.ini
+fr-CA.xml
+fr-FR
+fr-FR.ini
+fr-FR.xml
+ga-IE
+ga-IE.ini
+ga-IE.xml
+gl-ES
+gl-ES.ini
+gl-ES.xml
+he-IL
+he-IL.ini
+he-IL.xml
+hi-IN
+hi-IN.ini
+hi-IN.xml
+hr-HR
+hr-HR.ini
+hr-HR.xml
+hu-HU
+hu-HU.ini
+hu-HU.xml
+hy-AM
+hy-AM.ini
+hy-AM.xml
+id-ID
+id-ID.ini
+id-ID.xml
+it-IT
+it-IT.ini
+it-IT.xml
+ja-JP
+ja-JP.ini
+ja-JP.xml
+ka-GE
+ka-GE.ini
+ka-GE.xml
+kk-KZ
+kk-KZ.ini
+kk-KZ.xml
+km-KH
+km-KH.ini
+km-KH.xml
+ko-KR
+ko-KR.ini
+ko-KR.xml
+lt-LT
+lt-LT.ini
+lt-LT.xml
+lv-LV
+lv-LV.ini
+lv-LV.xml
+mk-MK
+mk-MK.ini
+mk-MK.xml
+ms-MY
+ms-MY.ini
+ms-MY.xml
+nb-NO
+nb-NO.ini
+nb-NO.xml
+nl-NL
+nl-NL.ini
+nl-NL.xml
+nn-NO
+nn-NO.ini
+nn-NO.xml
+pl-PL
+pl-PL.ini
+pl-PL.xml
+prs-AF
+prs-AF.ini
+prs-AF.xml
+pt-BR
+pt-BR.ini
+pt-BR.xml
+pt-PT
+pt-PT.ini
+pt-PT.xml
+ro-RO
+ro-RO.ini
+ro-RO.xml
+ru-RU
+ru-RU.ini
+ru-RU.xml
+si-LK
+si-LK.ini
+si-LK.xml
+sk-SK
+sk-SK.ini
+sk-SK.xml
+sl-SI
+sl-SI.ini
+sl-SI.xml
+srp-ME
+srp-ME.ini
+srp-ME.xml
+sr-RS
+sr-RS.ini
+sr-RS.xml
+sr-YU
+sr-YU.ini
+sr-YU.xml
+sv-SE
+sv-SE.ini
+sv-SE.xml
+sw-KE
+sw-KE.ini
+sw-KE.xml
+sy-IQ
+sy-IQ.ini
+sy-IQ.xml
+ta-IN
+ta-IN.ini
+ta-IN.xml
+th-TH
+th-TH.ini
+th-TH.xml
+tk-TM
+tk-TM.ini
+tk-TM.xml
+tr-TR
+tr-TR.ini
+tr-TR.xml
+ug-CN
+ug-CN.ini
+ug-CN.xml
+uk-UA
+uk-UA.ini
+uk-UA.xml
+vi-VN
+vi-VN.ini
+vi-VN.xml
+zh-CN
+zh-CN.ini
+zh-CN.xml
+zh-TW
+    zh-TW.ini
+    zh-TW.xml
+LICENSES
+localise.xml
+model
+configuration.php
+database.php
+forms
+database.xml
+defaultlanguage.xml
+ftp.xml
+preinstall.xml
+site.xml
+summary.xml
+ftp.php
+languages.php
+setup.php
+response
+json.php
+sql
+mysql
+joomla.sql
+sample_blog.sql
+sample_brochure.sql
+sample_data.sql
+sample_learn.sql
+sample_testing.sql
+postgresql
+joomla.sql
+sample_blog.sql
+sample_brochure.sql
+sample_data.sql
+sample_learn.sql
+sample_testing.sql
+sqlazure
+    joomla.sql
+    sample_blog.sql
+    sample_brochure.sql
+    sample_data.sql
+    sample_learn.sql
+    sample_testing.sql
+template
+body.php
+css
+template.css
+template_rtl.css
+images
+joomla.png
+index.php
+js
+    installation.js
+view
+    complete
+    html.php
+    tmpl
+        default.php
+    database
+    tmpl
+        default.php
+    defaultlanguage
+    html.php
+    tmpl
+        default.php
+    default.php
+    ftp
+    tmpl
+        default.php
+    install
+    html.php
+    tmpl
+        default.php
+    languages
+    html.php
+    tmpl
+        default.php
+    preinstall
+    html.php
+    tmpl
+        default.php
+    remove
+    html.php
+    tmpl
+        default.php
+    site
+    tmpl
+        default.php
+    summary
+        html.php
+        tmpl
+            default.php
+Jenkinsfile
+jenkins-phpunit.xml
+karma.conf.js
+language
+en-GB
+en-GB.com_ajax.ini
+en-GB.com_config.ini
+en-GB.com_contact.ini
+en-GB.com_content.ini
+en-GB.com_finder.ini
+en-GB.com_mailto.ini
+en-GB.com_media.ini
+en-GB.com_messages.ini
+en-GB.com_newsfeeds.ini
+en-GB.com_privacy.ini
+en-GB.com_search.ini
+en-GB.com_tags.ini
+en-GB.com_users.ini
+en-GB.com_weblinks.ini
+en-GB.com_wrapper.ini
+en-GB.files_joomla.sys.ini
+en-GB.finder_cli.ini
+en-GB.ini
+en-GB.lib_fof.ini
+en-GB.lib_fof.sys.ini
+en-GB.lib_idna_convert.sys.ini
+en-GB.lib_joomla.ini
+en-GB.lib_joomla.sys.ini
+en-GB.lib_phpass.sys.ini
+en-GB.lib_phputf8.sys.ini
+en-GB.lib_simplepie.sys.ini
+en-GB.localise.php
+en-GB.mod_articles_archive.ini
+en-GB.mod_articles_archive.sys.ini
+en-GB.mod_articles_categories.ini
+en-GB.mod_articles_categories.sys.ini
+en-GB.mod_articles_category.ini
+en-GB.mod_articles_category.sys.ini
+en-GB.mod_articles_latest.ini
+en-GB.mod_articles_latest.sys.ini
+en-GB.mod_articles_news.ini
+en-GB.mod_articles_news.sys.ini
+en-GB.mod_articles_popular.ini
+en-GB.mod_articles_popular.sys.ini
+en-GB.mod_banners.ini
+en-GB.mod_banners.sys.ini
+en-GB.mod_breadcrumbs.ini
+en-GB.mod_breadcrumbs.sys.ini
+en-GB.mod_custom.ini
+en-GB.mod_custom.sys.ini
+en-GB.mod_feed.ini
+en-GB.mod_feed.sys.ini
+en-GB.mod_finder.ini
+en-GB.mod_finder.sys.ini
+en-GB.mod_footer.ini
+en-GB.mod_footer.sys.ini
+en-GB.mod_languages.ini
+en-GB.mod_languages.sys.ini
+en-GB.mod_login.ini
+en-GB.mod_login.sys.ini
+en-GB.mod_menu.ini
+en-GB.mod_menu.sys.ini
+en-GB.mod_random_image.ini
+en-GB.mod_random_image.sys.ini
+en-GB.mod_related_items.ini
+en-GB.mod_related_items.sys.ini
+en-GB.mod_search.ini
+en-GB.mod_search.sys.ini
+en-GB.mod_stats.ini
+en-GB.mod_stats.sys.ini
+en-GB.mod_syndicate.ini
+en-GB.mod_syndicate.sys.ini
+en-GB.mod_tags_popular.ini
+en-GB.mod_tags_popular.sys.ini
+en-GB.mod_tags_similar.ini
+en-GB.mod_tags_similar.sys.ini
+en-GB.mod_users_latest.ini
+en-GB.mod_users_latest.sys.ini
+en-GB.mod_weblinks.ini
+en-GB.mod_weblinks.sys.ini
+en-GB.mod_whosonline.ini
+en-GB.mod_whosonline.sys.ini
+en-GB.mod_wrapper.ini
+en-GB.mod_wrapper.sys.ini
+en-GB.tpl_beez3.ini
+en-GB.tpl_beez3.sys.ini
+en-GB.tpl_protostar.ini
+en-GB.tpl_protostar.sys.ini
+en-GB.xml
+install.xml
+index.html
+overrides
+    index.html
+layouts
+index.html
+joomla
+content
+associations.php
+blog_style_default_item_title.php
+blog_style_default_links.php
+categories_default_items.php
+categories_default.php
+category_default.php
+full_image.php
+icons
+create.php
+edit_lock.php
+edit.php
+email.php
+print_popup.php
+print_screen.php
+icons.php
+info_block
+associations.php
+author.php
+block.php
+category.php
+create_date.php
+hits.php
+modify_date.php
+parent_category.php
+publish_date.php
+info_block.php
+intro_image.php
+language.php
+options_default.php
+readmore.php
+tags.php
+text_filters.php
+edit
+associations.php
+details.php
+fieldset.php
+frontediting_modules.php
+global.php
+item_title.php
+metadata.php
+params.php
+publishingdata.php
+title_alias.php
+editors
+buttons
+button.php
+buttons.php
+error
+backtrace.php
+index.html
+form
+field
+calendar.php
+checkboxes.php
+color
+advanced.php
+simple.php
+combo.php
+contenthistory.php
+email.php
+file.php
+hidden.php
+media.php
+meter.php
+moduleorder.php
+number.php
+password.php
+radio.php
+range.php
+subform
+default.php
+repeatable
+section-byfieldsets.php
+section.php
+repeatable.php
+repeatable-table
+section-byfieldsets.php
+section.php
+repeatable-table.php
+tel.php
+textarea.php
+text.php
+url.php
+user.php
+renderfield.php
+renderlabel.php
+html
+batch
+access.php
+adminlanguage.php
+item.php
+language.php
+tag.php
+user.php
+formbehavior
+ajaxchosen.php
+chosen.php
+sortablelist.php
+tag.php
+treeprefix.php
+links
+groupclose.php
+groupopen.php
+groupsclose.php
+groupseparator.php
+groupsopen.php
+link.php
+modal
+body.php
+footer.php
+header.php
+iframe.php
+main.php
+pagination
+link.php
+links.php
+list.php
+quickicons
+icon.php
+searchtools
+default
+bar.php
+filters.php
+list.php
+noitems.php
+selector.php
+default.php
+grid
+    sort.php
+sidebars
+submenu.php
+toggle.php
+system
+message.php
+tinymce
+buttons
+button.php
+buttons.php
+textarea.php
+togglebutton.php
+toolbar
+    base.php
+    batch.php
+    confirm.php
+    containerclose.php
+    containeropen.php
+    help.php
+    iconclass.php
+    link.php
+    modal.php
+    popup.php
+    separator.php
+    slider.php
+    standard.php
+    title.php
+    versions.php
+libraries
+cms
+    html
+        bootstrap
+            addtab.php
+            addtabscript.php
+            endtab.php
+            endtabset.php
+            starttabset.php
+            starttabsetscript.php
+plugins
+    editors
+    tinymce
+        field
+            tinymcebuilder
+            setoptions.php
+            tinymcebuilder.php
+    system
+    privacyconsent
+        label.php
+        message.php
+    user
+        profile
+        fields
+            dob.php
+        terms
+            label.php
+            message.php
+libraries
+classmap.php
+cms
+class
+loader.php
+html
+access.php
+actionsdropdown.php
+adminlanguage.php
+batch.php
+behavior.php
+bootstrap.php
+category.php
+contentlanguage.php
+content.php
+date.php
+debug.php
+dropdown.php
+email.php
+formbehavior.php
+form.php
+grid.php
+icons.php
+jgrid.php
+jquery.php
+language
+en-GB
+    en-GB.jhtmldate.ini
+links.php
+list.php
+menu.php
+number.php
+rules.php
+searchtools.php
+select.php
+sidebar.php
+sliders.php
+sortablelist.php
+string.php
+tabs.php
+tag.php
+tel.php
+user.php
+less
+    formatter
+    joomla.php
+    less.php
+cms.php
+fof
+autoloader
+component.php
+fof.php
+config
+domain
+dispatcher.php
+interface.php
+tables.php
+views.php
+provider.php
+controller
+controller.php
+database
+database.php
+driver
+joomla.php
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+postgresql.php
+sqlazure.php
+sqlite.php
+sqlsrv.php
+driver.php
+factory.php
+installer.php
+interface.php
+iterator
+azure.php
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+postgresql.php
+sqlite.php
+sqlsrv.php
+iterator.php
+query
+element.php
+limitable.php
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+postgresql.php
+preparable.php
+sqlazure.php
+sqlite.php
+sqlsrv.php
+query.php
+dispatcher
+dispatcher.php
+download
+adapter
+abstract.php
+cacert.pem
+curl.php
+fopen.php
+download.php
+interface.php
+encrypt
+aes
+abstract.php
+interface.php
+mcrypt.php
+openssl.php
+aes.php
+base32.php
+randvalinterface.php
+randval.php
+totp.php
+form
+field
+accesslevel.php
+actions.php
+button.php
+cachehandler.php
+calendar.php
+captcha.php
+checkboxes.php
+checkbox.php
+components.php
+editor.php
+email.php
+groupedbutton.php
+groupedlist.php
+hidden.php
+imagelist.php
+image.php
+integer.php
+language.php
+list.php
+media.php
+model.php
+ordering.php
+password.php
+plugins.php
+published.php
+radio.php
+relation.php
+rules.php
+selectrow.php
+sessionhandler.php
+spacer.php
+sql.php
+tag.php
+tel.php
+textarea.php
+text.php
+timezone.php
+title.php
+url.php
+usergroup.php
+user.php
+field.php
+form.php
+header
+accesslevel.php
+fielddate.php
+fieldfilterable.php
+field.php
+fieldsearchable.php
+fieldselectable.php
+fieldsql.php
+filterdate.php
+filterfilterable.php
+filtersearchable.php
+filterselectable.php
+filtersql.php
+language.php
+model.php
+ordering.php
+published.php
+rowselect.php
+header.php
+helper.php
+hal
+document.php
+link.php
+links.php
+render
+    interface.php
+    json.php
+include.php
+inflector
+inflector.php
+input
+input.php
+jinput
+    cli.php
+    cookie.php
+    files.php
+    input.php
+    json.php
+integration
+joomla
+    filesystem
+    filesystem.php
+    platform.php
+layout
+file.php
+helper.php
+less
+formatter
+classic.php
+compressed.php
+joomla.php
+lessjs.php
+less.php
+parser
+    parser.php
+LICENSE.txt
+model
+behavior
+access.php
+emptynonzero.php
+enabled.php
+filters.php
+language.php
+private.php
+behavior.php
+dispatcher
+behavior.php
+field
+boolean.php
+date.php
+number.php
+text.php
+field.php
+model.php
+platform
+filesystem
+filesystem.php
+interface.php
+interface.php
+platform.php
+query
+abstract.php
+render
+abstract.php
+joomla3.php
+joomla.php
+strapper.php
+string
+utils.php
+table
+behavior
+assets.php
+contenthistory.php
+tags.php
+behavior.php
+dispatcher
+behavior.php
+nested.php
+relations.php
+table.php
+template
+utils.php
+toolbar
+toolbar.php
+utils
+array
+array.php
+cache
+cleaner.php
+config
+helper.php
+filescheck
+filescheck.php
+ini
+parser.php
+installscript
+installscript.php
+ip
+ip.php
+object
+object.php
+observable
+dispatcher.php
+event.php
+phpfunc
+phpfunc.php
+timer
+timer.php
+update
+    collection.php
+    extension.php
+    joomla.php
+    update.php
+version.txt
+view
+    csv.php
+    form.php
+    html.php
+    json.php
+    raw.php
+    view.php
+idna_convert
+idna_convert.class.php
+LICENCE
+ReadMe.txt
+transcode_wrapper.php
+uctc.php
+import.legacy.php
+import.php
+index.html
+joomla
+application
+web
+    router
+    base.php
+    rest.php
+    router.php
+archive
+archive.php
+bzip2.php
+extractable.php
+gzip.php
+tar.php
+wrapper
+archive.php
+zip.php
+base
+adapterinstance.php
+adapter.php
+controller
+base.php
+controller.php
+database
+database.php
+driver
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+pgsql.php
+postgresql.php
+sqlazure.php
+sqlite.php
+sqlsrv.php
+driver.php
+exception
+connecting.php
+executing.php
+unsupported.php
+exporter
+mysqli.php
+mysql.php
+pdomysql.php
+pgsql.php
+postgresql.php
+exporter.php
+factory.php
+importer
+mysqli.php
+mysql.php
+pdomysql.php
+pgsql.php
+postgresql.php
+importer.php
+interface.php
+iterator
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+pgsql.php
+postgresql.php
+sqlazure.php
+sqlite.php
+sqlsrv.php
+iterator.php
+query
+element.php
+limitable.php
+mysqli.php
+mysql.php
+oracle.php
+pdomysql.php
+pdo.php
+pgsql.php
+postgresql.php
+preparable.php
+sqlazure.php
+sqlite.php
+sqlsrv.php
+query.php
+event
+dispatcher.php
+event.php
+facebook
+album.php
+checkin.php
+comment.php
+event.php
+facebook.php
+group.php
+link.php
+note.php
+oauth.php
+object.php
+photo.php
+post.php
+status.php
+user.php
+video.php
+form
+fields
+    accesslevel.php
+    aliastag.php
+    cachehandler.php
+    calendar.php
+    checkboxes.php
+    checkbox.php
+    color.php
+    combo.php
+    components.php
+    databaseconnection.php
+    email.php
+    filelist.php
+    file.php
+    folderlist.php
+    groupedlist.php
+    hidden.php
+    imagelist.php
+    integer.php
+    language.php
+    list.php
+    meter.php
+    note.php
+    number.php
+    password.php
+    plugins.php
+    predefinedlist.php
+    radio.php
+    range.php
+    repeatable.php
+    rules.php
+    sessionhandler.php
+    spacer.php
+    sql.php
+    subform.php
+    tel.php
+    textarea.php
+    text.php
+    timezone.php
+    url.php
+    usergroup.php
+github
+account.php
+commits.php
+forks.php
+github.php
+hooks.php
+http.php
+meta.php
+milestones.php
+object.php
+package
+activity
+events.php
+notifications.php
+starring.php
+watching.php
+activity.php
+authorization.php
+data
+blobs.php
+commits.php
+refs.php
+tags.php
+trees.php
+data.php
+gists
+comments.php
+gists.php
+gitignore.php
+issues
+assignees.php
+comments.php
+events.php
+labels.php
+milestones.php
+issues.php
+markdown.php
+orgs
+members.php
+teams.php
+orgs.php
+pulls
+comments.php
+pulls.php
+repositories
+collaborators.php
+comments.php
+commits.php
+contents.php
+downloads.php
+forks.php
+hooks.php
+keys.php
+merging.php
+statistics.php
+statuses.php
+repositories.php
+search.php
+users
+emails.php
+followers.php
+keys.php
+users.php
+package.php
+refs.php
+statuses.php
+google
+auth
+oauth2.php
+auth.php
+data
+adsense.php
+calendar.php
+picasa
+album.php
+photo.php
+picasa.php
+plus
+activities.php
+comments.php
+people.php
+plus.php
+data.php
+embed
+analytics.php
+maps.php
+embed.php
+google.php
+grid
+grid.php
+keychain
+keychain.php
+linkedin
+communications.php
+companies.php
+groups.php
+jobs.php
+linkedin.php
+oauth.php
+object.php
+people.php
+stream.php
+mediawiki
+categories.php
+http.php
+images.php
+links.php
+mediawiki.php
+object.php
+pages.php
+search.php
+sites.php
+users.php
+model
+base.php
+database.php
+model.php
+oauth1
+client.php
+oauth2
+client.php
+observable
+interface.php
+observer
+interface.php
+mapper.php
+updater
+interface.php
+updater.php
+wrapper
+    mapper.php
+openstreetmap
+changesets.php
+elements.php
+gps.php
+info.php
+oauth.php
+object.php
+openstreetmap.php
+user.php
+platform.php
+route
+wrapper
+    route.php
+session
+handler
+interface.php
+joomla.php
+native.php
+storage
+apc.php
+apcu.php
+database.php
+memcached.php
+memcache.php
+none.php
+redis.php
+wincache.php
+xcache.php
+storage.php
+string
+string.php
+wrapper
+    normalise.php
+    punycode.php
+twitter
+block.php
+directmessages.php
+favorites.php
+friends.php
+help.php
+lists.php
+oauth.php
+object.php
+places.php
+profile.php
+search.php
+statuses.php
+trends.php
+twitter.php
+users.php
+utilities
+arrayhelper.php
+view
+    base.php
+    html.php
+    view.php
+legacy
+application
+application.php
+base
+node.php
+observable.php
+observer.php
+tree.php
+database
+exception.php
+mysqli.php
+mysql.php
+sqlazure.php
+sqlsrv.php
+dispatcher
+dispatcher.php
+error
+error.php
+exception
+exception.php
+form
+field
+    category.php
+    componentlayout.php
+    modulelayout.php
+log
+logexception.php
+request
+request.php
+response
+response.php
+simplecrypt
+simplecrypt.php
+simplepie
+factory.php
+table
+session.php
+utilities
+    xmlelement.php
+loader.php
+phpass
+PasswordHash.php
+php-encryption
+Crypto.php
+phputf8
+LICENSE
+mbstring
+core.php
+native
+core.php
+ord.php
+README
+strcasecmp.php
+strcspn.php
+str_ireplace.php
+stristr.php
+str_pad.php
+strrev.php
+str_split.php
+strspn.php
+substr_replace.php
+trim.php
+ucfirst.php
+ucwords.php
+utf8.php
+utils
+    ascii.php
+    bad.php
+    patterns.php
+    position.php
+    specials.php
+    unicode.php
+    validation.php
+src
+Access
+Access.php
+Exception
+NotAllowed.php
+Rule.php
+Rules.php
+Wrapper
+    Access.php
+Application
+AdministratorApplication.php
+ApplicationHelper.php
+BaseApplication.php
+CliApplication.php
+CMSApplication.php
+DaemonApplication.php
+SiteApplication.php
+WebApplication.php
+Association
+AssociationExtensionHelper.php
+AssociationExtensionInterface.php
+Authentication
+Authentication.php
+AuthenticationResponse.php
+Cache
+CacheController.php
+Cache.php
+CacheStorage.php
+Controller
+CallbackController.php
+OutputController.php
+PageController.php
+ViewController.php
+Exception
+CacheConnectingException.php
+CacheExceptionInterface.php
+UnsupportedCacheException.php
+Storage
+    ApcStorage.php
+    ApcuStorage.php
+    CacheliteStorage.php
+    CacheStorageHelper.php
+    FileStorage.php
+    MemcachedStorage.php
+    MemcacheStorage.php
+    RedisStorage.php
+    WincacheStorage.php
+    XcacheStorage.php
+Captcha
+Captcha.php
+Google
+    HttpBridgePostRequestMethod.php
+Categories
+Categories.php
+CategoryNode.php
+Client
+ClientHelper.php
+ClientWrapper.php
+FtpClient.php
+Component
+ComponentHelper.php
+ComponentRecord.php
+Exception
+MissingComponentException.php
+Router
+    RouterBase.php
+    RouterInterface.php
+    RouterLegacy.php
+    RouterViewConfiguration.php
+    RouterView.php
+    Rules
+        MenuRules.php
+        NomenuRules.php
+        RulesInterface.php
+        StandardRules.php
+Crypt
+Cipher
+BlowfishCipher.php
+CryptoCipher.php
+McryptCipher.php
+Rijndael256Cipher.php
+SimpleCipher.php
+SodiumCipher.php
+TripleDesCipher.php
+CipherInterface.php
+CryptPassword.php
+Crypt.php
+Key.php
+Password
+SimpleCryptPassword.php
+README.md
+Date
+Date.php
+Document
+Document.php
+DocumentRenderer.php
+ErrorDocument.php
+Feed
+FeedEnclosure.php
+FeedImage.php
+FeedItem.php
+FeedDocument.php
+HtmlDocument.php
+ImageDocument.php
+JsonDocument.php
+Opensearch
+OpensearchImage.php
+OpensearchUrl.php
+OpensearchDocument.php
+RawDocument.php
+Renderer
+Feed
+AtomRenderer.php
+RssRenderer.php
+Html
+    ComponentRenderer.php
+    HeadRenderer.php
+    MessageRenderer.php
+    ModuleRenderer.php
+    ModulesRenderer.php
+XmlDocument.php
+Editor
+Editor.php
+Environment
+Browser.php
+Exception
+ExceptionHandler.php
+Extension
+ExtensionHelper.php
+Factory.php
+Feed
+FeedEntry.php
+FeedFactory.php
+FeedLink.php
+FeedParser.php
+FeedPerson.php
+Feed.php
+Parser
+    AtomParser.php
+    NamespaceParserInterface.php
+    Rss
+    ItunesRssParser.php
+    MediaRssParser.php
+    RssParser.php
+Filesystem
+File.php
+FilesystemHelper.php
+Folder.php
+Meta
+language
+    en-GB
+        en-GB.lib_joomla_filesystem_patcher.ini
+Patcher.php
+Path.php
+Stream.php
+Streams
+StreamString.php
+Support
+Stringcontroller.php
+Wrapper
+    FileWrapper.php
+    FolderWrapper.php
+    PathWrapper.php
+Filter
+InputFilter.php
+OutputFilter.php
+Wrapper
+    OutputFilterWrapper.php
+Form
+Field
+AuthorField.php
+CaptchaField.php
+ChromestyleField.php
+ContenthistoryField.php
+ContentlanguageField.php
+ContenttypeField.php
+EditorField.php
+FrontendlanguageField.php
+HeadertagField.php
+HelpsiteField.php
+LastvisitdaterangeField.php
+LimitboxField.php
+MediaField.php
+MenuField.php
+MenuitemField.php
+ModuleorderField.php
+ModulepositionField.php
+ModuletagField.php
+OrderingField.php
+PluginstatusField.php
+RedirectStatusField.php
+RegistrationdaterangeField.php
+StatusField.php
+TagField.php
+TemplatestyleField.php
+UseractiveField.php
+UserField.php
+UsergrouplistField.php
+UserstateField.php
+FormField.php
+FormHelper.php
+Form.php
+FormRule.php
+FormWrapper.php
+Rule
+    BooleanRule.php
+    CalendarRule.php
+    CaptchaRule.php
+    ColorRule.php
+    EmailRule.php
+    EqualsRule.php
+    ExistsRule.php
+    NotequalsRule.php
+    NumberRule.php
+    OptionsRule.php
+    PasswordRule.php
+    RulesRule.php
+    SubFormRule.php
+    TelRule.php
+    UrlRule.php
+    UsernameRule.php
+Help
+Help.php
+Helper
+AuthenticationHelper.php
+CMSHelper.php
+ContentHelper.php
+ContentHistoryHelper.php
+LibraryHelper.php
+MediaHelper.php
+ModuleHelper.php
+RouteHelper.php
+SearchHelper.php
+TagsHelper.php
+UserGroupsHelper.php
+HTML
+HTMLHelper.php
+Http
+HttpFactory.php
+Http.php
+Response.php
+Transport
+cacert.pem
+CurlTransport.php
+SocketTransport.php
+StreamTransport.php
+TransportInterface.php
+Wrapper
+    FactoryWrapper.php
+Image
+ImageFilter.php
+Image.php
+Input
+Cli.php
+Cookie.php
+Files.php
+Input.php
+Json.php
+Installer
+Adapter
+ComponentAdapter.php
+FileAdapter.php
+LanguageAdapter.php
+LibraryAdapter.php
+ModuleAdapter.php
+PackageAdapter.php
+PluginAdapter.php
+TemplateAdapter.php
+InstallerAdapter.php
+InstallerExtension.php
+InstallerHelper.php
+Installer.php
+InstallerScript.php
+Manifest
+LibraryManifest.php
+PackageManifest.php
+Manifest.php
+Language
+Associations.php
+LanguageHelper.php
+Language.php
+LanguageStemmer.php
+Multilanguage.php
+Stemmer
+Porteren.php
+Text.php
+Transliterate.php
+Wrapper
+    JTextWrapper.php
+    LanguageHelperWrapper.php
+    TransliterateWrapper.php
+Layout
+BaseLayout.php
+FileLayout.php
+LayoutHelper.php
+LayoutInterface.php
+Log
+DelegatingPsrLogger.php
+LogEntry.php
+Logger
+CallbackLogger.php
+DatabaseLogger.php
+EchoLogger.php
+FormattedtextLogger.php
+MessagequeueLogger.php
+SyslogLogger.php
+W3cLogger.php
+Logger.php
+Log.php
+Mail
+language
+phpmailer.lang-en_gb.php
+MailHelper.php
+Mail.php
+MailWrapper.php
+Menu
+AbstractMenu.php
+AdministratorMenu.php
+MenuHelper.php
+MenuItem.php
+Node
+Component.php
+Container.php
+Heading.php
+Separator.php
+Url.php
+Node.php
+SiteMenu.php
+Tree.php
+Microdata
+Microdata.php
+types.json
+MVC
+Controller
+AdminController.php
+BaseController.php
+FormController.php
+Model
+AdminModel.php
+BaseDatabaseModel.php
+FormModel.php
+ItemModel.php
+ListModel.php
+View
+    CategoriesView.php
+    CategoryFeedView.php
+    CategoryView.php
+    HtmlView.php
+Object
+CMSObject.php
+Pagination
+PaginationObject.php
+Pagination.php
+Pathway
+Pathway.php
+SitePathway.php
+Plugin
+CMSPlugin.php
+PluginHelper.php
+Profiler
+Profiler.php
+Response
+JsonResponse.php
+Router
+AdministratorRouter.php
+Exception
+RouteNotFoundException.php
+Route.php
+Router.php
+SiteRouter.php
+Schema
+ChangeItem
+MysqlChangeItem.php
+PostgresqlChangeItem.php
+SqlsrvChangeItem.php
+ChangeItem.php
+ChangeSet.php
+Session
+Exception
+UnsupportedStorageException.php
+MetadataManager.php
+Session.php
+String
+PunycodeHelper.php
+Table
+Asset.php
+Category.php
+ContentHistory.php
+Content.php
+ContentType.php
+CoreContent.php
+Extension.php
+Language.php
+Menu.php
+MenuType.php
+Module.php
+Nested.php
+Observer
+AbstractObserver.php
+ContentHistory.php
+Tags.php
+TableInterface.php
+Table.php
+Ucm.php
+Update.php
+UpdateSite.php
+Usergroup.php
+User.php
+ViewLevel.php
+Toolbar
+Button
+ConfirmButton.php
+CustomButton.php
+HelpButton.php
+LinkButton.php
+PopupButton.php
+SeparatorButton.php
+SliderButton.php
+StandardButton.php
+ToolbarButton.php
+ToolbarHelper.php
+Toolbar.php
+UCM
+UCMBase.php
+UCMContent.php
+UCM.php
+UCMType.php
+Updater
+Adapter
+CollectionAdapter.php
+ExtensionAdapter.php
+DownloadSource.php
+UpdateAdapter.php
+Update.php
+Updater.php
+Uri
+Uri.php
+User
+UserHelper.php
+User.php
+UserWrapper.php
+Utility
+BufferStreamHandler.php
+Utility.php
+Version.php
+vendor
+    autoload.php
+    brumann
+    polyfill-unserialize
+        composer.json
+        LICENSE
+        src
+            Unserialize.php
+    composer
+    autoload_classmap.php
+    autoload_files.php
+    autoload_namespaces.php
+    autoload_psr4.php
+    autoload_real.php
+    autoload_static.php
+    ClassLoader.php
+    installed.json
+    LICENSE
+    google
+    recaptcha
+        LICENSE
+        src
+            autoload.php
+            ReCaptcha
+                ReCaptcha.php
+                RequestMethod
+                Curl.php
+                CurlPost.php
+                Post.php
+                Socket.php
+                SocketPost.php
+                RequestMethod.php
+                RequestParameters.php
+                Response.php
+    ircmaxell
+    password-compat
+        lib
+        password.php
+        LICENSE.md
+    joomla
+    application
+    LICENSE
+    src
+        AbstractApplication.php
+        AbstractCliApplication.php
+        AbstractDaemonApplication.php
+        AbstractWebApplication.php
+        Cli
+        CliInput.php
+        CliOutput.php
+        ColorProcessor.php
+        ColorStyle.php
+        Output
+            Processor
+            ColorProcessor.php
+            ProcessorInterface.php
+            Stdout.php
+            Xml.php
+        Web
+            WebClient.php
+    archive
+    LICENSE
+    src
+        Archive.php
+        Bzip2.php
+        ExtractableInterface.php
+        Gzip.php
+        Tar.php
+        Zip.php
+    compat
+    LICENSE
+    src
+        CallbackFilterIterator.php
+        JsonSerializable.php
+    data
+    LICENSE
+    src
+        DataObject.php
+        DataSet.php
+        DumpableInterface.php
+    di
+    LICENSE
+    src
+        ContainerAwareInterface.php
+        ContainerAwareTrait.php
+        Container.php
+        Exception
+        DependencyResolutionException.php
+        KeyNotFoundException.php
+        ProtectedKeyException.php
+        ServiceProviderInterface.php
+    event
+    LICENSE
+    src
+        AbstractEvent.php
+        DelegatingDispatcher.php
+        DispatcherAwareInterface.php
+        DispatcherAwareTrait.php
+        DispatcherInterface.php
+        Dispatcher.php
+        EventImmutable.php
+        EventInterface.php
+        Event.php
+        ListenersPriorityQueue.php
+        Priority.php
+    filesystem
+    LICENSE
+    meta
+    language
+        en-GB
+            en-GB.lib_joomla_filesystem_patcher.ini
+    src
+        Buffer.php
+        Clients
+        FtpClient.php
+        Exception
+        FilesystemException.php
+        File.php
+        Folder.php
+        Helper.php
+        Patcher.php
+        Path.php
+        Stream
+        String.php
+        StringWrapper.php
+        Stream.php
+        Support
+            StringController.php
+    filter
+    LICENSE
+    src
+        InputFilter.php
+        OutputFilter.php
+    image
+    LICENSE
+    src
+        Filter
+        Backgroundfill.php
+        Brightness.php
+        Contrast.php
+        Edgedetect.php
+        Emboss.php
+        Grayscale.php
+        Negate.php
+        Sketchy.php
+        Smooth.php
+        ImageFilter.php
+        Image.php
+    input
+    LICENSE
+    src
+        Cli.php
+        Cookie.php
+        Files.php
+        Input.php
+        Json.php
+    ldap
+    LICENSE
+    src
+        LdapClient.php
+    registry
+    LICENSE
+    src
+        AbstractRegistryFormat.php
+        Factory.php
+        Format
+        Ini.php
+        Json.php
+        Php.php
+        Xml.php
+        Yaml.php
+        FormatInterface.php
+        Registry.php
+    session
+    Joomla
+        Session
+            LICENSE
+            Session.php
+            Storage
+            Apc.php
+            Apcu.php
+            Database.php
+            Memcached.php
+            Memcache.php
+            None.php
+            Wincache.php
+            Xcache.php
+            Storage.php
+    string
+    LICENSE
+    src
+        Inflector.php
+        Normalise.php
+        phputf8
+        LICENSE
+        mbstring
+        core.php
+        native
+        core.php
+        ord.php
+        README
+        strcasecmp.php
+        strcspn.php
+        str_ireplace.php
+        stristr.php
+        str_pad.php
+        strrev.php
+        str_split.php
+        strspn.php
+        substr_replace.php
+        trim.php
+        ucfirst.php
+        ucwords.php
+        utf8.php
+        utils
+            ascii.php
+            bad.php
+            patterns.php
+            position.php
+            specials.php
+            unicode.php
+            validation.php
+        StringHelper.php
+        String.php
+    uri
+    LICENSE
+    src
+        AbstractUri.php
+        UriHelper.php
+        UriImmutable.php
+        UriInterface.php
+        Uri.php
+    utilities
+        LICENSE
+        src
+            ArrayHelper.php
+            IpHelper.php
+    leafo
+    lessphp
+        lessc.inc.php
+        lessify
+        lessify.inc.php
+        LICENSE
+        plessc
+    paragonie
+    random_compat
+    lib
+    byte_safe_strings.php
+    cast_to_int.php
+    error_polyfill.php
+    random_bytes_com_dotnet.php
+    random_bytes_dev_urandom.php
+    random_bytes_libsodium_legacy.php
+    random_bytes_libsodium.php
+    random_bytes_mcrypt.php
+    random_bytes_openssl.php
+    random_int.php
+    random.php
+    LICENSE
+    sodium_compat
+        autoload-fast.php
+        autoload-pedantic.php
+        autoload.php
+        lib
+        constants.php
+        namespaced.php
+        php72compat.php
+        sodium_compat.php
+        LICENSE
+        namespaced
+        Compat.php
+        Core
+        BLAKE2b.php
+        ChaCha20
+        Ctx.php
+        IetfCtx.php
+        ChaCha20.php
+        Curve25519
+        Fe.php
+        Ge
+        Cached.php
+        P1p1.php
+        P2.php
+        P3.php
+        Precomp.php
+        H.php
+        Curve25519.php
+        Ed25519.php
+        HChaCha20.php
+        HSalsa20.php
+        Poly1305
+        State.php
+        Poly1305.php
+        Salsa20.php
+        SipHash.php
+        Util.php
+        X25519.php
+        XChaCha20.php
+        Xsalsa20.php
+        Crypto.php
+        File.php
+        src
+            Compat.php
+            Core
+            BLAKE2b.php
+            ChaCha20
+            Ctx.php
+            IetfCtx.php
+            ChaCha20.php
+            Curve25519
+            Fe.php
+            Ge
+            Cached.php
+            P1p1.php
+            P2.php
+            P3.php
+            Precomp.php
+            H.php
+            Curve25519.php
+            Ed25519.php
+            HChaCha20.php
+            HSalsa20.php
+            Poly1305
+            State.php
+            Poly1305.php
+            Salsa20.php
+            SipHash.php
+            Util.php
+            X25519.php
+            XChaCha20.php
+            Xsalsa20.php
+            Core32
+            BLAKE2b.php
+            ChaCha20
+            Ctx.php
+            IetfCtx.php
+            ChaCha20.php
+            Curve25519
+            Fe.php
+            Ge
+            Cached.php
+            P1p1.php
+            P2.php
+            P3.php
+            Precomp.php
+            H.php
+            README.md
+            Curve25519.php
+            Ed25519.php
+            HChaCha20.php
+            HSalsa20.php
+            Int32.php
+            Int64.php
+            Poly1305
+            State.php
+            Poly1305.php
+            Salsa20.php
+            SipHash.php
+            Util.php
+            X25519.php
+            XChaCha20.php
+            XSalsa20.php
+            Crypto32.php
+            Crypto.php
+            File.php
+            SodiumException.php
+    phpmailer
+    phpmailer
+        class.phpmaileroauthgoogle.php
+        class.phpmaileroauth.php
+        class.phpmailer.php
+        class.pop3.php
+        class.smtp.php
+        extras
+        EasyPeasyICS.php
+        htmlfilter.php
+        ntlm_sasl_client.php
+        LICENSE
+        PHPMailerAutoload.php
+        VERSION
+    psr
+    container
+    LICENSE
+    src
+        ContainerExceptionInterface.php
+        ContainerInterface.php
+        NotFoundExceptionInterface.php
+    log
+        LICENSE
+        Psr
+            Log
+                AbstractLogger.php
+                InvalidArgumentException.php
+                LoggerAwareInterface.php
+                LoggerAwareTrait.php
+                LoggerInterface.php
+                LoggerTrait.php
+                LogLevel.php
+                NullLogger.php
+    simplepie
+    simplepie
+        autoloader.php
+        db.sql
+        idn
+        idna_convert.class.php
+        LICENCE
+        npdata.ser
+        library
+        SimplePie
+        Author.php
+        Cache
+        Base.php
+        DB.php
+        File.php
+        Memcache.php
+        MySQL.php
+        Cache.php
+        Caption.php
+        Category.php
+        Content
+        Type
+            Sniffer.php
+        Copyright.php
+        Core.php
+        Credit.php
+        Decode
+        HTML
+            Entities.php
+        Enclosure.php
+        Exception.php
+        File.php
+        gzdecode.php
+        HTTP
+        Parser.php
+        IRI.php
+        Item.php
+        Locator.php
+        Misc.php
+        Net
+        IPv6.php
+        Parse
+        Date.php
+        Parser.php
+        Rating.php
+        Registry.php
+        Restriction.php
+        Sanitize.php
+        Source.php
+        XML
+            Declaration
+                Parser.php
+        SimplePie.php
+        LICENSE.txt
+    symfony
+    polyfill-ctype
+    bootstrap.php
+    Ctype.php
+    LICENSE
+    polyfill-php55
+    bootstrap.php
+    LICENSE
+    Php55ArrayColumn.php
+    Php55.php
+    polyfill-php56
+    bootstrap.php
+    LICENSE
+    Php56.php
+    polyfill-php71
+    bootstrap.php
+    LICENSE
+    Php71.php
+    polyfill-php73
+    bootstrap.php
+    LICENSE
+    Php73.php
+    Resources
+        stubs
+            JsonException.php
+    polyfill-util
+    BinaryNoFuncOverload.php
+    BinaryOnFuncOverload.php
+    Binary.php
+    LICENSE
+    yaml
+        Dumper.php
+        Escaper.php
+        Exception
+        DumpException.php
+        ExceptionInterface.php
+        ParseException.php
+        RuntimeException.php
+        Inline.php
+        LICENSE
+        Parser.php
+        Unescaper.php
+        Yaml.php
+    typo3
+    phar-stream-wrapper
+        composer.json
+        src
+            Assertable.php
+            Behavior.php
+            Collectable.php
+            Exception.php
+            Helper.php
+            Interceptor
+            ConjunctionInterceptor.php
+            PharExtensionInterceptor.php
+            PharMetaDataInterceptor.php
+            Manager.php
+            Phar
+            Container.php
+            DeserializationException.php
+            Manifest.php
+            ReaderException.php
+            Reader.php
+            Stub.php
+            PharStreamWrapper.php
+            Resolvable.php
+            Resolver
+                PharInvocationCollection.php
+                PharInvocation.php
+                PharInvocationResolver.php
+    web.config
+LICENSE.txt
+media
+cms
+css
+    debug.css
+com_associations
+css
+sidebyside.css
+js
+    sidebyside.js
+    sidebyside-uncompressed.js
+com_contact
+js
+    admin-contacts-modal.js
+    admin-contacts-modal.min.js
+com_content
+js
+    admin-article-pagebreak.js
+    admin-article-pagebreak.min.js
+    admin-article-readmore.js
+    admin-article-readmore.min.js
+    admin-articles-modal.js
+    admin-articles-modal.min.js
+com_contenthistory
+css
+jquery.pretty-text-diff.css
+js
+    diff_match_patch.js
+    jquery.pretty-text-diff.js
+    jquery.pretty-text-diff.min.js
+com_fields
+js
+    admin-fields-modal.js
+    admin-fields-modal.min.js
+com_finder
+css
+dates.css
+finder.css
+indexer.css
+js
+    autocompleter.js
+    indexer.js
+com_joomlaupdate
+js
+    default.js
+    default.min.js
+    encryption.js
+    encryption.min.js
+    json2.js
+    json2.min.js
+    update.js
+    update.min.js
+com_menus
+js
+    admin-items-modal.js
+    admin-items-modal.min.js
+com_modules
+js
+    admin-modules-modal.js
+    admin-modules-modal.min.js
+com_wrapper
+js
+    iframe-height.js
+    iframe-height.min.js
+contacts
+images
+    con_address.png
+    con_fax.png
+    con_info.png
+    con_mobile.png
+    con_tel.png
+    emailButton.png
+editors
+codemirror
+addon
+comment
+comment.js
+comment.min.js
+continuecomment.js
+continuecomment.min.js
+dialog
+dialog.css
+dialog.js
+dialog.min.css
+dialog.min.js
+display
+autorefresh.js
+autorefresh.min.js
+fullscreen.css
+fullscreen.js
+fullscreen.min.css
+fullscreen.min.js
+panel.js
+panel.min.js
+placeholder.js
+placeholder.min.js
+rulers.js
+rulers.min.js
+edit
+closebrackets.js
+closebrackets.min.js
+closetag.js
+closetag.min.js
+continuelist.js
+continuelist.min.js
+matchbrackets.js
+matchbrackets.min.js
+matchtags.js
+matchtags.min.js
+trailingspace.js
+trailingspace.min.js
+fold
+brace-fold.js
+brace-fold.min.js
+comment-fold.js
+comment-fold.min.js
+foldcode.js
+foldcode.min.js
+foldgutter.css
+foldgutter.js
+foldgutter.min.css
+foldgutter.min.js
+indent-fold.js
+indent-fold.min.js
+markdown-fold.js
+markdown-fold.min.js
+xml-fold.js
+xml-fold.min.js
+hint
+anyword-hint.js
+anyword-hint.min.js
+css-hint.js
+css-hint.min.js
+html-hint.js
+html-hint.min.js
+javascript-hint.js
+javascript-hint.min.js
+show-hint.css
+show-hint.js
+show-hint.min.css
+show-hint.min.js
+sql-hint.js
+sql-hint.min.js
+xml-hint.js
+xml-hint.min.js
+lint
+coffeescript-lint.js
+coffeescript-lint.min.js
+css-lint.js
+css-lint.min.js
+html-lint.js
+html-lint.min.js
+javascript-lint.js
+javascript-lint.min.js
+json-lint.js
+json-lint.min.js
+lint.css
+lint.js
+lint.min.css
+lint.min.js
+yaml-lint.js
+yaml-lint.min.js
+merge
+merge.css
+merge.js
+merge.min.css
+merge.min.js
+mode
+loadmode.js
+loadmode.min.js
+multiplex.js
+multiplex.min.js
+multiplex_test.js
+multiplex_test.min.js
+overlay.js
+overlay.min.js
+simple.js
+simple.min.js
+runmode
+colorize.js
+colorize.min.js
+runmode.js
+runmode.min.js
+runmode.node.js
+runmode-standalone.js
+runmode-standalone.min.js
+scroll
+annotatescrollbar.js
+annotatescrollbar.min.js
+scrollpastend.js
+scrollpastend.min.js
+simplescrollbars.css
+simplescrollbars.js
+simplescrollbars.min.css
+simplescrollbars.min.js
+search
+jump-to-line.js
+jump-to-line.min.js
+matchesonscrollbar.css
+matchesonscrollbar.js
+matchesonscrollbar.min.css
+matchesonscrollbar.min.js
+match-highlighter.js
+match-highlighter.min.js
+searchcursor.js
+searchcursor.min.js
+search.js
+search.min.js
+selection
+active-line.js
+active-line.min.js
+mark-selection.js
+mark-selection.min.js
+selection-pointer.js
+selection-pointer.min.js
+tern
+tern.css
+tern.js
+tern.min.css
+tern.min.js
+worker.js
+worker.min.js
+wrap
+    hardwrap.js
+    hardwrap.min.js
+keymap
+emacs.js
+emacs.min.js
+sublime.js
+sublime.min.js
+vim.js
+vim.min.js
+lib
+addons.css
+addons.js
+addons.min.css
+addons.min.js
+codemirror.css
+codemirror.js
+codemirror.min.css
+codemirror.min.js
+LICENSE
+mode
+apl
+apl.js
+apl.min.js
+asciiarmor
+asciiarmor.js
+asciiarmor.min.js
+asn.1
+asn.1.js
+asn.min.js
+asterisk
+asterisk.js
+asterisk.min.js
+brainfuck
+brainfuck.js
+brainfuck.min.js
+clike
+clike.js
+clike.min.js
+clojure
+clojure.js
+clojure.min.js
+cmake
+cmake.js
+cmake.min.js
+cobol
+cobol.js
+cobol.min.js
+coffeescript
+coffeescript.js
+coffeescript.min.js
+commonlisp
+commonlisp.js
+commonlisp.min.js
+crystal
+crystal.js
+crystal.min.js
+css
+css.js
+css.min.js
+cypher
+cypher.js
+cypher.min.js
+d
+d.js
+d.min.js
+dart
+dart.js
+dart.min.js
+diff
+diff.js
+diff.min.js
+django
+django.js
+django.min.js
+dockerfile
+dockerfile.js
+dockerfile.min.js
+dtd
+dtd.js
+dtd.min.js
+dylan
+dylan.js
+dylan.min.js
+ebnf
+ebnf.js
+ebnf.min.js
+ecl
+ecl.js
+ecl.min.js
+eiffel
+eiffel.js
+eiffel.min.js
+elm
+elm.js
+elm.min.js
+erlang
+erlang.js
+erlang.min.js
+factor
+factor.js
+factor.min.js
+fcl
+fcl.js
+fcl.min.js
+forth
+forth.js
+forth.min.js
+fortran
+fortran.js
+fortran.min.js
+gas
+gas.js
+gas.min.js
+gfm
+gfm.js
+gfm.min.js
+gherkin
+gherkin.js
+gherkin.min.js
+go
+go.js
+go.min.js
+groovy
+groovy.js
+groovy.min.js
+haml
+haml.js
+haml.min.js
+handlebars
+handlebars.js
+handlebars.min.js
+haskell
+haskell.js
+haskell.min.js
+haskell-literate
+haskell-literate.js
+haskell-literate.min.js
+haxe
+haxe.js
+haxe.min.js
+htmlembedded
+htmlembedded.js
+htmlembedded.min.js
+htmlmixed
+htmlmixed.js
+htmlmixed.min.js
+http
+http.js
+http.min.js
+idl
+idl.js
+idl.min.js
+javascript
+javascript.js
+javascript.min.js
+jinja2
+jinja2.js
+jinja2.min.js
+jsx
+jsx.js
+jsx.min.js
+julia
+julia.js
+julia.min.js
+livescript
+livescript.js
+livescript.min.js
+lua
+lua.js
+lua.min.js
+markdown
+markdown.js
+markdown.min.js
+mathematica
+mathematica.js
+mathematica.min.js
+mbox
+mbox.js
+mbox.min.js
+meta.js
+meta.min.js
+mirc
+mirc.js
+mirc.min.js
+mllike
+mllike.js
+mllike.min.js
+modelica
+modelica.js
+modelica.min.js
+mscgen
+mscgen.js
+mscgen.min.js
+mumps
+mumps.js
+mumps.min.js
+nginx
+nginx.js
+nginx.min.js
+nsis
+nsis.js
+nsis.min.js
+ntriples
+ntriples.js
+ntriples.min.js
+octave
+octave.js
+octave.min.js
+oz
+oz.js
+oz.min.js
+pascal
+pascal.js
+pascal.min.js
+pegjs
+pegjs.js
+pegjs.min.js
+perl
+perl.js
+perl.min.js
+php
+php.js
+php.min.js
+pig
+pig.js
+pig.min.js
+powershell
+powershell.js
+powershell.min.js
+properties
+properties.js
+properties.min.js
+protobuf
+protobuf.js
+protobuf.min.js
+pug
+pug.js
+pug.min.js
+puppet
+puppet.js
+puppet.min.js
+python
+python.js
+python.min.js
+q
+q.js
+q.min.js
+r
+r.js
+r.min.js
+rpm
+changes
+index.html
+rpm.js
+rpm.min.js
+rst
+rst.js
+rst.min.js
+ruby
+ruby.js
+ruby.min.js
+rust
+rust.js
+rust.min.js
+sas
+sas.js
+sas.min.js
+sass
+sass.js
+sass.min.js
+scheme
+scheme.js
+scheme.min.js
+shell
+shell.js
+shell.min.js
+sieve
+sieve.js
+sieve.min.js
+slim
+slim.js
+slim.min.js
+smalltalk
+smalltalk.js
+smalltalk.min.js
+smarty
+smarty.js
+smarty.min.js
+solr
+solr.js
+solr.min.js
+soy
+soy.js
+soy.min.js
+sparql
+sparql.js
+sparql.min.js
+spreadsheet
+spreadsheet.js
+spreadsheet.min.js
+sql
+sql.js
+sql.min.js
+stex
+stex.js
+stex.min.js
+stylus
+stylus.js
+stylus.min.js
+swift
+swift.js
+swift.min.js
+tcl
+tcl.js
+tcl.min.js
+textile
+textile.js
+textile.min.js
+tiddlywiki
+tiddlywiki.css
+tiddlywiki.js
+tiddlywiki.min.css
+tiddlywiki.min.js
+tiki
+tiki.css
+tiki.js
+tiki.min.css
+tiki.min.js
+toml
+toml.js
+toml.min.js
+tornado
+tornado.js
+tornado.min.js
+troff
+troff.js
+troff.min.js
+ttcn
+ttcn.js
+ttcn.min.js
+ttcn-cfg
+ttcn-cfg.js
+ttcn-cfg.min.js
+turtle
+turtle.js
+turtle.min.js
+twig
+twig.js
+twig.min.js
+vb
+vb.js
+vb.min.js
+vbscript
+vbscript.js
+vbscript.min.js
+velocity
+velocity.js
+velocity.min.js
+verilog
+verilog.js
+verilog.min.js
+vhdl
+vhdl.js
+vhdl.min.js
+vue
+vue.js
+vue.min.js
+webidl
+webidl.js
+webidl.min.js
+xml
+xml.js
+xml.min.js
+xquery
+xquery.js
+xquery.min.js
+yacas
+yacas.js
+yacas.min.js
+yaml
+yaml.js
+yaml.min.js
+yaml-frontmatter
+yaml-frontmatter.js
+yaml-frontmatter.min.js
+z80
+    z80.js
+    z80.min.js
+theme
+    3024-day.css
+    3024-night.css
+    abcdef.css
+    ambiance.css
+    ambiance-mobile.css
+    base16-dark.css
+    base16-light.css
+    bespin.css
+    blackboard.css
+    cobalt.css
+    colorforth.css
+    darcula.css
+    dracula.css
+    duotone-dark.css
+    duotone-light.css
+    eclipse.css
+    elegant.css
+    erlang-dark.css
+    gruvbox-dark.css
+    hopscotch.css
+    icecoder.css
+    idea.css
+    isotope.css
+    lesser-dark.css
+    liquibyte.css
+    lucario.css
+    material.css
+    mbo.css
+    mdn-like.css
+    midnight.css
+    monokai.css
+    neat.css
+    neo.css
+    night.css
+    oceanic-next.css
+    panda-syntax.css
+    paraiso-dark.css
+    paraiso-light.css
+    pastel-on-dark.css
+    railscasts.css
+    rubyblue.css
+    seti.css
+    shadowfox.css
+    solarized.css
+    ssms.css
+    the-matrix.css
+    tomorrow-night-bright.css
+    tomorrow-night-eighties.css
+    ttcn.css
+    twilight.css
+    vibrant-ink.css
+    xq-dark.css
+    xq-light.css
+    yeti.css
+    zenburn.css
+none
+js
+    none.js
+    none.min.js
+tinymce
+    changelog.txt
+    js
+    plugins
+    dragdrop
+        plugin.js
+        plugin.min.js
+    tiny-close.js
+    tiny-close.min.js
+    tinymce-builder.js
+    tinymce.js
+    tinymce.min.js
+    langs
+    af.js
+    ar.js
+    be.js
+    bg.js
+    bs.js
+    ca.js
+    cs.js
+    cy.js
+    da.js
+    de.js
+    el.js
+    es.js
+    et.js
+    eu.js
+    fa.js
+    fi.js
+    fo.js
+    fr.js
+    ga.js
+    gl.js
+    he.js
+    hr.js
+    hu.js
+    id.js
+    it.js
+    ja.js
+    ka.js
+    kk.js
+    km.js
+    ko.js
+    lb.js
+    lt.js
+    lv.js
+    mk.js
+    ms.js
+    nb.js
+    nl.js
+    pl.js
+    pt-BR.js
+    pt-PT.js
+    readme.md
+    ro.js
+    ru.js
+    si-LK.js
+    sk.js
+    sl.js
+    sr.js
+    sv.js
+    sw.js
+    sy.js
+    ta.js
+    th.js
+    tr.js
+    ug.js
+    uk.js
+    vi.js
+    zh-CN.js
+    zh-TW.js
+    license.txt
+    plugins
+    advlist
+    plugin.min.js
+    anchor
+    plugin.min.js
+    autolink
+    plugin.min.js
+    autoresize
+    plugin.min.js
+    autosave
+    plugin.min.js
+    bbcode
+    plugin.min.js
+    charmap
+    plugin.min.js
+    code
+    plugin.min.js
+    codesample
+    css
+    prism.css
+    plugin.min.js
+    colorpicker
+    plugin.min.js
+    contextmenu
+    plugin.min.js
+    directionality
+    plugin.min.js
+    emoticons
+    img
+    smiley-cool.gif
+    smiley-cry.gif
+    smiley-embarassed.gif
+    smiley-foot-in-mouth.gif
+    smiley-frown.gif
+    smiley-innocent.gif
+    smiley-kiss.gif
+    smiley-laughing.gif
+    smiley-money-mouth.gif
+    smiley-sealed.gif
+    smiley-smile.gif
+    smiley-surprised.gif
+    smiley-tongue-out.gif
+    smiley-undecided.gif
+    smiley-wink.gif
+    smiley-yell.gif
+    plugin.min.js
+    example
+    dialog.html
+    plugin.min.js
+    example_dependency
+    plugin.min.js
+    fullpage
+    plugin.min.js
+    fullscreen
+    plugin.min.js
+    hr
+    plugin.min.js
+    image
+    plugin.min.js
+    imagetools
+    plugin.min.js
+    importcss
+    plugin.min.js
+    insertdatetime
+    plugin.min.js
+    layer
+    plugin.min.js
+    legacyoutput
+    plugin.min.js
+    link
+    plugin.min.js
+    lists
+    plugin.min.js
+    media
+    plugin.min.js
+    nonbreaking
+    plugin.min.js
+    noneditable
+    plugin.min.js
+    pagebreak
+    plugin.min.js
+    paste
+    plugin.min.js
+    preview
+    plugin.min.js
+    print
+    plugin.min.js
+    save
+    plugin.min.js
+    searchreplace
+    plugin.min.js
+    spellchecker
+    plugin.min.js
+    tabfocus
+    plugin.min.js
+    table
+    plugin.min.js
+    template
+    plugin.min.js
+    textcolor
+    plugin.min.js
+    textpattern
+    plugin.min.js
+    toc
+    plugin.min.js
+    visualblocks
+    css
+    visualblocks.css
+    plugin.min.js
+    visualchars
+    plugin.min.js
+    wordcount
+        plugin.min.js
+    skins
+    lightgray
+        content.inline.min.css
+        content.min.css
+        fonts
+        tinymce.eot
+        tinymce-small.eot
+        tinymce-small.svg
+        tinymce-small.ttf
+        tinymce-small.woff
+        tinymce.svg
+        tinymce.ttf
+        tinymce.woff
+        img
+        anchor.gif
+        loader.gif
+        object.gif
+        trans.gif
+        skin.ie7.min.css
+        skin.min.css
+    templates
+    layout1.html
+    snippet1.html
+    themes
+    modern
+        theme.min.js
+    tinymce.min.js
+index.html
+jui
+css
+bootstrap.css
+bootstrap-extended.css
+bootstrap.min.css
+bootstrap-responsive.css
+bootstrap-responsive.min.css
+bootstrap-rtl.css
+bootstrap-tooltip-extended.css
+chosen.css
+chosen-sprite@2x.png
+chosen-sprite.png
+icomoon.css
+jquery.minicolors.css
+jquery.searchtools.css
+jquery.simplecolors.css
+sortablelist.css
+fonts
+IcoMoon.dev.commented.svg
+IcoMoon.dev.svg
+IcoMoon.eot
+icomoon-license.txt
+IcoMoon.svg
+IcoMoon.ttf
+IcoMoon.woff
+images
+ajax-loader.gif
+img
+ajax-loader.gif
+alpha.png
+bg-overlay.png
+glyphicons-halflings.png
+glyphicons-halflings-white.png
+hue.png
+joomla.png
+jquery.minicolors.png
+saturation.png
+js
+ajax-chosen.js
+ajax-chosen.min.js
+bootstrap.js
+bootstrap.min.js
+bootstrap-tooltip-extended.js
+bootstrap-tooltip-extended.min.js
+chosen.jquery.js
+chosen.jquery.min.js
+cms.js
+cms-uncompressed.js
+fielduser.js
+fielduser.min.js
+html5.js
+html5-uncompressed.js
+icomoon-lte-ie7.js
+jquery.autocomplete.js
+jquery.autocomplete.min.js
+jquery.js
+jquery-migrate.js
+jquery-migrate.min.js
+jquery.minicolors.js
+jquery.minicolors.min.js
+jquery.min.js
+jquery-noconflict.js
+jquery.searchtools.js
+jquery.searchtools.min.js
+jquery.simplecolors.js
+jquery.simplecolors.min.js
+jquery.ui.core.js
+jquery.ui.core.min.js
+jquery.ui.sortable.js
+jquery.ui.sortable.min.js
+sortablelist.js
+treeselectmenu.jquery.js
+treeselectmenu.jquery.min.js
+less
+    accordion.less
+    alerts.less
+    bootstrap-extended.less
+    bootstrap.less
+    bootstrap-rtl.less
+    breadcrumbs.less
+    button-groups.less
+    buttons.less
+    carousel.less
+    close.less
+    code.less
+    component-animations.less
+    dropdowns.less
+    forms.less
+    grid.less
+    hero-unit.less
+    icomoon.less
+    labels-badges.less
+    layouts.less
+    media.less
+    mixins.less
+    modals.joomla.less
+    modals.less
+    navbar.less
+    navs.less
+    pager.less
+    pagination.less
+    popovers.less
+    progress-bars.less
+    reset.less
+    responsive-1200px-min.less
+    responsive-767px-max.joomla.less
+    responsive-767px-max.less
+    responsive-768px-979px.less
+    responsive.less
+    responsive-navbar.less
+    responsive-utilities.less
+    scaffolding.less
+    sprites.less
+    tables.less
+    thumbnails.less
+    tooltip.less
+    type.less
+    utilities.less
+    variables.less
+    wells.less
+mailto
+images
+    close-x.png
+media
+css
+background.png
+bigplay.fw.png
+bigplay.png
+bigplay.svg
+controls.fw.png
+controls.png
+controls.svg
+controls-ted.png
+controls-wmp-bg.png
+controls-wmp.png
+jumpforward.png
+loading.gif
+mediaelementplayer.css
+mediaelementplayer.min.css
+medialist-details.css
+medialist-details_rtl.css
+medialist-thumbs.css
+medialist-thumbs_rtl.css
+mediamanager.css
+mediamanager_rtl.css
+mejs-skins.css
+popup-imagelist.css
+popup-imagelist_rtl.css
+popup-imagemanager.css
+popup-imagemanager_rtl.css
+skipback.png
+images
+bar.gif
+con_info.png
+delete.png
+dots.gif
+failed.png
+folder.gif
+folder.png
+folder_sm.png
+folderup_16.png
+folderup_32.png
+mime-icon-16
+avi.png
+doc.png
+mov.png
+mp3.png
+mp4.png
+odc.png
+odd.png
+odt.png
+ogg.png
+pdf.png
+ppt.png
+rar.png
+rtf.png
+svg.png
+sxd.png
+tar.png
+tgz.png
+wma.png
+wmv.png
+xls.png
+zip.png
+mime-icon-32
+avi.png
+doc.png
+mov.png
+mp3.png
+mp4.png
+odc.png
+odd.png
+odt.png
+ogg.png
+pdf.png
+ppt.png
+rar.png
+rtf.png
+svg.png
+sxd.png
+tar.png
+tgz.png
+wma.png
+wmv.png
+xls.png
+zip.png
+progress.gif
+remove.png
+success.png
+uploading.png
+upload.png
+js
+    flashmediaelement-cdn.swf
+    flashmediaelement.swf
+    mediaelement-and-player.js
+    mediaelement-and-player.min.js
+    mediafield.js
+    mediafield.min.js
+    mediafield-mootools.js
+    mediafield-mootools.min.js
+    mediamanager.js
+    mediamanager.min.js
+    popup-imagemanager.js
+    popup-imagemanager.min.js
+    silverlightmediaelement.xap
+mod_languages
+css
+template.css
+images
+    af.gif
+    af_za.gif
+    al.gif
+    ar_aa.gif
+    ar.gif
+    at.gif
+    az_az.gif
+    az.gif
+    be_by.gif
+    be.gif
+    belg.gif
+    bg_bg.gif
+    bg.gif
+    bn_bd.gif
+    bn.gif
+    br_fr.gif
+    br.gif
+    bs_ba.gif
+    bs.gif
+    ca_es.gif
+    ca.gif
+    cbk_iq.gif
+    ch.gif
+    cs_cz.gif
+    cs.gif
+    cy_gb.gif
+    cy.gif
+    cz_cz.gif
+    cz.gif
+    da_dk.gif
+    da.gif
+    de_at.gif
+    de_ch.gif
+    de_de.gif
+    de.gif
+    de_li.gif
+    de_lu.gif
+    dk.gif
+    dz_bt.gif
+    el.gif
+    el_gr.gif
+    en_au.gif
+    en_ca.gif
+    en_gb.gif
+    en.gif
+    en_nz.gif
+    en_us.gif
+    eo.gif
+    eo_xx.gif
+    es_co.gif
+    es_es.gif
+    es.gif
+    et_ee.gif
+    et.gif
+    eu_es.gif
+    fa.gif
+    fa_ir.gif
+    fi_fi.gif
+    fi.gif
+    fr_ca.gif
+    fr_fr.gif
+    fr.gif
+    ga_ie.gif
+    gd_gb.gif
+    gd.gif
+    gl_es.gif
+    gl.gif
+    he.gif
+    he_il.gif
+    hi.gif
+    hi_in.gif
+    hk.gif
+    hk_hk.gif
+    hr.gif
+    hr_hr.gif
+    hu.gif
+    hu_hu.gif
+    hy_am.gif
+    hy.gif
+    icon-16-language.png
+    id.gif
+    id_id.gif
+    is.gif
+    is_is.gif
+    it.gif
+    it_it.gif
+    ja.gif
+    ja_jp.gif
+    ka_ge.gif
+    ka.gif
+    kk_kz.gif
+    km.gif
+    km_kh.gif
+    ko.gif
+    ko_kr.gif
+    ku.gif
+    lo.gif
+    lo_la.gif
+    lt.gif
+    lt_lt.gif
+    lv.gif
+    lv_lv.gif
+    mk.gif
+    mk_mk.gif
+    mn.gif
+    mn_mn.gif
+    ms_my.gif
+    nb_no.gif
+    nl_be.gif
+    nl.gif
+    nl_nl.gif
+    nn_no.gif
+    no.gif
+    pl.gif
+    pl_pl.gif
+    prs_af.gif
+    ps_af.gif
+    ps.gif
+    pt_br.gif
+    pt.gif
+    pt_pt.gif
+    ro.gif
+    ro_ro.gif
+    ru.gif
+    ru_ru.gif
+    si.gif
+    si_lk.gif
+    sk.gif
+    sk_sk.gif
+    sl.gif
+    sl_si.gif
+    sq_al.gif
+    sr.gif
+    srp_me.gif
+    sr_rs.gif
+    sr_yu.gif
+    sv.gif
+    sv_se.gif
+    sw.gif
+    sw_ke.gif
+    sy.gif
+    sy_iq.gif
+    ta.gif
+    ta_in.gif
+    th.gif
+    th_th.gif
+    tk_tm.gif
+    tr.gif
+    tr_tr.gif
+    tw.gif
+    ug_cn.gif
+    uk.gif
+    uk_ua.gif
+    ur.gif
+    ur_pk.gif
+    us.gif
+    uz.gif
+    uz_uz.gif
+    vi.gif
+    vi_vn.gif
+    zh_cn.gif
+    zh.gif
+    zh_tw.gif
+mod_sampledata
+js
+    sampledata-process.js
+overrider
+css
+overrider.css
+js
+    overrider.js
+    overrider.min.js
+plg_captcha_recaptcha
+js
+    recaptcha.js
+    recaptcha.min.js
+plg_captcha_recaptcha_invisible
+js
+    recaptcha.js
+    recaptcha.min.js
+plg_quickicon_extensionupdate
+js
+    extensionupdatecheck.js
+plg_quickicon_joomlaupdate
+js
+    jupdatecheck.js
+plg_quickicon_privacycheck
+js
+    privacycheck.js
+plg_system_highlight
+highlight.css
+plg_system_stats
+js
+    stats.js
+plg_twofactorauth_totp
+js
+    qrcode.js
+    qrcode.min.js
+    qrcode_SJIS.js
+    qrcode_UTF8.js
+system
+    css
+    adminlist.css
+    calendar-jos.css
+    fields
+    calendar.css
+    calendar-rtl.css
+    frontediting.css
+    jquery.Jcrop.min.css
+    modal.css
+    mootree.css
+    mootree_rtl.css
+    system.css
+    images
+    arrow.png
+    arrow_rtl.png
+    blank.png
+    calendar.png
+    checked_out.png
+    edit.png
+    edit_unpublished.png
+    emailButton.png
+    icon-16-logout.png
+    icon_error.gif
+    indent1.png
+    indent2.png
+    indent3.png
+    indent4.png
+    indent5.png
+    indent.png
+    livemarks.png
+    livemarks-rtl.png
+    modal
+    bg_e.png
+    bg_ne.png
+    bg_n.png
+    bg_nw.png
+    bg_se.png
+    bg_s.png
+    bg_sw.png
+    bg_w.png
+    closebox.png
+    spinner.gif
+    mooRainbow
+    blank.gif
+    moor_arrows.gif
+    moor_boverlay.png
+    moor_cursor.gif
+    moor_slider.png
+    moor_woverlay.png
+    mootree.gif
+    mootree_loader.gif
+    new.png
+    no_indent.png
+    notice-alert.png
+    notice-download.png
+    notice-info.png
+    notice-note.png
+    pdf_button.png
+    printButton.png
+    rating_star_blank.png
+    rating_star.png
+    sort0.png
+    sort1.png
+    sort_asc.png
+    sort_desc.png
+    sort_none.png
+    tooltip.png
+    weblink.png
+    js
+        associations-edit.js
+        associations-edit-uncompressed.js
+        calendar.js
+        calendar-setup.js
+        calendar-setup-uncompressed.js
+        calendar-uncompressed.js
+        caption.js
+        caption-uncompressed.js
+        color-field-adv-init.js
+        color-field-adv-init.min.js
+        color-field-init.js
+        color-field-init.min.js
+        combobox.js
+        combobox-uncompressed.js
+        core.js
+        core-uncompressed.js
+        fields
+        calendar.js
+        calendar-locales
+        af.js
+        ar.js
+        bg.js
+        bn.js
+        bs.js
+        ca.js
+        cs.js
+        cy.js
+        da.js
+        date
+        gregorian
+        date-helper.js
+        date-helper.min.js
+        jalali
+            date-helper.js
+            date-helper.min.js
+        de.js
+        el.js
+        en.js
+        es.js
+        eu.js
+        fa-ir.js
+        fi.js
+        fr.js
+        ga.js
+        hr.js
+        hu.js
+        it.js
+        ja.js
+        ka.js
+        kk.js
+        ko.js
+        lt.js
+        mk.js
+        nb.js
+        nl.js
+        pl.js
+        prs-af.js
+        pt.js
+        ru.js
+        sk.js
+        sl.js
+        sr-rs.js
+        sr-yu.js
+        sv.js
+        sw.js
+        ta.js
+        th.js
+        uk.js
+        zh-CN.js
+        zh-TW.js
+        calendar.min.js
+        frontediting.js
+        frontediting-uncompressed.js
+        helpsite.js
+        highlighter.js
+        highlighter-uncompressed.js
+        html5fallback.js
+        html5fallback-uncompressed.js
+        jquery.Jcrop.js
+        jquery.Jcrop.min.js
+        keepalive.js
+        keepalive-uncompressed.js
+        modal-fields.js
+        modal-fields-uncompressed.js
+        modal.js
+        modal-uncompressed.js
+        moduleorder.js
+        mootools-core.js
+        mootools-core-uncompressed.js
+        mootools-more.js
+        mootools-more-uncompressed.js
+        mootree.js
+        mootree-uncompressed.js
+        multiselect.js
+        multiselect-uncompressed.js
+        passwordstrength.js
+        permissions.js
+        permissions-uncompressed.js
+        polyfill.classlist.js
+        polyfill.classlist-uncompressed.js
+        polyfill.event.js
+        polyfill.event-uncompressed.js
+        polyfill.filter.js
+        polyfill.filter-uncompressed.js
+        polyfill.map.js
+        polyfill.map-uncompressed.js
+        polyfill.xpath.js
+        polyfill.xpath-uncompressed.js
+        progressbar.js
+        progressbar-uncompressed.js
+        punycode.js
+        punycode-uncompressed.js
+        repeatable.js
+        repeatable-uncompressed.js
+        sendtestmail.js
+        sendtestmail-uncompressed.js
+        subform-repeatable.js
+        subform-repeatable-uncompressed.js
+        switcher.js
+        switcher-uncompressed.js
+        tabs.js
+        tabs-state.js
+        tabs-state-uncompressed.js
+        validate.js
+        validate-uncompressed.js
+modules
+index.html
+mod_articles_archive
+helper.php
+mod_articles_archive.php
+mod_articles_archive.xml
+tmpl
+    default.php
+mod_articles_categories
+helper.php
+mod_articles_categories.php
+mod_articles_categories.xml
+tmpl
+    default_items.php
+    default.php
+mod_articles_category
+helper.php
+mod_articles_category.php
+mod_articles_category.xml
+tmpl
+    default.php
+mod_articles_latest
+helper.php
+mod_articles_latest.php
+mod_articles_latest.xml
+tmpl
+    default.php
+mod_articles_news
+helper.php
+mod_articles_news.php
+mod_articles_news.xml
+tmpl
+    default.php
+    horizontal.php
+    _item.php
+    vertical.php
+mod_articles_popular
+helper.php
+mod_articles_popular.php
+mod_articles_popular.xml
+tmpl
+    default.php
+mod_banners
+helper.php
+mod_banners.php
+mod_banners.xml
+tmpl
+    default.php
+mod_breadcrumbs
+helper.php
+mod_breadcrumbs.php
+mod_breadcrumbs.xml
+tmpl
+    default.php
+mod_custom
+mod_custom.php
+mod_custom.xml
+tmpl
+    default.php
+mod_feed
+helper.php
+mod_feed.php
+mod_feed.xml
+tmpl
+    default.php
+mod_finder
+helper.php
+mod_finder.php
+mod_finder.xml
+tmpl
+    default.php
+mod_footer
+mod_footer.php
+mod_footer.xml
+tmpl
+    default.php
+mod_languages
+helper.php
+mod_languages.php
+mod_languages.xml
+tmpl
+    default.php
+mod_login
+helper.php
+mod_login.php
+mod_login.xml
+tmpl
+    default_logout.php
+    default.php
+mod_menu
+helper.php
+mod_menu.php
+mod_menu.xml
+tmpl
+    default_component.php
+    default_heading.php
+    default.php
+    default_separator.php
+    default_url.php
+mod_random_image
+helper.php
+mod_random_image.php
+mod_random_image.xml
+tmpl
+    default.php
+mod_related_items
+helper.php
+mod_related_items.php
+mod_related_items.xml
+tmpl
+    default.php
+mod_search
+helper.php
+mod_search.php
+mod_search.xml
+tmpl
+    default.php
+mod_stats
+helper.php
+mod_stats.php
+mod_stats.xml
+tmpl
+    default.php
+mod_syndicate
+helper.php
+mod_syndicate.php
+mod_syndicate.xml
+tmpl
+    default.php
+mod_tags_popular
+helper.php
+mod_tags_popular.php
+mod_tags_popular.xml
+tmpl
+    cloud.php
+    default.php
+mod_tags_similar
+helper.php
+mod_tags_similar.php
+mod_tags_similar.xml
+tmpl
+    default.php
+mod_users_latest
+helper.php
+mod_users_latest.php
+mod_users_latest.xml
+tmpl
+    default.php
+mod_whosonline
+helper.php
+mod_whosonline.php
+mod_whosonline.xml
+tmpl
+    default.php
+mod_wrapper
+    helper.php
+    mod_wrapper.php
+    mod_wrapper.xml
+    tmpl
+        default.php
+phpunit.xml.dist
+plugins
+actionlog
+joomla
+    joomla.php
+    joomla.xml
+authentication
+cookie
+cookie.php
+cookie.xml
+gmail
+gmail.php
+gmail.xml
+joomla
+joomla.php
+joomla.xml
+ldap
+    ldap.php
+    ldap.xml
+captcha
+recaptcha
+postinstall
+actions.php
+recaptcha.php
+recaptcha.xml
+recaptcha_invisible
+    recaptcha_invisible.php
+    recaptcha_invisible.xml
+content
+confirmconsent
+confirmconsent.php
+confirmconsent.xml
+fields
+    consentbox.php
+contact
+contact.php
+contact.xml
+emailcloak
+emailcloak.php
+emailcloak.xml
+fields
+fields.php
+fields.xml
+finder
+finder.php
+finder.xml
+joomla
+joomla.php
+joomla.xml
+loadmodule
+loadmodule.php
+loadmodule.xml
+pagebreak
+pagebreak.php
+pagebreak.xml
+tmpl
+    navigation.php
+    toc.php
+pagenavigation
+pagenavigation.php
+pagenavigation.xml
+tmpl
+    default.php
+vote
+    tmpl
+    rating.php
+    vote.php
+    vote.php
+    vote.xml
+editors
+codemirror
+codemirror.php
+codemirror.xml
+fonts.json
+fonts.php
+layouts
+    editors
+        codemirror
+            element.php
+            init.php
+            styles.php
+none
+none.php
+none.xml
+tinymce
+    field
+    skins.php
+    tinymcebuilder.php
+    uploaddirs.php
+    form
+    setoptions.xml
+    tinymce.php
+    tinymce.xml
+editors-xtd
+article
+article.php
+article.xml
+contact
+contact.php
+contact.xml
+fields
+fields.php
+fields.xml
+image
+image.php
+image.xml
+menu
+menu.php
+menu.xml
+module
+module.php
+module.xml
+pagebreak
+pagebreak.php
+pagebreak.xml
+readmore
+    readmore.php
+    readmore.xml
+extension
+joomla
+    joomla.php
+    joomla.xml
+fields
+calendar
+calendar.php
+calendar.xml
+params
+calendar.xml
+tmpl
+    calendar.php
+checkboxes
+checkboxes.php
+checkboxes.xml
+params
+checkboxes.xml
+tmpl
+    checkboxes.php
+color
+color.php
+color.xml
+tmpl
+    color.php
+editor
+editor.php
+editor.xml
+params
+editor.xml
+tmpl
+    editor.php
+imagelist
+imagelist.php
+imagelist.xml
+params
+imagelist.xml
+tmpl
+    imagelist.php
+integer
+integer.php
+integer.xml
+params
+integer.xml
+tmpl
+    integer.php
+list
+list.php
+list.xml
+params
+list.xml
+tmpl
+    list.php
+media
+media.php
+media.xml
+params
+media.xml
+tmpl
+    media.php
+radio
+params
+radio.xml
+radio.php
+radio.xml
+tmpl
+    radio.php
+repeatable
+params
+repeatable.xml
+repeatable.php
+repeatable.xml
+tmpl
+    repeatable.php
+sql
+params
+sql.xml
+sql.php
+sql.xml
+tmpl
+    sql.php
+text
+params
+text.xml
+text.php
+text.xml
+tmpl
+    text.php
+textarea
+params
+textarea.xml
+textarea.php
+textarea.xml
+tmpl
+    textarea.php
+url
+params
+url.xml
+tmpl
+url.php
+url.php
+url.xml
+user
+params
+user.xml
+tmpl
+user.php
+user.php
+user.xml
+usergrouplist
+    params
+    usergrouplist.xml
+    tmpl
+    usergrouplist.php
+    usergrouplist.php
+    usergrouplist.xml
+finder
+categories
+categories.php
+categories.xml
+contacts
+contacts.php
+contacts.xml
+content
+content.php
+content.xml
+newsfeeds
+newsfeeds.php
+newsfeeds.xml
+tags
+    tags.php
+    tags.xml
+index.html
+installer
+folderinstaller
+folderinstaller.php
+folderinstaller.xml
+tmpl
+    default.php
+packageinstaller
+packageinstaller.php
+packageinstaller.xml
+tmpl
+    default.php
+urlinstaller
+    tmpl
+    default.php
+    urlinstaller.php
+    urlinstaller.xml
+privacy
+actionlogs
+actionlogs.php
+actionlogs.xml
+consents
+consents.php
+consents.xml
+contact
+contact.php
+contact.xml
+content
+content.php
+content.xml
+message
+message.php
+message.xml
+user
+    user.php
+    user.xml
+quickicon
+extensionupdate
+extensionupdate.php
+extensionupdate.xml
+joomlaupdate
+joomlaupdate.php
+joomlaupdate.xml
+phpversioncheck
+phpversioncheck.php
+phpversioncheck.xml
+privacycheck
+    privacycheck.php
+    privacycheck.xml
+sampledata
+blog
+    blog.php
+    blog.xml
+search
+categories
+categories.php
+categories.xml
+contacts
+contacts.php
+contacts.xml
+content
+content.php
+content.xml
+newsfeeds
+newsfeeds.php
+newsfeeds.xml
+tags
+    tags.php
+    tags.xml
+system
+actionlogs
+actionlogs.php
+actionlogs.xml
+forms
+    actionlogs.xml
+    information.xml
+cache
+cache.php
+cache.xml
+debug
+debug.php
+debug.xml
+fields
+fields.php
+fields.xml
+highlight
+highlight.php
+highlight.xml
+languagecode
+language
+en-GB
+    en-GB.plg_system_languagecode.ini
+    en-GB.plg_system_languagecode.sys.ini
+languagecode.php
+languagecode.xml
+languagefilter
+languagefilter.php
+languagefilter.xml
+log
+log.php
+log.xml
+logout
+logout.php
+logout.xml
+logrotation
+logrotation.php
+logrotation.xml
+p3p
+p3p.php
+p3p.xml
+privacyconsent
+field
+privacy.php
+privacyconsent
+privacyconsent.xml
+privacyconsent.php
+privacyconsent.xml
+redirect
+form
+excludes.xml
+redirect.php
+redirect.xml
+remember
+remember.php
+remember.xml
+sef
+sef.php
+sef.xml
+sessiongc
+sessiongc.php
+sessiongc.xml
+stats
+field
+base.php
+data.php
+uniqueid.php
+layouts
+field
+data.php
+uniqueid.php
+message.php
+stats.php
+stats.php
+stats.xml
+updatenotification
+    postinstall
+    updatecachetime.php
+    updatenotification.php
+    updatenotification.xml
+twofactorauth
+totp
+postinstall
+actions.php
+tmpl
+form.php
+totp.php
+totp.xml
+yubikey
+    tmpl
+    form.php
+    yubikey.php
+    yubikey.xml
+user
+    contactcreator
+    contactcreator.php
+    contactcreator.xml
+    joomla
+    joomla.php
+    joomla.xml
+    profile
+    field
+    dob.php
+    tos.php
+    profile.php
+    profiles
+    profile.xml
+    profile.xml
+    terms
+        field
+        terms.php
+        terms
+        terms.xml
+        terms.php
+        terms.xml
+README.md
+README.txt
+RoboFile.dist.ini
+RoboFile.php
+robots.txt.dist
+templates
+beez3
+component.php
+css
+general.css
+ie7only.css
+ieonly.css
+layout.css
+nature.css
+nature_rtl.css
+personal.css
+personal_rtl.css
+position.css
+print.css
+red.css
+template.css
+template_rtl.css
+turq.css
+turq.less
+error.php
+favicon.ico
+html
+com_contact
+categories
+default_items.php
+default.php
+category
+default_children.php
+default_items.php
+default.php
+contact
+    default_address.php
+    default_articles.php
+    default_form.php
+    default_links.php
+    default.php
+    default_profile.php
+    default_user_custom_fields.php
+    encyclopedia.php
+com_content
+archive
+default_items.php
+default.php
+article
+default_links.php
+default.php
+categories
+default_items.php
+default.php
+category
+blog_children.php
+blog_item.php
+blog_links.php
+blog.php
+default_articles.php
+default_children.php
+default.php
+featured
+default_item.php
+default_links.php
+default.php
+form
+    edit.php
+com_newsfeeds
+categories
+default_items.php
+default.php
+category
+    default_children.php
+    default_items.php
+    default.php
+com_weblinks
+categories
+default_items.php
+default.php
+category
+default_children.php
+default_items.php
+default.php
+form
+    edit.php
+layouts
+joomla
+    system
+        message.php
+mod_breadcrumbs
+default.php
+mod_languages
+default.php
+mod_login
+default_logout.php
+default.php
+modules.php
+images
+all_bg.gif
+arrow2_grey.png
+arrow.png
+arrow_white_grey.png
+blog_more.gif
+blog_more_hover.gif
+close.png
+content_bg.gif
+footer_bg.gif
+footer_bg.png
+header-bg.gif
+minus.png
+nature
+arrow1.gif
+arrow1_rtl.gif
+arrow2.gif
+arrow2_grey.png
+arrow2_rtl.gif
+arrow_nav.gif
+arrow_small.png
+arrow_small_rtl.png
+blog_more.gif
+box1.png
+box.png
+grey_bg.png
+headingback.png
+karo.gif
+level4.png
+nav_level1_a.gif
+nav_level_1.gif
+pfeil.gif
+readmore_arrow.png
+searchbutton.png
+tabs.gif
+nav_level_1.gif
+news.gif
+personal
+arrow2_grey.jpg
+arrow2_grey.png
+bg2.png
+button.png
+dot.png
+ecke.gif
+footer.jpg
+grey_bg.png
+navi_active.png
+personal2.png
+readmore_arrow_hover.png
+readmore_arrow.png
+tabs_back.png
+plus.png
+req.png
+slider_minus.png
+slider_minus_rtl.png
+slider_plus.png
+slider_plus_rtl.png
+system
+arrow.png
+arrow_rtl.png
+calendar.png
+j_button2_blank.png
+j_button2_image.png
+j_button2_left.png
+j_button2_pagebreak.png
+j_button2_readmore.png
+notice-alert.png
+notice-alert_rtl.png
+notice-info.png
+notice-info_rtl.png
+notice-note.png
+notice-note_rtl.png
+selector-arrow.png
+table_footer.gif
+trans.gif
+index.php
+javascript
+hide.js
+md_stylechanger.js
+respond.js
+respond.src.js
+template.js
+jsstrings.php
+language
+en-GB
+    en-GB.tpl_beez3.ini
+    en-GB.tpl_beez3.sys.ini
+templateDetails.xml
+template_preview.png
+template_thumbnail.png
+index.html
+protostar
+component.php
+css
+offline.css
+template.css
+error.php
+favicon.ico
+html
+com_media
+imageslist
+    default_folder.php
+    default_image.php
+layouts
+joomla
+    form
+    field
+        contenthistory.php
+        media.php
+        user.php
+    system
+        message.php
+modules.php
+pagination.php
+images
+logo.png
+system
+    rating_star_blank.png
+    rating_star.png
+    sort_asc.png
+    sort_desc.png
+img
+glyphicons-halflings.png
+glyphicons-halflings-white.png
+index.php
+js
+application.js
+classes.js
+template.js
+language
+en-GB
+    en-GB.tpl_protostar.ini
+    en-GB.tpl_protostar.sys.ini
+less
+icomoon.less
+template.less
+template_rtl.less
+variables.less
+offline.php
+templateDetails.xml
+template_preview.png
+template_thumbnail.png
+system
+    component.php
+    css
+    editor.css
+    error.css
+    error_rtl.css
+    general.css
+    offline.css
+    offline_rtl.css
+    system.css
+    toolbar.css
+    error.php
+    html
+    modules.php
+    images
+    calendar.png
+    j_button2_blank.png
+    j_button2_image.png
+    j_button2_left.png
+    j_button2_pagebreak.png
+    j_button2_readmore.png
+    j_button2_right.png
+    selector-arrow.png
+    index.php
+    offline.php
+tests
+codeception
+acceptance
+administrator
+components
+    com_users
+        UserCest.php
+_bootstrap.php
+components
+com_users
+    UserCest.php
+install
+    InstallCest.php
+acceptance.suite.dist.yml
+_bootstrap.php
+composer.json
+composer.lock
+_data
+dump.sql
+functional
+_bootstrap.php
+functional.suite.yml
+README.md
+_support
+AcceptanceTester.php
+FunctionalTester.php
+Helper
+Acceptance.php
+Functional.php
+JoomlaDb.php
+Unit.php
+Page
+Acceptance
+    Administrator
+    AdminPage.php
+    UserManagerPage.php
+    Site
+        FrontPage.php
+Shared
+UserCredentials.php
+UnitTester.php
+travis-ci-apache.conf
+unit.suite.yml
+javascript
+calendar
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+caption
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+combobox
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+core
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+highlighter
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+package.json
+permissions
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+repeatable
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+sendtestmail
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+subform-repeatable
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+switcher
+fixtures
+fixture.html
+spec.js
+spec-setup.js
+test-main.js
+validate
+    fixtures
+    fixture.html
+    spec.js
+    spec-setup.js
+README.md
+unit
+    bootstrap.php
+    core
+    case
+    cache.php
+    case.php
+    database
+    mysqli.php
+    mysql.php
+    oracle.php
+    pdomysql.php
+    postgresql.php
+    sqlsrv.php
+    database.php
+    helper.php
+    mock
+    application
+    base.php
+    cli.php
+    cms.php
+    web.php
+    application.php
+    cache.php
+    config.php
+    controller.php
+    database
+    driver.php
+    query.php
+    dispatcher.php
+    document.php
+    input.php
+    language.php
+    menu.php
+    rules.php
+    session.php
+    reflection.php
+    README.md
+    schema
+    ddl.sql
+    mysql.sql
+    postgresql.sql
+    sqlsrv.sql
+    stubs
+    bogusload.php
+    configuration.php
+    config.wrongclass.php
+    database
+    jos_assets.csv
+    jos_banners_clients.csv
+    jos_banners.csv
+    jos_categories.csv
+    jos_contact_details.csv
+    jos_content.csv
+    jos_content_frontpage.csv
+    jos_content_types.csv
+    jos_extensions.csv
+    jos_finder_links.csv
+    jos_finder_links_terms0.csv
+    jos_finder_links_terms1.csv
+    jos_finder_links_terms2.csv
+    jos_finder_links_terms3.csv
+    jos_finder_links_terms4.csv
+    jos_finder_links_terms6.csv
+    jos_finder_links_terms7.csv
+    jos_finder_links_terms8.csv
+    jos_finder_links_terms9.csv
+    jos_finder_links_termsa.csv
+    jos_finder_links_termsb.csv
+    jos_finder_links_termsc.csv
+    jos_finder_links_termsd.csv
+    jos_finder_links_termse.csv
+    jos_finder_links_termsf.csv
+    jos_finder_taxonomy.csv
+    jos_finder_taxonomy_map.csv
+    jos_finder_terms_common.csv
+    jos_finder_terms.csv
+    jos_finder_types.csv
+    jos_languages.csv
+    jos_menu.csv
+    jos_menu_types.csv
+    jos_modules.csv
+    jos_modules_menu.csv
+    jos_newsfeeds.csv
+    jos_schemas.csv
+    jos_tags.csv
+    jos_template_styles.csv
+    jos_ucm_base.csv
+    jos_ucm_content.csv
+    jos_update_sites.csv
+    jos_update_sites_extensions.csv
+    jos_usergroups.csv
+    jos_users.csv
+    jos_user_usergroup_map.csv
+    jos_viewlevels.csv
+    jos_weblinks.csv
+    database.xml
+    discover1
+    challenger.php
+    columbia.php
+    enterprise.txt
+    discover2
+    challenger.php
+    discover3
+    atlantis.php
+    endeavour.php
+    DummyNamespace
+    DummyClass.php
+    feed
+    test.bad.feed
+    test.feed
+    test.myfeed.feed
+    FormInspectors.php
+    gittest
+    jhttp_stub.php
+    loader
+    patch
+    tester.php
+    patch.php
+    tester
+        tester.php
+    loaderoveralias
+    jloaderaliasstub.php
+    loaderoverride
+        aliasnewclass.php
+        aliasoverrideclass.php
+        originalnewclass.php
+        originaloverrideclass.php
+    suites
+    administrator
+    includes
+        JAdministratorHelperTest.php
+    database
+    driver
+        mysql
+        JDatabaseDriverMysqlTest.php
+        JDatabaseExporterMysqlTest.php
+        JDatabaseImporterMysqlTest.php
+        JDatabaseIteratorMysqlTest.php
+        mysqli
+        JDatabaseDriverMysqliTest.php
+        JDatabaseExporterMysqliTest.php
+        JDatabaseImporterMysqliTest.php
+        JDatabaseIteratorMysqliTest.php
+        JDatabaseQueryMysqliTest.php
+        pdomysql
+        JDatabaseDriverPdomysqlTest.php
+        JDatabaseExporterPdomysqlTest.php
+        JDatabaseImporterPdomysqlTest.php
+        JDatabaseIteratorPdomysqlTest.php
+        postgresql
+        JDatabaseDriverPostgresqlTest.php
+        JDatabaseExporterPostgresqlTest.php
+        JDatabaseImporterPostgresqlTest.php
+        JDatabaseIteratorPostgresqlTest.php
+        JDatabaseQueryPostgresqlTest.php
+        sqlite
+        JDatabaseQuerySqliteTest.php
+        sqlsrv
+            JDatabaseDriverSqlsrvTest.php
+            JDatabaseIteratorSqlsrvTest.php
+            JDatabaseQuerySqlsrvTest.php
+    finderIndexer
+    data
+    parseHtml2.txt
+    parseHtml3.txt
+    parseHtml.txt
+    FinderIndexerHelperTest.php
+    FinderIndexerParserTest.php
+    FinderIndexerResultTest.php
+    FinderIndexerStemmerTest.php
+    FinderIndexerTest.php
+    FinderIndexerTokenTest.php
+    parser
+    FinderIndexerParserHtmlTest.php
+    FinderIndexerParserRtfTest.php
+    stemmer
+        FinderIndexerStemmerFrTest.php
+        FinderIndexerStemmerPorter_EnTest.php
+    libraries
+    cms
+    application
+    JApplicationAdministratorTest.php
+    JApplicationCmsTest.php
+    JApplicationSiteTest.php
+    stubs
+        JApplicationCmsInspector.php
+        JApplicationHelperInspector.php
+    component
+    JComponentHelperTest.php
+    router
+        JComponentRouterBaseTest.php
+        JComponentRouterLegacyTest.php
+        JComponentRouterViewconfigurationTest.php
+        JComponentRouterViewTest.php
+        rules
+        JComponentRouterRulesMenuTest.php
+        JComponentRouterRulesNomenuTest.php
+        JComponentRouterRulesStandardTest.php
+        stubs
+            JComponentRouterRulesMenuInspector.php
+            JComponentRouterRulesNomenuInspector.php
+            MockJComponentRouterRulesMenuMenuObject.php
+        stubs
+            ComContentRouter.php
+            componentrouter.php
+            componentrouterrule.php
+            JCategoriesMock.php
+            JComponentRouterBaseInspector.php
+            JComponentRouterViewInspector.php
+    editor
+    JEditorTest.php
+    stubs
+        EditorObserver.php
+    error
+    JErrorPageTest.php
+    form
+    field
+    JFormFieldHeadertagTest.php
+    JFormFieldModuletagTest.php
+    rule
+        JFormRuleNotequalsTest.php
+    help
+    JHelpTest.php
+    helper
+    JHelperContentTest.php
+    JHelperMediaTest.php
+    JHelperTest.php
+    html
+    JHtmlBatchTest.php
+    JHtmlBehaviorTest.php
+    JHtmlBootstrapTest.php
+    JHtmlDateTest.php
+    JHtmlDebugTest.php
+    JHtmlEmailTest.php
+    JHtmlFormbehaviorTest.php
+    JHtmlFormTest.php
+    JHtmlIconsTest.php
+    JHtmlJqueryTest.php
+    JHtmlListTest.php
+    JHtmlMenuTest.php
+    JHtmlNumberTest.php
+    JHtmlSelectTest.php
+    JHtmlStringTest.php
+    JHtmlTelTest.php
+    JHtmlTest.php
+    JHtmlUserTest.php
+    stubs
+    JHtmlBehaviorInspector.php
+    JHtmlBootstrapInspector.php
+    JHtmlJqueryInspector.php
+    testfiles
+    empty.php
+    inspector.php
+    TestHelpers
+        JHtmlSelect-helper-dataset.php
+    installer
+    data
+    joomla.xml
+    mod_finder.xml
+    pkg_joomla.xml
+    JInstallerAdapterTest.php
+    JInstallerExtensionTest.php
+    JInstallerHelperTest.php
+    JInstallerTest.php
+    manifest
+        JInstallerManifestLibraryTest.php
+        JInstallerManifestPackageTest.php
+    language
+    JLanguageMultilangTest.php
+    layout
+    JLayoutBaseTest.php
+    JLayoutFileTest.php
+    module
+    JModuleHelperTest.php
+    pagination
+    JPaginationObjectTest.php
+    JPaginationTest.php
+    pathway
+    JPathwayTest.php
+    stubs
+        includes
+            pathway.php
+    plugin
+    JPluginHelperTest.php
+    JPluginTest.php
+    stubs
+        PlgSystemBase.php
+        PlgSystemJoomla.php
+        PlgSystemPrivate.php
+    response
+    JResponseJsonTest.php
+    stubs
+        mock.application.php
+    router
+    data
+    includes
+    router.php
+    TestRouter.php
+    JRouterAdministratorTest.php
+    JRouterSiteTest.php
+    JRouterTest.php
+    schema
+    JSchemaChangeitemTest.php
+    JSchemaChangesetTestMysqli.php
+    JSchemaChangesetTestMysql.php
+    JSchemaChangesetTestPdomysql.php
+    JSchemaChangesetTestPostgresql.php
+    JSchemaChangesetTestSqlsrv.php
+    stubs
+        mysql
+        3.0.0.sql
+        3.2.0.sql
+        3.5.0-2016-03-01.sql
+        postgresql
+        3.0.0.sql
+        3.2.0.sql
+        3.5.0-2016-03-01.sql
+        sqlazure
+            3.0.0.sql
+            3.2.0.sql
+            3.5.0-2016-03-01.sql
+    table
+    JTableContenttypeTest.php
+    JTableCorecontentTest.php
+    toolbar
+    button
+    JToolbarButtonConfirmTest.php
+    JToolbarButtonCustomTest.php
+    JToolbarButtonHelpTest.php
+    JToolbarButtonLinkTest.php
+    JToolbarButtonPopupTest.php
+    JToolbarButtonSliderTest.php
+    JToolbarButtonStandardTest.php
+    JToolbarButtonTest.php
+    JToolbarTest.php
+    ucm
+    JUcmBaseTest.php
+    JUcmContentTest.php
+    JUcmTypeTest.php
+    version
+        JVersionTest.php
+    joomla
+    access
+    JAccessRulesTest.php
+    JAccessRuleTest.php
+    JAccessTest.php
+    application
+    JApplicationBaseTest.php
+    JApplicationCliTest.php
+    JApplicationDaemonTest.php
+    JApplicationWebTest.php
+    stubs
+    JApplicationCliInspector.php
+    JApplicationDaemonInspector.php
+    JApplicationWebInspector.php
+    web
+        JApplicationWebRouterTest.php
+        router
+        JApplicationWebRouterBaseTest.php
+        JApplicationWebRouterRestTest.php
+        stubs
+            controllers
+            bar.php
+            baz.php
+            foo.php
+            JWebClientInspector.php
+    archive
+    JArchiveBzip2Test.php
+    JArchiveGzipTest.php
+    JArchiveTarTest.php
+    JArchiveTestCase.php
+    JArchiveTest.php
+    JArchiveZipTest.php
+    logo-bz2.png.bz2
+    logo-gz.png.gz
+    logo.tar
+    logo.zip
+    unknown.type
+    base
+    JAdapterInstanceTest.php
+    JAdapterTest.php
+    stubs
+        testadapter2.php
+        testadapter3.php
+        testadapter4.php
+        testadapter.php
+    cache
+    controller
+    JCacheControllerCallbackCallbackTest.php
+    JCacheControllerCallback.helper.php
+    JCacheControllerRaw.php
+    JCacheConstructTest.php
+    JCacheStorageTest.php
+    JCacheTest.php
+    storage
+        JCacheStorageApcTest.php
+        JCacheStorageApcuTest.php
+        JCacheStorageCacheliteTest.php
+        JCacheStorageFileTest.php
+        JCacheStorageMemcachedTest.php
+        JCacheStorageMemcacheTest.php
+        JCacheStorageMock.php
+        JCacheStorageRedisTest.php
+        JCacheStorageWincacheTest.php
+        JCacheStorageXcacheTest.php
+    controller
+    JControllerBaseTest.php
+    stubs
+        tbase.php
+    crypt
+    cipher
+    JCryptCipher3DesTest.php
+    JCryptCipherBlowfishTest.php
+    JCryptCipherCryptoTest.php
+    JCryptCipherRijndael256Test.php
+    JCryptCipherSimpleTest.php
+    JCryptCipherSodiumTest.php
+    stubs
+        encrypted
+            3des
+            1.txt
+            2.txt
+            3.txt
+            4.txt
+            5.txt
+            key.priv
+            key.pub
+            blowfish
+            1.txt
+            2.txt
+            3.txt
+            4.txt
+            5.txt
+            key.priv
+            key.pub
+            rijndael256
+            1.txt
+            2.txt
+            3.txt
+            4.txt
+            5.txt
+            key.priv
+            key.pub
+            simple
+                1.txt
+                2.txt
+                3.txt
+                4.txt
+                5.txt
+    JCryptTest.php
+    password
+        JCryptPasswordSimpleTest.php
+    database
+    JDatabaseDriverTest.php
+    JDatabaseFactoryTest.php
+    JDatabaseQueryElementInspector.php
+    JDatabaseQueryElementTest.php
+    JDatabaseQueryInspector.php
+    JDatabaseQueryTest.php
+    stubs
+        nosqldriver.php
+    date
+    JDateTest.php
+    document
+    error
+    JDocumentErrorTest.php
+    feed
+    JDocumentFeedTest.php
+    renderer
+        JDocumentRendererAtomTest.php
+        JDocumentRendererRSSTest.php
+    html
+    JDocumentHTMLTest.php
+    renderer
+        JDocumentRendererComponentTest.php
+        JDocumentRendererMessageTest.php
+    image
+    JDocumentImageTest.php
+    stubs
+        logo.gif
+        logo.jpeg
+        logo.jpg
+        logo.png
+    JDocumentRendererTest.php
+    JDocumentTest.php
+    json
+    JDocumentJSONTest.php
+    opensearch
+    JDocumentOpensearchTest.php
+    raw
+    JDocumentRawTest.php
+    renderer
+    JDocumentRendererHtmlModulesTest.php
+    xml
+        JDocumentXmlTest.php
+    environment
+    JBrowserTest.php
+    event
+    JEventDispatcherTest.php
+    JEventInspector.php
+    JEventStub.php
+    JEventTest.php
+    facebook
+    JFacebookAlbumTest.php
+    JFacebookCheckinTest.php
+    JFacebookCommentTest.php
+    JFacebookEventTest.php
+    JFacebookGroupTest.php
+    JFacebookLinkTest.php
+    JFacebookNoteTest.php
+    JFacebookOauthTest.php
+    JFacebookObjectTest.php
+    JFacebookPhotoTest.php
+    JFacebookPostTest.php
+    JFacebookStatusTest.php
+    JFacebookTest.php
+    JFacebookUserTest.php
+    JFacebookVideoTest.php
+    stubs
+        JFacebookObjectMock.php
+    feed
+    JFeedEntryTest.php
+    JFeedFactoryTest.php
+    JFeedLinkTest.php
+    JFeedParserTest.php
+    JFeedPersonTest.php
+    JFeedTest.php
+    parser
+    JFeedParserAtomTest.php
+    JFeedParserRssTest.php
+    stubs
+        JFeedParserMockNamespace.php
+        JFeedParserMock.php
+        JFeedParserProcessElementMock.php
+        samples
+            atom
+            0.3.xml
+            1.0.xml
+            rss
+                0.91.xml
+                0.92.xml
+                2.0.xml
+                itunes.xml
+                media.xml
+    filesystem
+    JFilesystemHelperTest.php
+    JFilesystemPatcherTest.php
+    JFileTest.php
+    JFolderTest.php
+    JPathTest.php
+    filter
+    JFilterInputTest.php
+    JFilterOutputTest.php
+    form
+    example.xml
+    field
+    JFormFieldCategoryTest.php
+    JFormFieldComponentLayoutTest.php
+    JFormFieldModuleLayoutTest.php
+    fields
+    JFormFieldAccessLevelTest.php
+    JFormFieldCacheHandlerTest.php
+    JFormFieldCheckboxesTest.php
+    JFormFieldCheckboxTest.php
+    JFormFieldColorTest.php
+    JFormFieldComboTest.php
+    JFormFieldDatabaseConnectionTest.php
+    JFormFieldEmailTest.php
+    JFormFieldFileListTest.php
+    JFormFieldFileTest.php
+    JFormFieldFolderListTest.php
+    JFormFieldGroupedListTest.php
+    JFormFieldHiddenTest.php
+    JFormFieldImageListTest.php
+    JFormFieldIntegerTest.php
+    JFormFieldLanguageTest.php
+    JFormFieldListTest.php
+    JFormFieldNumberTest.php
+    JFormFieldPasswordTest.php
+    JFormFieldPluginsTest.php
+    JFormFieldRadioTest.php
+    JFormFieldRange.php
+    JFormFieldRulesTest.php
+    JFormFieldSessionHandlerTest.php
+    JFormFieldSpacerTest.php
+    JFormFieldSQLTest.php
+    JFormFieldTelTest.php
+    JFormFieldTextareaTest.php
+    JFormFieldTextTest.php
+    JFormFieldTimezoneTest.php
+    JFormFieldUrlTest.php
+    JFormFieldUsergroupTest.php
+    TestHelpers
+        JHtmlFieldCheckbox-helper-dataset.php
+        JHtmlFieldEmail-helper-dataset.php
+        JHtmlFieldNumber-helper-dataset.php
+        JHtmlFieldPassword-helper-dataset.php
+        JHtmlFieldRadio-helper-dataset.php
+        JHtmlFieldRange-helper-dataset.php
+        JHtmlFieldTel-helper-dataset.php
+        JHtmlFieldTextarea-helper-dataset.php
+        JHtmlFieldText-helper-dataset.php
+        JHtmlFieldUrl-helper-dataset.php
+    JFormDataHelper.php
+    JFormFieldTest.php
+    JFormTest.php
+    language
+    en-GB
+        en-GB.form_test.ini
+    rule
+    JFormRuleBooleanTest.php
+    JFormRuleColorTest.php
+    JFormRuleEmailTest.php
+    JFormRuleOptionsTest.php
+    JFormRuleRulesTest.php
+    JFormRuleTelTest.php
+    JFormRuleUrlTest.php
+    _testfields
+    bar.php
+    customlayouts.php
+    foo.php
+    modal
+    bar.php
+    foo.php
+    test.php
+    TestHelpers
+    JHtmlField-helper-dataset.php
+    _testrules
+        custom.php
+    github
+    activity
+    JGithubPackageActivityEventsTest.php
+    JGithubPackageActivityNotificationsTest.php
+    JGithubPackageActivityStarringTest.php
+    JGithubPackageActivityWatchingTest.php
+    data
+    JGithubPackageDataBlobsTest.php
+    JGithubPackageDataCommitsTest.php
+    JGithubPackageDataRefsTest.php
+    JGithubPackageDataTagsTest.php
+    JGithubPackageDataTreesTest.php
+    issues
+    JGithubPackageIssuesAssigneesTest.php
+    JGithubPackageIssuesCommentsTest.php
+    JGithubPackageIssuesEventsTest.php
+    JGithubPackageIssuesLabelsTest.php
+    JGithubPackageIssuesMilestonesTest.php
+    JGithubAccountTest.php
+    JGithubCommitsTest.php
+    JGithubForksTest.php
+    JGithubGistsTest.php
+    JGithubHooksTest.php
+    JGithubHttpTest.php
+    JGithubIssuesTest.php
+    JGithubMetaTest.php
+    JGithubMilestonesTest.php
+    JGithubObjectTest.php
+    JGithubPackageAuthorizationsTest.php
+    JGithubPackageGistsTest.php
+    JGithubPackageGitignoreTest.php
+    JGithubPackageIssuesTest.php
+    JGithubPackageMarkdownTest.php
+    JGithubPackageOrgsTest.php
+    JGithubPackagePullsTest.php
+    JGithubPackageRepositoriesTest.php
+    JGithubPackageSearchTest.php
+    JGithubPackageUsersTest.php
+    JGithubPullsTest.php
+    JGithubRefsTest.php
+    JGithubStatusesTest.php
+    JGithubTest.php
+    JGithubUsersTest.php
+    orgs
+    JGithubPackageOrgsMembersTest.php
+    JGithubPackageOrgsTeamsTest.php
+    pulls
+    JGithubPackagePullsCommentsTest.php
+    repositories
+    JGithubPackageRepositoriesCollaboratorsTest.php
+    JGithubPackageRepositoriesCommentsTest.php
+    JGithubPackageRepositoriesContentsTest.php
+    JGithubPackageRepositoriesDownloadsTest.php
+    JGithubPackageRepositoriesForksTest.php
+    JGithubPackageRepositoriesHooksTest.php
+    JGithubPackageRepositoriesKeysTest.php
+    JGithubPackageRepositoriesMergingTest.php
+    JGithubPackageRepositoriesStatusesTest.php
+    stubs
+    JGithubObjectMock.php
+    users
+        JGithubPackageUsersEmailsTest.php
+        JGithubPackageUsersFollowersTest.php
+        JGithubPackageUsersKeysTest.php
+    google
+    albumlist.txt
+    album.txt
+    JGoogleAuthOauth2Test.php
+    JGoogleDataAdsenseTest.php
+    JGoogleDataCalendarTest.php
+    JGoogleDataPicasaAlbumTest.php
+    JGoogleDataPicasaPhotoTest.php
+    JGoogleDataPicasaTest.php
+    JGoogleDataPlusActivitiesTest.php
+    JGoogleDataPlusCommentsTest.php
+    JGoogleDataPlusPeopleTest.php
+    JGoogleDataPlusTest.php
+    JGoogleEmbedAnalyticsTest.php
+    JGoogleEmbedMapsTest.php
+    JGoogleTest.php
+    logo.bmp
+    logo.gif
+    logo.jpg
+    logo.png
+    paloalto.txt
+    photolist.txt
+    photo.txt
+    sanfrancisco.txt
+    grid
+    JGridTest.php
+    http
+    JHttpFactoryTest.php
+    JHttpTest.php
+    JHttpTransportTest.php
+    image
+    filter
+    JImageFilterBackgroundfillTest.php
+    JImageFilterBrightnessTest.php
+    JImageFilterContrastTest.php
+    JImageFilterEdgedetectTest.php
+    JImageFilterTest.php
+    JImageTest.php
+    stubs
+        JImageFilterInspector.php
+        JImageInspector.php
+        koala.bmp
+        koala.gif
+        koala.jpg
+        koala.png
+    input
+    JInputCliTest.php
+    JInputTest.php
+    stubs
+        JFilterInputMock.php
+        JFilterInputMockTracker.php
+        JInputInspector.php
+    JFactoryTest.php
+    JLoaderTest.php
+    JPlatformTest.php
+    keychain
+    data
+    cli-keychain.dat
+    cli-passphrase.dat
+    private.key
+    publickey.pem
+    README.md
+    JKeychainTest.php
+    language
+    data
+    bad.ini
+    good.ini
+    language
+        en-GB
+            en-GB.localise.php
+            en-GB.xml
+    JLanguageHelperTest.php
+    JLanguageInspector.php
+    JLanguageStemmerTest.php
+    JLanguageTest.php
+    JLanguageTransliterateTest.php
+    stemmer
+        JLanguageStemmerPorterenTest.php
+    linkedin
+    JLinkedinCommunicationsTest.php
+    JLinkedinCompaniesTest.php
+    JLinkedinGroupsTest.php
+    JLinkedinJobsTest.php
+    JLinkedinOAuthTest.php
+    JLinkedinObjectTest.php
+    JLinkedinPeopleTest.php
+    JLinkedinStreamTest.php
+    JLinkedinTest.php
+    stubs
+        JLinkedinObjectMock.php
+    log
+    JLogEntryTest.php
+    JLogTest.php
+    loggers
+    JLogLoggerCallbackTest.php
+    JLogLoggerDatabaseTest.php
+    JLogLoggerEchoTest.php
+    JLogLoggerFormattedTextTest.php
+    JLogLoggerMessageQueueTest.php
+    JLogLoggerW3CTest.php
+    stubs
+        callback
+        helper.php
+        inspector.php
+        database
+        inspector.php
+        S01E01.xml
+        S01.xml
+        formattedtext
+        inspector.php
+        messagequeue
+        mock.application.php
+        w3c
+            inspector.php
+    stubs
+        log
+            inspector.php
+    mail
+    JMailHelperTest.php
+    JMailTest.php
+    mediawiki
+    JMediawikiCategoriesTest.php
+    JMediawikiHttpTest.php
+    JMediawikiImagesTest.php
+    JMediawikiLinksTest.php
+    JMediawikiObjectTest.php
+    JMediawikiPagesTest.php
+    JMediawikiSearchTest.php
+    JMediawikiSitesTest.php
+    JMediawikiTest.php
+    JMediawikiUsersTest.php
+    stubs
+        JMediawikiObjectMock.php
+    microdata
+    JMicrodataTest.php
+    model
+    JModelBaseTest.php
+    JModelDatabaseTest.php
+    stubs
+        barbaz.php
+        tbase.php
+        tdatabase.php
+    oauth1
+    JOAuth1ClientTest.php
+    stubs
+        JOAuth1ClientInspector.php
+    oauth2
+    JOauth2ClientTest.php
+    object
+    JObjectTest.php
+    openstreetmap
+    JOpenstreetmapChangesetsTest.php
+    JOpenstreetmapElementsTest.php
+    JOpenstreetmapGpsTest.php
+    JOpenstreetmapInfoTest.php
+    JOpenstreetmapOauthTest.php
+    JOpenstreetmapObjectTest.php
+    JOpenstreetmapTest.php
+    JOpenstreetmapUserTest.php
+    stubs
+        JOpenstreetmapObjectMock.php
+    session
+    handler
+    array.php
+    JSessionStorageTest.php
+    JSessionTest.php
+    storage
+        JSessionStorageApcTest.php
+        JSessionStorageApcuTest.php
+        JSessionStorageDatabaseTest.php
+        JSessionStorageMemcacheTest.php
+        JSessionStorageNoneTest.php
+        JSessionStorageWincacheTest.php
+        JSessionStorageXcacheTest.php
+    table
+    JTableExtensionTest.php
+    JTableLanguageTest.php
+    JTableNestedTest.php
+    JTableTest.php
+    JTableUserTest.php
+    stubs
+        dbtestcomposite.php
+        jos_assets_composite.csv
+        jos_dbtest_composite.csv
+        jos_session.csv
+        nested.php
+        nested.xml
+    twitter
+    JTwitterBlockTest.php
+    JTwitterDirectmessagesTest.php
+    JTwitterFavoritesTest.php
+    JTwitterFriendsTest.php
+    JTwitterHelpTest.php
+    JTwitterListsTest.php
+    JTwitterOauthTest.php
+    JTwitterObjectTest.php
+    JTwitterPlacesTest.php
+    JTwitterProfileTest.php
+    JTwitterSearchTest.php
+    JTwitterStatusesTest.php
+    JTwitterTest.php
+    JTwitterTrendsTest.php
+    JTwitterUsersTest.php
+    stubs
+        JTwitterObjectMock.php
+    uri
+    JURITest.php
+    user
+    JAuthenticationTest.php
+    JUserHelperTest.php
+    JUserTest.php
+    stubs
+        FakeAuthenticationPlugin.php
+    utilities
+    JArrayHelperTest.php
+    JBufferTest.php
+    JUtilityTest.php
+    stubs
+        empty.xml
+        test.xml
+        xmlFile.xml
+    view
+        JViewBaseTest.php
+        JViewHtmlTest.php
+        layouts1
+        astrid.phtml
+        fringe
+        division.php
+        olivia.php
+        peter.php
+        layouts2
+        fauxlivia.php
+        olivia.php
+        mocks
+        JModelMock.php
+        stubs
+            tbase.php
+            thtml.php
+    legacy
+        application
+        JApplicationTest.php
+        categories
+        JCategoriesTest.php
+        controller
+        JControllerFormTest.php
+        JControllerLegacyTest.php
+        stubs
+            component1
+            controller.json.php
+            component2
+            controller.php
+            controllerform.php
+            controller.php
+        error
+        JErrorInspector.php
+        JErrorTest.php
+        model
+        JModelAdminTest.php
+        JModelFormTest.php
+        JModelItemTest.php
+        JModelLegacyTest.php
+        JModelListTest.php
+        stubs
+            constructorexceptiontest.php
+            foobar.php
+            lead.php
+            listmodelexceptiontest.php
+            listmodeltest.php
+            name.php
+            room.php
+        response
+        JResponseTest.php
+        table
+        JTableContentTest.php
+        view
+            JViewLegacyTest.php
+            stubs
+                ContentViewArticle.php
+                ContentViewHtml.php
+                ExampleViewSEOHtml.php
+                MediaViewMediaListItemsHtml.php
+                MediaViewMediaList.php
+    plugins
+        content
+            emailcloak
+                PlgContentEmailcloakTest.php
+    tmp
+tmp
+index.html
+travisci-phpunit.xml
+web.config.txt
+
+2260 directories, 7263 files

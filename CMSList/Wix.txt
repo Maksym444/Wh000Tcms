@@ -1,0 +1,4300 @@
+/home/dj0k4r/myowncript/wix3/
+CONTRIBUTING.md
+history
+readme.md
+History.md
+LICENSE.TXT
+nuget.config
+PULL_REQUEST_TEMPLATE.md
+Readme.md
+src
+burn
+burn.proj
+engine
+apply.cpp
+apply.h
+approvedexe.cpp
+approvedexe.h
+bitsengine.cpp
+bitsengine.h
+cabextract.cpp
+cabextract.h
+cache.cpp
+cache.h
+catalog.cpp
+catalog.h
+condition.cpp
+condition.h
+container.cpp
+container.h
+core.cpp
+core.h
+dependency.cpp
+dependency.h
+detect.cpp
+detect.h
+elevation.cpp
+elevation.h
+embedded.cpp
+embedded.h
+engine.cpp
+EngineForApplication.cpp
+EngineForApplication.h
+engine.mc
+engine.vcxproj
+engine.vcxproj.filters
+exeengine.cpp
+exeengine.h
+inc
+engine.h
+logging.cpp
+logging.h
+manifest.cpp
+manifest.h
+msiengine.cpp
+msiengine.h
+mspengine.cpp
+mspengine.h
+msuengine.cpp
+msuengine.h
+netfxchainer.cpp
+netfxchainer.h
+package.cpp
+package.h
+payload.cpp
+payload.h
+pipe.cpp
+pipe.h
+plan.cpp
+plan.h
+platform.cpp
+platform.h
+precomp.h
+pseudobundle.cpp
+pseudobundle.h
+registration.cpp
+registration.h
+relatedbundle.cpp
+relatedbundle.h
+search.cpp
+search.h
+section.cpp
+section.h
+splashscreen.cpp
+splashscreen.h
+uithread.cpp
+uithread.h
+update.cpp
+update.h
+userexperience.cpp
+userexperience.h
+variable.cpp
+variable.h
+variant.cpp
+variant.h
+inc
+IBootstrapperApplication.h
+IBootstrapperEngine.h
+Samples
+bafunctions
+bafunctions.cpp
+bafunctions.def
+bafunctions.rc
+bafunctions.vcxproj
+bafunctions.vcxproj.filters
+bafunctionsver.h
+precomp.h
+Readme.txt
+resource.h
+WixBootstrapperBAFunction.cpp
+ManagedBundleRunner
+AssemblyInfo.cs
+BundleErrorEventArgs.cs
+BundleProgressEventArgs.cs
+BundleResult.cs
+BundleRunner.cs
+ManagedBundleRunner.csproj
+runbundle
+    AssemblyInfo.cs
+    Program.cs
+    runbundle.csproj
+stub
+    precomp.h
+    stub_arm.manifest
+    stub.cpp
+    stub.ico
+    stub.manifest
+    stub.rc
+    StubSection.cpp
+    Stub.vcxproj
+burn.sln
+burn.testrunconfig
+burn.vsmdi
+chm
+chm.helpproj
+documents
+bundle
+authoring_bundle_application.html.md
+authoring_bundle_package_manifest.html.md
+authoring_bundle_skeleton.html.md
+ba
+bootstrapper_application_interface.html.md
+index.html.md
+bundle_author_chain.html.md
+bundle_built_in_variables.html.md
+bundle_define_searches.html.md
+index.html.md
+wixstdba
+    index.html.md
+    wixstdba_branding.html.md
+    wixstdba_customize.html.md
+    wixstdba_license.html.md
+    wixstdba_variables.html.md
+customactions
+index.html.md
+osinfo.html.md
+perfmon.html.md
+qtexec.html.md
+shellexec.html.md
+using_standard_customactions.html.md
+wixdirectxextension.html.md
+wixexitearlywithsuccess.html.md
+wixfailwhendeferred.html.md
+wixgamingextension.html.md
+wixnetfxextension.html.md
+wixsettingchange.html.md
+wixvsextension.html.md
+wixwaitforevent.html.md
+howtos
+author_product_dependencies.html.md
+files_and_registry
+add_a_file.html.md
+check_the_version_number.html.md
+create_internet_shortcut.html.md
+create_start_menu_shortcut.html.md
+create_uninstall_shortcut.html.md
+directorysearchref.html.md
+index.html.md
+ngen_managed_assemblies.html.md
+parentdirectorysearch.html.md
+read_a_registry_entry.html.md
+write_a_registry_entry.html.md
+general
+extension_usage_introduction.html.md
+generate_guids.html.md
+get_a_log.html.md
+index.html.md
+install_windows_service.html.md
+look_inside_msi.html.md
+optimizing_builds.html.md
+specifying_source_files.html.md
+index.html.md
+redistributables_and_install_checks
+block_install_on_os.html.md
+block_stdba_install_on_reg.html.md
+check_for_dotnet.html.md
+index.html.md
+install_directx9.html.md
+install_dotnet.html.md
+install_vcredist.html.md
+ui_and_localization
+build_a_localized_version.html.md
+configure_arp_appearance.html.md
+index.html.md
+make_installer_localizable.html.md
+run_program_after_install.html.md
+specifying_cultures_to_build.html.md
+updates
+    index.html.md
+    major_upgrade.html.md
+index.html.md
+main
+help.html.md
+index.html.md
+license.html.md
+wix_learning.html.md
+msbuild
+authoring_first_msbuild_project.html.md
+daily_builds.html.md
+index.html.md
+target_reference
+harvestdirectory.html.md
+harvestfile.html.md
+harvestprojects.html.md
+index.html.md
+task_reference
+candle.html.md
+heatdirectory.html.md
+heatfile.html.md
+heatproject.html.md
+index.html.md
+insignia.html.md
+light.html.md
+lit.html.md
+wix_with_team_build.html.md
+overview
+alltools.html.md
+candle.html.md
+codepage.html.md
+files.html.md
+heat.html.md
+index.html.md
+insignia.html.md
+light.html.md
+lit.html.md
+lux.html.md
+msitowix.html.md
+msi_useful_links.html.md
+preprocessor.html.md
+tools.html.md
+wixcop.html.md
+patching
+index.html.md
+patch_building.html.md
+patch_restrictions.html.md
+wix_patching.html.md
+votive
+authoring_first_votive_project.html.md
+index.html.md
+votive_item_templates.html.md
+votive_project_references.html.md
+votive_project_template_default.html.md
+votive_project_templates.html.md
+votive_property_pages.html.md
+wixdev
+extensions
+authoring_custom_actions.html.md
+extension_development_intro.html.md
+extension_development_preprocessor.html.md
+extension_development_simple_example.html.md
+extensions.html.md
+index.html.md
+localized_extensions.html.md
+help_development.html.md
+index.html.md
+tests
+index.html.md
+tests_runningtests.html.md
+tests_writingtests.html.md
+votive_development.html.md
+wixui
+dialog_reference
+index.html.md
+WixUI_advanced.html.md
+WixUI_dialogs.html.md
+WixUI_featuretree.html.md
+WixUI_installdir.html.md
+WixUI_minimal.html.md
+WixUI_mondo.html.md
+index.html.md
+WixUI_customizations.html.md
+WixUI_dialog_library.html.md
+WixUI_localization.html.md
+xsd
+    index.html.md
+files
+content
+    build_a_localized_version_votive_culture_fallback.jpg
+    style.css
+    tests_writingtests_directorytree1.jpg
+    tests_writingtests_directorytree2.jpg
+    WiX_Toolset_Diagram.png
+layouts
+documentation.html
+documentation_xsd_extension.html
+documentation_xsd_main.html
+documentation_xsd_simpletype.html
+msi.chm
+common
+precomp.cpp
+ProjectFile.ico
+WixDistribution.cs
+WixDistribution.h
+WixDistribution.wxl
+wix.rc
+wixstrsafe.h
+wixtoolset.org.ico
+DTF
+Documents
+Guide
+Content
+about.htm
+buildingcas.htm
+cabpack.htm
+cabs.htm
+cabwrapper.htm
+caconfig.htm
+caproxy.htm
+databases.htm
+debuggingcas.htm
+dependencies.htm
+filepatchwrapper.htm
+history.htm
+installutil.htm
+inventory.htm
+managedcas.htm
+msihelper.htm
+msiwrapper.htm
+packages.htm
+powerdiff.htm
+samplecas.htm
+samples.htm
+support.htm
+using.htm
+whatsnew.htm
+wifile.htm
+writingcas.htm
+dtfguide.helpproj
+DTF.hhc
+DTF.hhk
+DTF.hhp
+styles
+    presentation.css
+Reference
+    Compression1.png
+    Compression2.png
+    Compression.htm
+    dtfref.shfbproj
+    helplink.js
+    WindowsInstaller1.png
+    WindowsInstaller2.png
+    WindowsInstaller3.png
+    WindowsInstaller.htm
+dtf.proj
+Libraries
+Compression
+ArchiveException.cs
+ArchiveFileInfo.cs
+ArchiveFileStreamContext.cs
+ArchiveInfo.cs
+ArchiveProgressEventArgs.cs
+ArchiveProgressType.cs
+AssemblyInfo.cs
+BasicUnpackStreamContext.cs
+CargoStream.cs
+Compression.cd
+Compression.csproj
+CompressionEngine.cs
+CompressionLevel.cs
+DuplicateStream.cs
+IPackStreamContext.cs
+IUnpackStreamContext.cs
+OffsetStream.cs
+SafeNativeMethods.cs
+Compression.Cab
+AssemblyInfo.cs
+CabEngine.cs
+CabException.cs
+CabFileInfo.cs
+CabInfo.cs
+CabPacker.cs
+CabUnpacker.cs
+CabWorker.cs
+Compression.Cab.csproj
+Errors.resources
+Errors.txt
+HandleManager.cs
+NativeMethods.cs
+Compression.Zip
+AssemblyInfo.cs
+Compression.Zip.csproj
+ConcatStream.cs
+CrcStream.cs
+ZipCompressionMethod.cs
+ZipEngine.cs
+ZipException.cs
+ZipFileInfo.cs
+ZipFormat.cs
+ZipInfo.cs
+ZipPacker.cs
+ZipUnpacker.cs
+Resources
+AssemblyInfo.cs
+BitmapResource.cs
+FixedFileVersionInfo.cs
+GroupIconInfo.cs
+GroupIconResource.cs
+NativeMethods.cs
+ResourceCollection.cs
+Resource.cs
+Resources.csproj
+ResourceType.cs
+VersionEnums.cs
+VersionInfo.cs
+VersionResource.cs
+VersionStringTable.cs
+WindowsInstaller
+AssemblyInfo.cs
+ColumnCollection.cs
+ColumnEnums.cs
+ColumnInfo.cs
+ComponentInfo.cs
+ComponentInstallation.cs
+CustomActionAttribute.cs
+customactiondata.cs
+CustomActionProxy.cs
+Database.cs
+DatabaseQuery.cs
+DatabaseTransform.cs
+EmbeddedUIProxy.cs
+Enums.cs
+Errors.resources
+Errors.txt
+Exceptions.cs
+ExternalUIHandler.cs
+FeatureInfo.cs
+FeatureInstallation.cs
+Handle.cs
+IEmbeddedUI.cs
+Installation.cs
+InstallationPart.cs
+InstallCost.cs
+InstallerAdvertise.cs
+Installer.cs
+InstallerUtils.cs
+MediaDisk.cs
+NativeMethods.cs
+PatchInstallation.cs
+ProductInstallation.cs
+Record.cs
+RecordStream.cs
+RemotableNativeMethods.cs
+Session.cs
+ShortcutTarget.cs
+SourceList.cs
+SourceMediaList.cs
+SummaryInfo.cs
+TableCollection.cs
+TableInfo.cs
+Transaction.cs
+ValidationErrorInfo.cs
+View.cs
+WindowsInstaller.cd
+WindowsInstaller.csproj
+WindowsInstaller.Linq
+AssemblyInfo.cs
+Attributes.cs
+Entities.cs
+QDatabase.cs
+QRecord.cs
+QTable.cs
+Query.cs
+WindowsInstaller.Linq.csproj
+WindowsInstaller.Package
+    AssemblyInfo.cs
+    InstallPackage.cs
+    InstallPath.cs
+    PatchPackage.cs
+    TransformInfo.cs
+    WindowsInstaller.Package.csproj
+Samples
+DDiff
+CabDiffEngine.cs
+DDiff.cs
+DDiff.csproj
+DirectoryDiffEngine.cs
+FileDiffEngine.cs
+IDiffEngine.cs
+MsiDiffEngine.cs
+MspDiffEngine.cs
+TextFileDiffEngine.cs
+VersionedFileDiffEngine.cs
+EmbeddedUI
+AssemblyInfo.cs
+EmbeddedUI.csproj
+InstallProgressCounter.cs
+SampleEmbeddedUI.cs
+SetupWizard.xaml
+SetupWizard.xaml.cs
+Inventory
+Columns.resx
+components.cs
+Features.cs
+IInventoryDataProvider.cs
+Inventory.cs
+Inventory.csproj
+Inventory.ico
+Inventory.resx
+msiutils.cs
+patches.cs
+products.cs
+xp.manifest
+ManagedCA
+AssemblyInfo.cs
+ManagedCA.csproj
+SampleCAs.cs
+Samples.proj
+WiFile
+WiFile.cs
+WiFile.csproj
+XPack
+    AssemblyInfo.cs
+    XPack.cs
+    XPack.csproj
+Tests
+Compression
+CompressionTest.csproj
+CompressionTestUtil.cs
+MisbehavingStreamContext.cs
+OptionStreamContext.cs
+Compression.Cab
+CabTest.cs
+CabTest.csproj
+Compression.Zip
+ZipTest.cs
+ZipTest.csproj
+Tests.proj
+WindowsInstaller
+EmbeddedExternalUI.cs
+Schema.cs
+WindowsInstallerTest.cs
+WindowsInstallerTest.csproj
+WindowsInstallerTransactions.cs
+WindowsInstallerUtils.cs
+WindowsInstaller.CustomActions
+CustomActionTest.cs
+CustomActionTest.csproj
+WindowsInstaller.Linq
+    LinqTest.cs
+    LinqTest.csproj
+Tools
+    MakeSfxCA
+    app.config
+    AssemblyInfo.cs
+    MakeSfxCA.cs
+    MakeSfxCA.csproj
+    SfxCA
+    ClrHost.cpp
+    EmbeddedUI.cpp
+    EntryPoints.def
+    EntryPoints.h
+    Extract.cpp
+    precomp.h
+    RemoteMsi.cpp
+    RemoteMsiSession.h
+    SfxCA.cpp
+    SfxCA.rc
+    SfxCA.vcxproj
+    SfxUtil.cpp
+    SfxUtil.h
+    Tools.proj
+DTF.sln
+DTF.testrunconfig
+DTF.vsmdi
+ext
+BalExtension
+bal.proj
+mba
+core
+BootstrapperApplicationAttribute.cs
+BootstrapperApplication.cs
+BootstrapperApplicationFactory.cs
+BootstrapperCore.config
+BootstrapperSectionGroup.cs
+core.csproj
+Engine.cs
+EventArgs.cs
+Exceptions.cs
+GlobalSuppressions.cs
+HostSection.cs
+IBootstrapperApplication.cs
+IBootstrapperApplicationFactory.cs
+IBootstrapperEngine.cs
+NativeMethods.cs
+Properties
+AssemblyInfo.cs
+SupportedFrameworkElementCollection.cs
+SupportedFrameworkElement.cs
+host
+    host.cpp
+    host.def
+    host.rc
+    host.vcxproj
+    host.vcxproj.filters
+    IBootstrapperApplicationFactory.h
+    precomp.h
+wixext
+AssemblyInfo.cs
+BalCompiler.cs
+BalExtension.cs
+data
+messages.xml
+tables.xml
+WixBalExtension.csproj
+Xsd
+    bal.xsd
+wixlib
+BalExtension.wixproj
+BalExtension.wxs
+Mba.wxs
+wixstdba_platform.wxi
+wixstdba.wxs
+wixstdba_x86.wxs
+wixlib_arm
+BalExtension_ARM.wixproj
+wixstdba_arm.wxs
+wixstdba
+    precomp.h
+    resource.h
+    Resources
+    1028
+    mbapreq.wxl
+    1029
+    mbapreq.wxl
+    1030
+    mbapreq.wxl
+    1031
+    mbapreq.wxl
+    1032
+    mbapreq.wxl
+    1035
+    mbapreq.wxl
+    1036
+    mbapreq.wxl
+    1038
+    mbapreq.wxl
+    1040
+    mbapreq.wxl
+    1041
+    mbapreq.wxl
+    1042
+    mbapreq.wxl
+    1043
+    mbapreq.wxl
+    1044
+    mbapreq.wxl
+    1045
+    mbapreq.wxl
+    1046
+    mbapreq.wxl
+    1049
+    mbapreq.wxl
+    1051
+    mbapreq.wxl
+    1053
+    mbapreq.wxl
+    1055
+    mbapreq.wxl
+    1060
+    mbapreq.wxl
+    2052
+    mbapreq.wxl
+    2070
+    mbapreq.wxl
+    3082
+    mbapreq.wxl
+    HyperlinkLargeTheme.xml
+    HyperlinkSidebarTheme.xml
+    HyperlinkTheme.wxl
+    HyperlinkTheme.xml
+    logo.png
+    logoSide.png
+    LoremIpsumLicense.rtf
+    mbapreq.png
+    mbapreq.thm
+    mbapreq.wxl
+    RtfLargeTheme.xml
+    RtfTheme.wxl
+    RtfTheme.xml
+    WixStandardBootstrapperApplication.cpp
+    wixstdba.cpp
+    wixstdba.def
+    wixstdba.rc
+    wixstdba.vcxproj
+    wixstdba.vcxproj.filters
+ca
+ca.proj
+inc
+caSuffix.h
+caSuffix.wxi
+serverca
+inc
+scacost.h
+sca.h
+scaexec
+precomp.h
+scacertexec.cpp
+scaexec.cpp
+scaexec.def
+scaexecIIS7.cpp
+scaexecIIS7.h
+scaexec.rc
+scaexec.vcxproj
+scaperfexec.cpp
+scasmbexec.cpp
+scasmbexec.h
+scasched
+    precomp.h
+    scaapppool7.cpp
+    scaapppool7.h
+    scaapppool.cpp
+    scaapppool.h
+    scacert.cpp
+    scacert.h
+    scadb.cpp
+    scadb.h
+    scafilter7.cpp
+    scafilter7.h
+    scafilter.cpp
+    scafilter.h
+    scahttpheader7.cpp
+    scahttpheader7.h
+    scahttpheader.cpp
+    scahttpheader.h
+    scaiis7.cpp
+    scaiis7.h
+    scaiis.cpp
+    scaiis.h
+    scaiisquery.h
+    scamanifest.cpp
+    scamimemap7.cpp
+    scamimemap7.h
+    scamimemap.cpp
+    scamimemap.h
+    scaperf.cpp
+    scaproperty7.cpp
+    scaproperty7.h
+    scaproperty.cpp
+    scaproperty.h
+    scasched.cpp
+    scasched.def
+    scasched.rc
+    scasched.vcxproj
+    scasmb.h
+    scasmbsched.cpp
+    scasql.cpp
+    scasqlstr.cpp
+    scasqlstr.h
+    scassl7.cpp
+    scassl7.h
+    scassl.cpp
+    scassl.h
+    scauser.cpp
+    scauser.h
+    scavdir7.cpp
+    scavdir7.h
+    scavdir.cpp
+    scavdir.h
+    scaweb7.cpp
+    scaweb7.h
+    scawebapp7.cpp
+    scawebapp7.h
+    scawebapp.cpp
+    scawebappext7.cpp
+    scawebappext7.h
+    scawebappext.cpp
+    scawebappext.h
+    scawebapp.h
+    scaweb.cpp
+    scawebdir7.cpp
+    scawebdir7.h
+    scawebdir.cpp
+    scawebdir.h
+    scaweberr7.cpp
+    scaweberr7.h
+    scaweberr.cpp
+    scaweberr.h
+    scaweb.h
+    scaweblog7.cpp
+    scaweblog7.h
+    scaweblog.cpp
+    scaweblog.h
+    scawebprop7.cpp
+    scawebprop7.h
+    scawebprop.cpp
+    scawebprop.h
+    scawebsvcext7.cpp
+    scawebsvcext7.h
+    scawebsvcext.cpp
+    scawebsvcext.h
+wixca
+    dll
+        BroadcastSettingChange.cpp
+        cacleanup.cpp
+        CheckReboot.cpp
+        CloseApps.cpp
+        cost.h
+        exitearlywithsuccess.cpp
+        netshortcuts.cpp
+        OsInfo.cpp
+        precomp.h
+        qtexecca.cpp
+        RemoveFoldersEx.cpp
+        RestartManager.cpp
+        secureobj.cpp
+        serviceconfig.cpp
+        shellexecca.cpp
+        test.cpp
+        wixca.cpp
+        wixca.def
+        wixca.rc
+        wixca.vcxproj
+        wixca_x64.def
+        XmlConfig.cpp
+        XmlFile.cpp
+ComPlusExtension
+ca
+complusca.proj
+cpexec
+cpappexec.cpp
+cpappexec.h
+cpapproleexec.cpp
+cpapproleexec.h
+cpasmexec.cpp
+cpasmexec.h
+cpexec.cpp
+cpexec.def
+cpexec.rc
+cpexec.vcxproj
+cppartexec.cpp
+cppartexec.h
+cppartroleexec.cpp
+cppartroleexec.h
+cpsubsexec.cpp
+cpsubsexec.h
+cputilexec.cpp
+cputilexec.h
+precomp.h
+cpsched
+cpapprolesched.cpp
+cpapprolesched.h
+cpappsched.cpp
+cpappsched.h
+cpasmsched.cpp
+cpasmsched.h
+cppartrolesched.cpp
+cppartrolesched.h
+cppartsched.cpp
+cppartsched.h
+cpsched.cpp
+cpsched.def
+cpsched.rc
+cpsched.vcxproj
+cpsubssched.cpp
+cpsubssched.h
+cputilsched.cpp
+cputilsched.h
+precomp.h
+inc
+    cpcost.h
+complus.proj
+wixext
+AssemblyInfo.cs
+ComPlusCompiler.cs
+ComPlusDecompiler.cs
+ComPlusExtension.cs
+data
+messages.xml
+tables.xml
+WixComPlusExtension.csproj
+xsd
+    complus.xsd
+wixlib
+    ComPlusExtension.wixproj
+    ComPlusExtension.wxs
+    en-us.wxl
+    es-es.wxl
+    ja-jp.wxl
+DependencyExtension
+ca
+dllmain.cpp
+precomp.h
+wixdepca.cpp
+wixdepca.def
+wixdepca.rc
+wixdepca.vcxproj
+wixdepca.vcxproj.filters
+dependency.proj
+wixext
+AssemblyInfo.cs
+Data
+messages.xml
+tables.xml
+DependencyBinder.cs
+DependencyCommon.cs
+DependencyCompiler.cs
+DependencyDecompiler.cs
+DependencyExtension.cs
+DependencyExtension.csproj
+Xsd
+    Dependency.xsd
+wixlib
+DependencyExtension_Platform.wxi
+DependencyExtension.wixproj
+DependencyExtension.wxs
+DependencyExtension_x86.wxs
+en-us.wxl
+wixlib_arm
+    DependencyExtension_ARM.wixproj
+    DependencyExtension_arm.wxs
+DifxAppExtension
+difxapp.proj
+wixext
+AssemblyInfo.cs
+Data
+tables.xml
+DifxAppCompiler.cs
+DifxAppDecompiler.cs
+DifxAppExtension.cs
+WixDifxAppExtension.csproj
+Xsd
+    difxapp.xsd
+wixlib
+    DIFxAppExtension.wixproj
+    DIFxAppExtension.wxs
+    ia64
+    DIFxAppA.dll
+    DIFxApp.dll
+    x64
+    DIFxAppA.dll
+    DIFxApp.dll
+    x86
+        DIFxAppA.dll
+        DIFxApp.dll
+DirectXExtension
+ca
+directx.cpp
+directx.def
+directx.rc
+directx.vcxproj
+dllmain.cpp
+precomp.h
+directx.proj
+wixext
+AssemblyInfo.cs
+DirectXDecompiler.cs
+DirectXExtension.cs
+WixDirectXExtension.csproj
+wixlib
+    DirectXExtension.wixproj
+    DirectXExtension.wxs
+ext.proj
+FirewallExtension
+ca
+cost.h
+dllmain.cpp
+firewall.cpp
+firewall.def
+firewall.rc
+firewall.vcxproj
+precomp.h
+firewall.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+FirewallCompiler.cs
+FirewallConstants.cs
+FirewallDecompiler.cs
+FirewallExtension.cs
+WixFirewallExtension.csproj
+Xsd
+    firewall.xsd
+wixlib
+en-us.wxl
+es-es.wxl
+FirewallExtension_Platform.wxi
+FirewallExtension.wixproj
+FirewallExtension.wxs
+FirewallExtension_x86.wxs
+ja-jp.wxl
+wixlib_arm
+    FirewallExtension_ARM.wixproj
+    FirewallExtension_arm.wxs
+GamingExtension
+ca
+cost.h
+dllmain.cpp
+gaming.cpp
+gaming.def
+gaming.rc
+gaming.vcxproj
+precomp.h
+gaming.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+GamingCompiler.cs
+GamingDecompiler.cs
+GamingExtension.cs
+WixGamingExtension.csproj
+Xsd
+    gaming.xsd
+wixlib
+    GamingExtension_Platform.wxi
+    GamingExtension.wixproj
+    GamingExtension.wxs
+    GamingExtension_x86.wxs
+HttpExtension
+ca
+cost.h
+dllmain.cpp
+precomp.h
+wixhttpca.cpp
+wixhttpca.def
+wixhttpca.rc
+wixhttpca.vcxproj
+wixhttpca.vcxproj.filters
+http.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+HttpCompiler.cs
+HttpConstants.cs
+HttpDecompiler.cs
+HttpExtension.cs
+WixHttpExtension.csproj
+xsd
+    http.xsd
+wixlib
+en-us.wxl
+HttpExtension_Platform.wxi
+HttpExtension.wixproj
+HttpExtension.wxs
+HttpExtension_x86.wxs
+wixlib_arm
+    HttpExtension_ARM.wixproj
+    HttpExtension_arm.wxs
+IIsExtension
+iis.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+IIsCompiler.cs
+IIsDecompiler.cs
+IIsExtension.cs
+IIsFinalizeHarvesterMutator.cs
+IIsHarvesterMutator.cs
+IIsHeatExtension.cs
+IIsWebSiteHarvester.cs
+WixIIsExtension.csproj
+xsd
+    iis.xsd
+wixlib
+    en-us.wxl
+    IIsExtension_Platform.wxi
+    IIsExtension.wixproj
+    IIsExtension.wxs
+    IIsExtension_x86.wxs
+    ja-jp.wxl
+    pt-br.wxl
+lux
+ca
+CustomAction.config
+CustomAction.cs
+LuxCustomActions.csproj
+LuxLogger.cs
+LuxUnitTest.cs
+LuxUnitTestFactory.cs
+lux
+app.config
+App.ico
+AssemblyInfo.cs
+Data
+messages.xml
+Generator.cs
+lux.cs
+lux.csproj
+lux.exe.manifest
+lux.rc
+LuxStrings.Designer.cs
+LuxStrings.resx
+lux.proj
+nit
+App.ico
+AssemblyInfo.cs
+Data
+messages.xml
+nit.cs
+nit.csproj
+nit.exe.manifest
+nit.rc
+NitStrings.Designer.cs
+NitStrings.resx
+TestRunner.cs
+samples
+LuxSample1
+CustomActions.wxs
+LuxSample1.wixproj
+Product.wxs
+MSBuildInEnlistment.cmd
+Mutations
+    CustomActions.wxs
+    Mutations.wixproj
+    Product.wxs
+shared
+Constants.cs
+operatortypes.cs
+tasks
+AssemblyInfo.cs
+Data
+messages.xml
+GenerateTestConsumer.cs
+lux.targets
+LuxTasks.csproj
+Nit.cs
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+LuxCompiler.cs
+LuxExtension.cs
+WixLuxExtension.csproj
+Xsd
+    lux.xsd
+wixlib
+    en-us.wxl
+    LuxLib.wixproj
+    LuxLib.wxs
+MsmqExtension
+ca
+inc
+mqcost.h
+mqexec
+mqexec.cpp
+mqexec.def
+mqexec.rc
+mqexec.vcxproj
+mqqueueexec.cpp
+mqqueueexec.h
+mqutilexec.cpp
+mqutilexec.h
+precomp.h
+mqsched
+mqqueuesched.cpp
+mqqueuesched.h
+mqsched.cpp
+mqsched.def
+mqsched.rc
+mqsched.vcxproj
+mqutilsched.cpp
+mqutilsched.h
+precomp.h
+msmqca.proj
+msmq.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+MsmqCompiler.cs
+MsmqDecompiler.cs
+MsmqExtension.cs
+WixMsmqExtension.csproj
+xsd
+    msmq.xsd
+wixlib
+    en-us.wxl
+    ja-jp.wxl
+    MsmqExtension.wixproj
+    MsmqExtension.wxs
+NetFxExtension
+ca
+cost.h
+dllmain.cpp
+netfxca.cpp
+netfxca.def
+netfxca.rc
+netfxca.vcxproj
+precomp.h
+netfx.proj
+wixext
+AssemblyInfo.cs
+data
+tables.xml
+NetFxCompiler.cs
+NetFxDecompiler.cs
+NetFxExtension.cs
+WixNetFxExtension.csproj
+Xsd
+    netfx.xsd
+wixlib
+    NetFx1.1.wxs
+    NetFx1.wxs
+    NetFx2.wxs
+    NetFx3.5.wxs
+    NetFx3.wxs
+    NetFx451.wxs
+    NetFx452.wxs
+    NetFx4.5.wxs
+    NetFx461.wxs
+    NetFx462.wxs
+    NetFx46.wxs
+    NetFx4.wxs
+    NetFxExtension_Platform.wxi
+    NetFxExtension.wixproj
+    NetFxExtension.wxs
+    NetFxExtension_x86.wxs
+PSExtension
+ps.proj
+wixext
+AssemblyInfo.cs
+Data
+messages.xml
+PSCompiler.cs
+PSExtension.cs
+WixPSExtension.csproj
+xsd
+    ps.xsd
+wixlib
+    PSExtension.wixproj
+    PSExtension.wxs
+SqlExtension
+sql.proj
+wixext
+AssemblyInfo.cs
+Data
+messages.xml
+tables.xml
+SqlCompiler.cs
+SqlDecompiler.cs
+SqlExtension.cs
+WixSqlExtension.csproj
+Xsd
+    sql.xsd
+wixlib
+    de-de.wxl
+    en-us.wxl
+    es-es.wxl
+    ja-jp.wxl
+    pt-br.wxl
+    pt-pt.wxl
+    SqlExtension.wixproj
+    SqlExtension.wxs
+TagExtension
+tag.proj
+wixext
+AssemblyInfo.cs
+data
+messages.xml
+tables.xml
+TagBinder.cs
+TagCompiler.cs
+TagDecompiler.cs
+TagExtension.cs
+WixTagExtension.csproj
+Xsd
+    tag.xsd
+wixlib
+    TagExtension.wixproj
+    TagFeature.wxs
+    TagFolder.wxs
+UIExtension
+ca
+cost.h
+dllmain.cpp
+DriveCheck.cpp
+precomp.h
+PrintEula.cpp
+uica.def
+uica.rc
+uica.vcxproj
+ui.proj
+wixext
+AssemblyInfo.cs
+UIDecompiler.cs
+UIExtension.cs
+WixUIExtension.csproj
+wixlib
+AdvancedWelcomeEulaDlg.wxs
+Bitmaps
+bannrbmp.bmp
+dlgbmp.bmp
+exclamic.ico
+info.ico
+New.ico
+Up.ico
+BrowseDlg.wxs
+CancelDlg.wxs
+Common_Platform.wxi
+Common.wxs
+Common_x86.wxs
+CustomizeDlg.wxs
+DiskCostDlg.wxs
+ErrorDlg.wxs
+ErrorProgressText.wxs
+ExitDialog.wxs
+FatalError.wxs
+FeaturesDlg.wxs
+FilesInUse.wxs
+InstallDirDlg.wxs
+InstallScopeDlg.wxs
+InvalidDirDlg.wxs
+LicenseAgreementDlg.wxs
+License.rtf
+MaintenanceTypeDlg.wxs
+MaintenanceWelcomeDlg.wxs
+MsiRMFilesInUse.wxs
+OutOfDiskDlg.wxs
+OutOfRbDiskDlg.wxs
+PrepareDlg.wxs
+ProgressDlg.wxs
+ResumeDlg.wxs
+SetupTypeDlg.wxs
+UIExtension.wixproj
+UserExit.wxs
+VerifyReadyDlg.wxs
+WaitForCostingDlg.wxs
+WelcomeDlg.wxs
+WelcomeEulaDlg.wxs
+WixExt_de-de.wxl
+WixUI_Advanced.wxs
+WixUI_ar-SA.wxl
+WixUI_bg-BG.wxl
+WixUI_ca-ES.wxl
+WixUI_cs-CZ.wxl
+WixUI_da-DK.wxl
+WixUI_de-de.wxl
+WixUI_el-GR.wxl
+WixUI_en-us.wxl
+WixUI_es-es.wxl
+WixUI_et-EE.wxl
+WixUI_FeatureTree.wxs
+WixUI_fi-FI.wxl
+WixUI_fr-fr.wxl
+WixUI_he-IL.wxl
+WixUI_hi-IN.wxl
+WixUI_hr-HR.wxl
+WixUI_hu-HU.wxl
+WixUI_InstallDir.wxs
+WixUI_it-it.wxl
+WixUI_ja-jp.wxl
+WixUI_kk-KZ.wxl
+WixUI_ko-KR.wxl
+WixUI_lt-LT.wxl
+WixUI_lv-LV.wxl
+WixUI_Minimal.wxs
+WixUI_Mondo.wxs
+WixUI_nb-NO.wxl
+WixUI_nl-NL.wxl
+WixUI_pl-pl.wxl
+WixUI_pt-BR.wxl
+WixUI_pt-PT.wxl
+WixUI_ro-RO.wxl
+WixUI_ru-ru.wxl
+WixUI_sk-SK.wxl
+WixUI_sl-SI.wxl
+WixUI_sq-AL.wxl
+WixUI_sr-Latn-CS.wxl
+WixUI_sv-SE.wxl
+WixUI_th-TH.wxl
+WixUI_tr-TR.wxl
+WixUI_uk-UA.wxl
+WixUI_zh-CN.wxl
+WixUI_zh-HK.wxl
+WixUI_zh-TW.wxl
+wixlib_arm
+    UIExtension_ARM.wixproj
+    UIExtension_arm.wxs
+UtilExtension
+util.proj
+wixext
+AssemblyHarvester.cs
+AssemblyInfo.cs
+Data
+messages.xml
+tables.xml
+DirectoryHarvester.cs
+DllHarvester.cs
+FeedBuilder.cs
+FileHarvester.cs
+NativeMethods.cs
+PayloadHarvester.cs
+PerformanceCategoryHarvester.cs
+RegFileHarvester.cs
+RegistryHarvester.cs
+SetupExeBuilder.cs
+TypeLibraryHarvester.cs
+UtilBinder.cs
+UtilCompiler.cs
+UtilDecompiler.cs
+UtilExtension.cs
+UtilFinalizeHarvesterMutator.cs
+UtilHarvesterMutator.cs
+UtilHeatExtension.cs
+UtilMutator.cs
+UtilTransformMutator.cs
+WixUtilExtension.csproj
+Xsd
+    util.xsd
+wixlib
+de-de.wxl
+en-us.wxl
+es-es.wxl
+fr-fr.wxl
+it-it.wxl
+ja-jp.wxl
+pt-br.wxl
+UtilExtension_Platform.wxi
+UtilExtension.wixproj
+UtilExtension.wxs
+UtilExtension_x64.wxs
+UtilExtension_x86.wxs
+wixlib_arm
+    UtilExtension_ARM.wixproj
+    UtilExtension_arm.wxs
+ValidatorExampleExtension
+wixext
+    AssemblyInfo.cs
+    data
+    messages.xml
+    ExampleInspectorExtension.cs
+    ValidatorExampleExtension.cs
+    ValidatorExampleExtension.csproj
+    ValidatorXmlExtension.cs
+VSExtension
+    ca
+    dllmain.cpp
+    packages.config
+    precomp.h
+    vsca.cpp
+    vsca.def
+    vsca.rc
+    vsca.vcxproj
+    vs.proj
+    wixext
+    AssemblyInfo.cs
+    Data
+    messages.xml
+    tables.xml
+    VSCompiler.cs
+    VSDecompiler.cs
+    VSExtension.cs
+    VSHeatExtension.cs
+    VSProjectHarvester.cs
+    WixVSExtension.csproj
+    WixVSExtension.MSBuild12
+    AssemblyInfo.cs
+    MSBuild12Project.cs
+    WixVSExtension.MSBuild12.csproj
+    WixVSExtension.MSBuild14
+    AssemblyInfo.cs
+    MSBuild14Project.cs
+    WixVSExtension.MSBuild14.csproj
+    xsd
+        vs.xsd
+    wixlib
+        HTML_Help_Registration__RTL_X86.wxs
+        Redist
+        BIN_File_107602.dll
+        BIN_File_46001.dll
+        BIN_File_46002.dll
+        VS11.wxs
+        VS14.wxs
+        VS2003.wxs
+        vs2005
+        redist
+        BIN_File_60377.dll
+        vsipccALinks.hxk
+        vsipccBLinks.hxk
+        vsipccFLinks.hxk
+        vsipcc.hxc
+        vsipcc.hxt
+        vsipccKLinks.hxk
+        vsipccNamedURLs.hxk
+        vsipcc_reg.hxs
+        vsipCCSamples.HxK
+        vsipccSlinks.hxk
+        VS2005_VSIPCC_Collection_Files_RTL.wxs
+        VS2005.wxs
+        vs2008
+        redist
+        _ALinks.hxk
+        BIN_435439_x86_enu.dll
+        _BLinks.hxk
+        _CLinks.hxk
+        _FLinks.hxk
+        _KLinks.hxk
+        _SLinks.hxk
+        _vsipcc90.hxc
+        _vsipcc90.hxt
+        _vsipcc_namedUrls.hxk
+        vsipcc_reg.hxs
+        _vsipcc_samples.HxK
+        VS2008_VSIPCC_Collection_Files_RTL.wxs
+        VS2008.wxs
+        VS2010.wxs
+        VS2012.wxs
+        VS2013.wxs
+        VS2015.wxs
+        VS2017.wxs
+        VS2019.wxs
+        VSExtension_Platform.wxi
+        VSExtension.wixproj
+        VSExtension_x86.wxs
+        VsixPackage.wxs
+libs
+balutil
+balcondition.cpp
+balinfo.cpp
+balretry.cpp
+balutil.cpp
+balutil.vcxproj
+balutil.vcxproj.filters
+inc
+BalBaseBootstrapperApplication.h
+balcondition.h
+balinfo.h
+balretry.h
+balutil.h
+IBootstrapperBAFunction.h
+precomp.h
+deputil
+deputil.cpp
+deputil.vcxproj
+deputil.vcxproj.filters
+inc
+deputil.h
+precomp.h
+dutil
+acl2util.cpp
+aclutil.cpp
+apputil.cpp
+apuputil.cpp
+atomutil.cpp
+buffutil.cpp
+butil.cpp
+cabcutil.cpp
+cabutil.cpp
+certutil.cpp
+conutil.cpp
+cryputil.cpp
+dictutil.cpp
+dirutil.cpp
+dlutil.cpp
+dutil.cpp
+dutil.vcxproj
+dutil.vcxproj.filters
+eseutil.cpp
+fileutil.cpp
+gdiputil.cpp
+iis7util.cpp
+inc
+aclutil.h
+apputil.h
+apuputil.h
+atomutil.h
+buffutil.h
+butil.h
+cabcutil.h
+cabutil.h
+certutil.h
+conutil.h
+cryputil.h
+dictutil.h
+dirutil.h
+dlutil.h
+dutil.h
+eseutil.h
+fileutil.h
+gdiputil.h
+iis7util.h
+inetutil.h
+iniutil.h
+jsonutil.h
+locutil.h
+logutil.h
+memutil.h
+metautil.h
+osutil.h
+pathutil.h
+perfutil.h
+polcutil.h
+procutil.h
+regutil.h
+resrutil.h
+reswutil.h
+rexutil.h
+rmutil.h
+rssutil.h
+sceutil.h
+shelutil.h
+sqlutil.h
+srputil.h
+strutil.h
+svcutil.h
+thmutil.h
+timeutil.h
+uriutil.h
+userutil.h
+wiutil.h
+wuautil.h
+xmlutil.h
+inetutil.cpp
+iniutil.cpp
+jsonutil.cpp
+locutil.cpp
+logutil.cpp
+memutil.cpp
+metautil.cpp
+osutil.cpp
+path2utl.cpp
+pathutil.cpp
+perfutil.cpp
+polcutil.cpp
+precomp.h
+proc2utl.cpp
+proc3utl.cpp
+procutil.cpp
+regutil.cpp
+resrutil.cpp
+reswutil.cpp
+rexutil.cpp
+rmutil.cpp
+rssutil.cpp
+sceutil.cpp
+shelutil.cpp
+sqlutil.cpp
+srputil.cpp
+strutil.cpp
+svcutil.cpp
+thmutil.cpp
+timeutil.cpp
+uriutil.cpp
+userutil.cpp
+wiutil.cpp
+wuautil.cpp
+xmlutil.cpp
+xsd
+    thmutil.xsd
+libs_multitarget.proj
+libs.proj
+wcautil
+    custommsierrors.h
+    precomp.h
+    qtexec.cpp
+    wcalog.cpp
+    wcalog.h
+    wcascript.cpp
+    wcautil.cpp
+    wcautil.h
+    wcautil.vcxproj
+    wcawow64.cpp
+    wcawow64.h
+    wcawrap.cpp
+    wcawrapquery.cpp
+    wcawrapquery.h
+Setup
+Bundle
+Bundle.wixproj
+Bundle.wxs
+NetfxLicense.rtf
+PackageGroups.wxs
+SplashScreen.bmp
+WixStdBundle.wxs
+CommonLib
+CommonLib.wixproj
+Folders.wxs
+CoreMsi
+CoreMsi.wixproj
+CoreMsi.wxs
+Doc.wxs
+Extensions.wxs
+Lux.wxs
+MSBuild.wxs
+Nant.wxs
+Schemas.wxs
+SchemaTemplate.wxi
+Toolset.wxs
+Icons
+help.ico
+setupicons.rc
+setupicons.vcxproj
+ManagedSdkMsi
+BurnSdk.wxs
+Dtf.wxs
+ExtensionSdk.wxs
+ManagedSdkMsi.wixproj
+ManagedSdkMsi.wxs
+NativeSdkMsi
+Headers.wxs
+Libs.wxs
+NativeSdkMsi2010.wixproj
+NativeSdkMsi2012.wixproj
+NativeSdkMsi2013.wixproj
+NativeSdkMsi2015.wixproj
+NativeSdkMsi2017.wixproj
+NativeSdkMsi.targets
+NativeSdkMsi.wxs
+rebuildAll.cmd
+setup.proj
+WixBA
+Hresult.cs
+InstallationViewModel.cs
+Model.cs
+NewsItem.cs
+ProgressViewModel.cs
+Properties
+AssemblyInfo.cs
+PropertyNotifyBase.cs
+RelayCommand.cs
+Resources
+exit.png
+gear.png
+legal.png
+news.png
+wrench.png
+RootViewModel.cs
+RootView.xaml
+RootView.xaml.cs
+Styles.xaml
+UpdateViewModel.cs
+WixBA.BootstrapperCore.config
+WixBA.cs
+WixBA.csproj
+X64Msi
+X64Msi.wixproj
+X64Msi.wxs
+Zip
+    binaries.zipproj
+    debug
+    WixBuild.props
+    WixBuild.targets
+    wix.proj
+    debug.zipproj
+tools
+candle
+app.config
+App.ico
+AssemblyInfo.cs
+candle.cs
+candle.csproj
+candle.exe.manifest
+candle.rc
+CandleStrings.Designer.cs
+CandleStrings.resx
+dark
+app.config
+App.ico
+AssemblyInfo.cs
+dark.cs
+dark.csproj
+dark.exe.manifest
+dark.rc
+DarkStrings.Designer.cs
+DarkStrings.resx
+heat
+app.config
+AssemblyInfo.cs
+heat.cs
+heat.csproj
+heat.exe.manifest
+heat.rc
+HeatStrings.Designer.cs
+HeatStrings.resx
+insignia
+app.config
+AssemblyInfo.cs
+insignia.cs
+insignia.csproj
+insignia.exe.manifest
+insignia.rc
+InsigniaStrings.Designer.cs
+InsigniaStrings.resx
+light
+app.config
+App.ico
+AssemblyInfo.cs
+darice.cub
+light.cs
+light.csproj
+light.exe.manifest
+light.rc
+LightStrings.Designer.cs
+LightStrings.resx
+mergemod.cub
+mergemod.dll
+lit
+app.config
+App.ico
+AssemblyInfo.cs
+lit.cs
+lit.csproj
+lit.exe.manifest
+lit.rc
+LitStrings.Designer.cs
+LitStrings.resx
+melt
+app.config
+AssemblyInfo.cs
+melt.cs
+melt.csproj
+melt.exe.manifest
+melt.rc
+MeltStrings.Designer.cs
+MeltStrings.resx
+pyro
+app.config
+App.ico
+AssemblyInfo.cs
+mspatchc.dll
+pyro.cs
+pyro.csproj
+pyro.exe.manifest
+pyro.rc
+PyroStrings.Designer.cs
+PyroStrings.resx
+retina
+app.config
+AssemblyInfo.cs
+retina.cs
+retina.csproj
+retina.exe.manifest
+retina.rc
+RetinaStrings.Designer.cs
+RetinaStrings.resx
+shine
+app.config
+AssemblyInfo.cs
+CommandLine.cs
+ScannedProject.cs
+ScannedProjectProjectReference.cs
+ScannedProjectSourceFileReference.cs
+ScannedSourceFile.cs
+ScannedSourceFileSymbolReference.cs
+ScannedSymbol.cs
+ScannedSymbolSymbolReference.cs
+ScannedUnresolvedReference.cs
+Scanner.cs
+ScannerMessageEventArgs.cs
+ScanResult.cs
+shine.cs
+shine.csproj
+shine.exe.manifest
+shine.rc
+smoke
+app.config
+AssemblyInfo.cs
+smoke.cs
+smoke.csproj
+smoke.exe.manifest
+smoke.rc
+SmokeStrings.Designer.cs
+SmokeStrings.resx
+thmviewer
+display.cpp
+load.cpp
+precomp.h
+resource.h
+Resources
+LoremIpsum.rtf
+thm.xml
+thmviewer.cpp
+thmviewer.manifest
+thmviewer.rc
+thmviewer.vcxproj
+thmviewer.vcxproj.filters
+tools.proj
+torch
+app.config
+App.ico
+Properties
+AssemblyInfo.cs
+torch.cs
+torch.csproj
+torch.exe.manifest
+torch.rc
+TorchStrings.Designer.cs
+TorchStrings.resx
+wconsole
+AssemblyInfo.cs
+CommandLineOption.cs
+CommandLineResponseFile.cs
+wconsole.csproj
+winterop
+precomp.h
+winterop.cpp
+winterop.def
+winterop.rc
+winterop.vcxproj
+wix
+AppCommon.cs
+ApprovedExeForElevation.cs
+AssemblyDefaultFabricatorExtensionAttribute.cs
+AssemblyDefaultHeatExtensionAttribute.cs
+AssemblyDefaultWixExtensionAttribute.cs
+AssemblyInfo.cs
+AutoMediaAssigner.cs
+BBControlRow.cs
+BinderCore.cs
+Binder.cs
+BinderExtension.cs
+BinderExtensionEx.cs
+BinderFileManager.cs
+BundleApprovedExeForElevationAttributes.cs
+BundleChainAttributes.cs
+BundlePackageAttributes.cs
+BurnCommon.cs
+BurnReader.cs
+BurnWriter.cs
+Cab
+CabinetFileInfo.cs
+Interop
+CabInterop.cs
+WixCreateCab.cs
+WixEnumerateCab.cs
+WixExtractCab.cs
+CabinetBuilder.cs
+CabinetWorkItem.cs
+CatalogInfo.cs
+ChainInfo.cs
+ChainMsiPackageRow.cs
+ChainPackageInfo.cs
+CLR
+Interop
+    CLRInterop.cs
+ColumnDefinitionCollection.cs
+ColumnDefinition.cs
+CommandLine.cs
+CommandLineInfo.cs
+Common.cs
+CompilerCore.cs
+Compiler.cs
+CompilerExtension.cs
+componentrow.cs
+ConnectToFeatureCollection.cs
+ConnectToFeature.cs
+ConnectToModuleCollection.cs
+ConnectToModule.cs
+ConsoleMessageHandler.cs
+ContainerInfo.cs
+ControlRow.cs
+Data
+actions.xml
+messages.xml
+tables.xml
+DecompilerCore.cs
+Decompiler.cs
+DecompilerExtension.cs
+Differ.cs
+Exceptions
+DuplicateSymbolsException.cs
+WixException.cs
+WixFileNotFoundException.cs
+WixInvalidIdtException.cs
+WixMissingTableDefinitionException.cs
+WixNotIntermediateException.cs
+WixNotLibraryException.cs
+WixNotOutputException.cs
+ExitCodeInfo.cs
+FabricatorCore.cs
+Fabricator.cs
+Field.cs
+FileRowCollection.cs
+FileRow.cs
+GlobalSuppressions.cs
+HarvesterCore.cs
+Harvester.cs
+HarvesterExtension.cs
+HeatCore.cs
+HeatExtension.cs
+IfContext.cs
+IfDefEventHandler.cs
+IMessageHandler.cs
+IncludedFileEventHandler.cs
+inscriber.cs
+InspectorCore.cs
+InspectorExtension.cs
+Intermediate.cs
+Librarian.cs
+Library.cs
+Linker.cs
+Localization.cs
+Localizer.cs
+MediaRowCollection.cs
+MediaRow.cs
+MelterCore.cs
+Melter.cs
+MergeMod
+NativeMethods.cs
+MessageEventArgs.cs
+MessageHandler.cs
+Msi
+Database.cs
+Installer.cs
+Interop
+MsiInterop.cs
+MsiException.cs
+MsiHandle.cs
+Record.cs
+Session.cs
+SummaryInformation.cs
+View.cs
+MsiFeature.cs
+MsiPropertyInfo.cs
+Mutator.cs
+MutatorExtension.cs
+ObjectField.cs
+Ole32
+Storage.cs
+Output.cs
+PatchAPI
+PatchInterop.cs
+Patch.cs
+PatchTransform.cs
+PayloadInfoRow.cs
+Pdb.cs
+PreprocessorCore.cs
+Preprocessor.cs
+PreprocessorExtension.cs
+ProcessedStreamEventHandler.cs
+ProvidesDependencyCollection.cs
+ProvidesDependency.cs
+RegistrationInfo.cs
+RelatedBundleInfo.cs
+RelatedPackage.cs
+ResolvedDirectory.cs
+ResolvedVariableEventHandler.cs
+RollbackBoundaryInfo.cs
+RowCollection.cs
+Row.cs
+RowDictionary.cs
+SectionCollection.cs
+Section.cs
+Serialize
+CodeDomInterfaces.cs
+CodeDomReader.cs
+ElementCollection.cs
+SourceLineNumberCollection.cs
+SourceLineNumber.cs
+SubStorage.cs
+SummaryInfoRowCollection.cs
+SymbolCollection.cs
+Symbol.cs
+TableCollection.cs
+Table.cs
+TableDefinitionCollection.cs
+TableDefinition.cs
+Unbinder.cs
+UnbinderExtension.cs
+UpgradeRow.cs
+Util.cs
+Uuid.cs
+Validator.cs
+ValidatorExtension.cs
+VariableInfo.cs
+VariableRow.cs
+VerboseEventArgs.cs
+VerifyInterop.cs
+WarningEventArgs.cs
+WixActionRowCollection.cs
+WixActionRow.cs
+WixApprovedExeForElevationRow.cs
+WixBinder.cs
+WixBundlePatchTargetCodeRow.cs
+WixBundleRow.cs
+WixBundleUpdateRow.cs
+WixCatalogRow.cs
+WixCommandLineRow.cs
+WixComplexReferenceRow.cs
+WixComponentSearchInfo.cs
+Wix.csproj
+WixDistributionSpecificStrings.Designer.cs
+WixDistributionSpecificStrings.resx
+wixdll.rc
+WixExtension.cs
+WixFileRow.cs
+WixFileSearchInfo.cs
+WixGenericMessageEventArgs.cs
+WixGroupingOrdering.cs
+WixMediaRow.cs
+WixMediaTemplateRow.cs
+WixMergeRow.cs
+WixProductSearchInfo.cs
+WixPropertyRow.cs
+WixRegistrySearchInfo.cs
+WixSearchInfo.cs
+WixSimpleReferenceRow.cs
+WixStrings.Designer.cs
+WixStrings.resx
+WixUpdateRegistrationRow.cs
+WixVariableResolver.cs
+WixVariableRow.cs
+Xsd
+    actions.xsd
+    libraries.xsd
+    objects.xsd
+    outputs.xsd
+    pdbs.xsd
+    tables.xsd
+    wixloc.xsd
+    wix.xsd
+wixcop
+app.config
+Inspector.cs
+LineInfoAttribute.cs
+LineInfoCData.cs
+LineInfoComment.cs
+LineInfoDeclaration.cs
+LineInfoDocument.cs
+LineInfoDocumentType.cs
+LineInfoElement.cs
+LineInfoEntityReference.cs
+LineInfoProcessingInstruction.cs
+LineInfoSignificantWhitespace.cs
+LineInfoText.cs
+LineInfoWhitespace.cs
+WixCop.cs
+WixCop.csproj
+WixCop.exe.manifest
+Wixcop.rc
+WixTasks
+AssemblyInfo.cs
+Candle.cs
+Common.cs
+ConvertReferences.cs
+CreateItemAvoidingInference.cs
+CreateProjectReferenceDefineConstants.cs
+FileSearchHelperMethods.cs
+GenerateCompileWithObjectPath.cs
+GetCabList.cs
+GetLooseFileList.cs
+GlobalSuppressions.cs
+heatdirectory.cs
+heatfile.cs
+heatproject.cs
+heattask.cs
+Insignia.cs
+Light.cs
+Lit.cs
+Pyro.cs
+ReadRegistry.cs
+RefreshBundleGeneratedFile.cs
+RefreshGeneratedFile.cs
+RegistryBase.cs
+ReplaceString.cs
+ResolveWixReferences.cs
+Torch.cs
+WixAssignCulture.cs
+wix.ca.targets
+WixCommandLineBuilder.cs
+wix.nativeca.targets
+wix.targets
+WixTasks.csproj
+WixToolTask.cs
+WixUnit
+    AssemblyInfo.cs
+    CandleUnit.cs
+    CompareUnit.cs
+    DarkUnit.cs
+    HeatUnit.cs
+    ICommandArgs.cs
+    InsigniaUnit.cs
+    LightUnit.cs
+    LitUnit.cs
+    ProcessUnit.cs
+    PyroUnit.cs
+    SmokeUnit.cs
+    ToolUtility.cs
+    TorchUnit.cs
+    UnitResults.cs
+    unitTests.xsd
+    WixCop.settings.xml
+    WixProjUnit.cs
+    WixUnit.cs
+    WixUnit.csproj
+    wixunit.exe.manifest
+    wixunit.rc
+Tools.sln
+wixarm.proj
+Wix.sln
+test
+data
+Burn
+DependencyTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+BundleD.wxs
+BundleE.wxs
+BundleF.wxs
+BundleG.wxs
+BundleH.wxs
+BundleI.wxs
+BundleJ.wxs
+B.wxs
+C.wxs
+D.wxs
+E.wxs
+PatchA.wxs
+PatchB.wxs
+EmbeddedTests
+A.wxs
+BundleA.wxs
+BundleBv1.wxs
+BundleBv2.wxs
+B.wxs
+C.wxs
+FailureTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+B.wxs
+FeatureTests
+A.wxs
+BundleA.wxs
+ForwardCompatibleTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+B.wxs
+C.wxs
+MultiplePatchesTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+B.wxs
+PatchAB.wxs
+PatchB.wxs
+OriginalSourceBundleTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+B.wxs
+ParentTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+BundleD.wxs
+B.wxs
+D.wxs
+PatchTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+B.wxs
+PatchA2.wxs
+PatchA.wxs
+PatchBundleA2.wxs
+PatchBundleA.wxs
+PatchBundleB.wxs
+PatchBundleC.wxs
+PatchB.wxs
+PatchC.wxs
+PermanentTests
+A.wxs
+BundleA.wxs
+B.wxs
+PolicyTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+B.wxs
+RegistrationTests
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+BundleD.wxs
+TestExe.wxs
+RelatedBundleTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+BundleD.wxs
+BundleE.wxs
+B.wxs
+C.wxs
+D.wxs
+PatchA.wxs
+SearchTests
+A.wxs
+BundleA.wxs
+BundleB.wxs
+B.wxs
+SlipstreamTests
+A.wxs
+BundleAReverse.wxs
+BundleA.wxs
+BundleB.wxs
+BundleC.wxs
+BundleOnlyA.wxs
+BundleOnlyPatchA.wxs
+B.wxs
+PatchA.wxs
+PatchB.wxs
+UpdateBundleTests
+    A.wxs
+    BundleA.wxs
+BurnTestPayloads
+Catalog
+BurnTestCatalog.cat
+CreateCatalog.vbs
+testbundlecatalog.wxs
+MSIsandMSPs
+Baseliner
+rtmldr.msp
+GDR1
+gdr1.msp
+patch.wxs
+product.wxs
+LDR2
+ldr2.msp
+patch.wxs
+product.wxs
+LDR3
+ldr3.msp
+patch.wxs
+product.wxs
+RtmProduct
+product.msi
+product.wxs
+src
+    GDR1
+    patch.wxs
+    product.wxs
+    LDR1
+    patch.wxs
+    product.wxs
+    LDR2
+    kb2-patch.wxs
+    patch.wxs
+    product.wxs
+    LDR3
+    kb3-patch.wxs
+    patch.wxs
+    product.wxs
+    Makefile
+    readme.txt
+    RTM
+    product.wxs
+    RTMLDR
+    patch.wxs
+    product.wxs
+    SP1
+    patch.wxs
+    product.wxs
+    tools
+        Common.mak
+        Scenarios.mak
+        wimspxml.vbs
+        wisuminfo.vbs
+PerMachineMsisMsps
+PatchABv101.msp
+PatchAv101.msp
+PatchBv101.msp
+prodAv100.msi
+prodAv101.msi
+prodBv100.msi
+prodBv101.msi
+src
+    build.cmd
+    clean.cmd
+    copyBuiltPackages.cmd
+    notes.txt
+    PatchABv101
+    build.cmd
+    patch.wxs
+    ProdAv100
+    build.cmd
+    product.wxs
+    ProdAv101
+    build.cmd
+    patch.wxs
+    product.wxs
+    ProdBv100
+    build.cmd
+    product.wxs
+    ProdBv101
+    build.cmd
+    patch.wxs
+    product.wxs
+    readme.txt
+Products
+Hello_Reg_conditionalPass
+hello_world2.msi
+hello_world3.msi
+hello_world.msi
+readme.txt
+Hello_World
+hello_world.msi
+RTM-WixAuthoring
+    Build.bat
+    hello_world-en-us.wxl
+    hello_world.wxs
+    readme.txt
+PerUserMsi
+hello_world_non_admin.msi
+WixAuthoring
+    Build.bat
+    hello_world_non_admin-en-us.wxl
+    hello_world_non_admin.wxs
+    readme.txt
+PerUserMsiExtCab
+HelloWorldNonAdmin_Readme_External.cab
+HelloWorldNonAdmin_Readme_External.msi
+WixAuthoring
+    Build.bat
+    hello_world_non_admin-en-us.wxl
+    hello_world_non_admin.wxs
+    readme.txt
+TestExe
+    TestExe
+    Program.cs
+    Properties
+    AssemblyInfo.cs
+    Task.cs
+    TestExe.csproj
+    TestExe.exe
+    TestExe.sln
+readme.txt
+TxtFiles
+    10000000b.txt
+    1000000b.txt
+    10000b.txt
+    1000b.txt
+Examples
+ExampleTest1
+product.wxs
+ExampleTest2
+product.wxs
+ExampleTest3
+    product.wxs
+    test.cub
+Extensions
+DependencyExtension
+DependencyExtensionTests
+    A.wxs
+    B.wxs
+    make.bat
+IISExtension
+IISCertificateTests
+CertificateRef.wxs
+InvalidCertificateFile.wxs
+product.wxs
+Testcertificate1.cer
+Testcertificate2.cer
+Testcertificate3.cer
+Testcertificate4.pfx
+WrongPassword.wxs
+IISFilterTests
+filter.dll
+product.wxs
+IISVirtualDirTests
+InvalidAliasValue.wxs
+InvalidMimeMapExtension.wxs
+MultipleDirectories.wxs
+MultipleWebApplicationElements.wxs
+product_fail.wxs
+product.wxs
+test1.htm
+test2.htm
+test3.htm
+WebSiteRedifinition.wxs
+IISWebAppPoolTests
+MissingComponentAncestor.wxs
+product_fail.wxs
+product.wxs
+IISWebDirTests
+product_64.wxs
+product_fail.wxs
+product.wxs
+IISWebErrorTests
+404.htm
+product.wxs
+IISWebPropertyTests
+product_etag.wxs
+product_IIS5IsolationMode.wxs
+product_LogInUTF8.wxs
+product_MaxGlobalBandwidth.wxs
+IISWebServiceExtensionTests
+product.wxs
+IISWebSiteTests
+    AutoStartSpecified.wxs
+    product.wxs
+NetFXExtension
+NativeImageTests
+    product_64.wxs
+    product_fail.wxs
+    product.wxs
+    WixTasks.dll
+SqlExtension
+RegressionTests
+CustomActions
+    product.wxs
+SqlDatabaseTests
+LongName.wxs
+MissingAttributes.wxs
+MissingParentComponent.wxs
+product_fail.wxs
+product.wxs
+SqlScriptTests
+DeprecatedBinaryElement.wxs
+InvaildAttribute.wxs
+InvalidSqlScript.wxs
+MissingParentComponent.wxs
+product_fail.wxs
+product.wxs
+SqlScript1.sql
+SqlScript2.sql
+SqlStringTests
+    InvaildAttribute.wxs
+    product_fail.wxs
+    product.wxs
+UIExtension
+AdvancedUITests
+InstallforAllUser.wxs
+InstallJustForYou.wxs
+FeatureTreeTests
+product.wxs
+InstallDirTests
+    product.wxs
+UtilExtension
+CAQuietExecTests
+DeferredCommand.cmd
+ImmediateCommand.cmd
+product.wxs
+EventManifestTests
+event.man
+product_fail.wxs
+product.wxs
+FileShareTests
+product_64.wxs
+product_fail.wxs
+product.wxs
+PerfCounterManifestTests
+product_fail.wxs
+product.wxs
+SymFile.man
+PerfCounterTests
+product_fail.wxs
+product.wxs
+ReadMe.txt
+SymFile.h
+SymFile.ini
+PerformanceCategoryTests
+product_64.wxs
+product_fail.wxs
+product.wxs
+PermissionExTests
+ExistingFile.wxs
+GroupRefMissingParentComponent.wxs
+MyNewService.exe
+product_64.wxs
+product_fail.wxs
+product.wxs
+UserMissingParentComponent.wxs
+PropertyTests
+product.wxs
+RegressionTests
+ValidServiceConfig
+    product.wxs
+ServiceConfigTests
+MyNewService.exe
+NonExistingService.wxs
+product.wxs
+UserTests
+FailIfExists.wxs
+NonVitalUserGroup.wxs
+product_fail.wxs
+product.wxs
+RestrictedDomain.wxs
+WixCloseApplicationTests
+product.wxs
+WixInternetShortcutTests
+product_64.wxs
+product_fail.wxs
+product.wxs
+WixShellExecBinaryTests
+CreateDummyTextFile.exe
+product.wxs
+WixShellExecTests
+command.cmd
+product.wxs
+XmlConfigTests
+product_64.wxs
+product_fail.wxs
+product.wxs
+test.xml
+XmlFileTests
+    expected.xml
+    product_64.wxs
+    product_fail.wxs
+    product.wxs
+    test.xml
+VSExtension
+    VSExtensionTests
+        VS2008ProjectTemplate.txt
+        VS90InstallVSTemplates.wxs
+        VS90Setup.wxs
+HeathS
+Applications
+ObservableObject.cs
+RelayCommand.cs
+Setup.ico
+Signal.csproj
+Signal.exe.manifest
+Signal.rc
+SignalViewModel.cs
+SignalView.xaml
+SignalView.xaml.cs
+Signal.xaml
+Signal.xaml.cs
+Bundles
+NetfxLicense.rtf
+Netfx.wxs
+Setup.ico
+Shutdown.wixproj
+Shutdown.wxs
+Various.wixproj
+Various.wxs
+dirs.proj
+HeathS.targets
+Integration
+BuildingPackages
+Authoring
+FragmentTests
+FragmentRef
+product.wxs
+MultipleFragments
+    expected.msi
+    product.wxs
+IdentifierTests
+    LongIdentifiers
+        product.wxs
+Binaries
+BinaryTests
+    LargeBinary
+    product.wxs
+    SimpleBinary
+        expected.msi
+        product.wxs
+Bundle
+BundleElementTests
+BundleDoubleUX
+BundleDoubleUX.wxs
+BundleMissingChain
+BundleMissingChain.wxs
+BundleMissingUX
+BundleMissingUX.wxs
+BundleWithPayloadChild
+BundleWithPayloadChild.wxs
+BundleWithPayloadGroupChild
+BundleWithPayloadGroupChild.wxs
+MultipleBundleElements
+Product.wxs
+SecondBundleElement.wxs
+ValidBundleElement
+    Product.wxs
+ChainTests
+ChainDuplicatePackageGroupRefs
+Product.wxs
+ChainDuplicatePackageInPackageGroups
+Product.wxs
+ChainDuplicatePackages
+Product.wxs
+ChainPackageChild
+Product.wxs
+ChainPackageGroupRefChild
+    Product.wxs
+ComponentSearchTests
+ComponentSearchAfterUndefinedSearch
+Product.wxs
+ComponentSearchGuidMissing
+Product.wxs
+ComponentSearchInvalidGuid
+Product.wxs
+ComponentSearchInvalidProductCode
+Product.wxs
+ComponentSearchInvalidResultValue
+Product.wxs
+ComponentSearchPredefinedVariable
+Product.wxs
+ComponentSearchRecursiveAfter
+Product.wxs
+ComponentSearchVariableMissing
+Product.wxs
+DuplicateComponentSearch
+Product.wxs
+ValidComponentSearch
+    Product.wxs
+DirectorySearchTests
+DirectorySearchAfterUndefinedSearch
+Product.wxs
+DirectorySearchInvalidPath
+Product.wxs
+DirectorySearchInvalidResultValue
+Product.wxs
+DirectorySearchPathMissing
+Product.wxs
+DirectorySearchPredefinedVariable
+Product.wxs
+DirectorySearchRecursiveAfter
+Product.wxs
+DirectorySearchVariableMissing
+Product.wxs
+DuplicateDirectorySearch
+Product.wxs
+ValidDirectorySearch
+    Product.wxs
+Files
+Bootstrapper.exe
+LayoutDirectory
+InLayoutDirectoryInFragment.txt
+InSubdirectory.txt
+RootOfLayoutDirectory.txt
+UXPayload
+    PayloadFile1.txt
+    PayloadFile2.txt
+    PayloadFile3.txt
+    PayloadFile4.txt
+    PayloadFile5.txt
+FileSearchTests
+DuplicateFileSearch
+Product.wxs
+FileSearchAfterUndefinedSearch
+Product.wxs
+FileSearchInvalidPath
+Product.wxs
+FileSearchInvalidResultValue
+Product.wxs
+FileSearchPathMissing
+Product.wxs
+FileSearchPredefinedVariable
+Product.wxs
+FileSearchRecursiveAfter
+Product.wxs
+FileSearchVariableMissing
+Product.wxs
+ValidFileSearch
+    Product.wxs
+LayoutTests
+DuplicateLayoutDirectory
+Product.wxs
+DuplicateLayoutDirectoryRef
+Product.wxs
+DuplicateLayoutFile
+Product.wxs
+EmptyLayoutDirectory
+Product.wxs
+LayoutDirectoryInvalidName
+Product.wxs
+LayoutDirectoryNameMissing
+Product.wxs
+LayoutDirectoryRefIdMissing
+Product.wxs
+LayoutDirectoryRefNonexistingId
+Product.wxs
+LayoutFileInvalidName
+Product.wxs
+LayoutFileInvalidSourceFile
+Product.wxs
+LayoutFileNonexistentSourceFile
+Product.wxs
+LayoutFileRelativeSourceFilePath
+Product.wxs
+LayoutFileSourceFileMissing
+Product.wxs
+NestedLayoutDirectories
+Product.wxs
+RecursiveLayoutDirectoryRef
+    Product.wxs
+PackageTests
+DuplicateMsiProperty
+Product.wxs
+MsiPackageInuse
+Product.wxs
+MsiPackageInvalidMsi
+Product.wxs
+MsiPropertyNameMissing
+Product.wxs
+MsiPropertyValueMissing
+Product.wxs
+MspPackageInvalidMsp
+Product.wxs
+PackageAfterUndefinedPackage
+Product.wxs
+PackageEmptySourceFile
+Product.wxs
+PackageInvalidCache
+Product.wxs
+PackageInvalidName
+Product.wxs
+PackageInvalidSourceFile
+Product.wxs
+PackageInvalidVital
+Product.wxs
+PackageNonexistingSourceFile
+Product.wxs
+PackagePayloads
+Product.wxs
+PackageRecursiveAfter
+Product.wxs
+PackageSourceFileMissing
+Product.wxs
+ValidMsiProperty
+Product.wxs
+ValidPackage
+    Product.wxs
+PayloadTests
+MissingPayloadGroupRef
+Product.wxs
+NestedPayloadGroups
+Product.wxs
+PayloadEmptySourceFileAttribute
+Product.wxs
+PayloadGroupDuplicateId
+Product.wxs
+PayloadGroupDuplicatePayloadGroupRefs
+Product.wxs
+PayloadGroupDuplicatePayloadInPayloadGroups
+Product.wxs
+PayloadGroupDuplicatePayloads
+Product.wxs
+PayloadGroupMissingId
+Product.wxs
+PayloadGroupRecursiveRefs
+Product.wxs
+PayloadGroupRefMissingId
+Product.wxs
+PayloadInvalidName
+Product.wxs
+PayloadInvalidSourceFile
+Product.wxs
+PayloadMissingSourceFileAttribute
+Product.wxs
+PayloadNameNotSpecified
+Product.wxs
+PayloadNameSpecified
+Product.wxs
+PayloadNonexistentSourceFilePath
+Product.wxs
+PayloadRelativeSourceFilePath
+Product.wxs
+ValidPayloadDownloadURL
+    Product.wxs
+ProductSearchTests
+DuplicateProductSearch
+Product.wxs
+ProductSearchAfterUndefinedSearch
+Product.wxs
+ProductSearchGuidMissing
+Product.wxs
+ProductSearchInvalidGuid
+Product.wxs
+ProductSearchInvalidResultValue
+Product.wxs
+ProductSearchPredefinedVariable
+Product.wxs
+ProductSearchRecursiveAfter
+Product.wxs
+ProductSearchVariableMissing
+Product.wxs
+ValidProductSearch
+    Product.wxs
+RegistrySearchTests
+DuplicateRegistrySearch
+Product.wxs
+RegistrySearchAfterUndefinedSearch
+Product.wxs
+RegistrySearchInvalidExpandEnvironmentVariablesValue
+Product.wxs
+RegistrySearchInvalidFormatValue
+Product.wxs
+RegistrySearchInvalidResultValue
+Product.wxs
+RegistrySearchInvalidRootValue
+Product.wxs
+RegistrySearchKeyMissing
+Product.wxs
+RegistrySearchPredefinedVariable
+Product.wxs
+RegistrySearchRecursiveAfter
+Product.wxs
+RegistrySearchRootMissing
+Product.wxs
+RegistrySearchVariableMissing
+Product.wxs
+ValidRegistrySearch
+    Product.wxs
+UXTests
+UXDuplicatePayloadGroupRefs
+Product.wxs
+UXDuplicatePayloadInPayloadGroups
+Product.wxs
+UXDuplicatePayloads
+Product.wxs
+UXEmptySourceFileAttribute
+Product.wxs
+UXInvalidSourceFile
+Product.wxs
+UXMissingSourceFileAttribute
+Product.wxs
+UxMultiplePayloadChildren
+Product.wxs
+UXNameNotSpecified
+Product.wxs
+UXNameSpecified
+Product.wxs
+UXNonexistentSourceFilePath
+Product.wxs
+UXPayloadChild
+Product.wxs
+UXPayloadGroupRefChild
+Product.wxs
+UXRelativeSourceFilePath
+    Product.wxs
+VariableTests
+    BuiltInVariableName
+    Product.wxs
+    DuplicateVariableName
+    Product.wxs
+    ValidVariableName
+    Product.wxs
+    ValidVariableValue
+    Product.wxs
+    VariableNameMissing
+    Product.wxs
+    VariableValueEmpty
+    Product.wxs
+    VariableValueMissing
+        Product.wxs
+Cabinets
+CabinetTests
+    DuplicateCabinetNames
+        product.wxs
+Components
+ComponentTests
+CircularReferences
+product.wxs
+ComponentFeatureAndReferenced
+product.wxs
+ComponentKeyPath
+product.wxs
+ComponentRefsAndGroups
+expected.msi
+product.wxs
+ComponentShared
+product.wxs
+DisableRegistryReflection
+product.wxs
+DiskIdInheritance
+product.wxs
+FloatingComponent
+product.wxs
+FloatingComponentKeyPath
+product.wxs
+InvalidComponentFeature
+product.wxs
+InvalidComponentGuid
+product.wxs
+InvalidFloatingComponent
+product.wxs
+InvalidId
+product.wxs
+InvalidLocation
+product.wxs
+InvalidSharedDllRefCount
+product.wxs
+Location
+product.wxs
+MissingComponentGuid
+product.wxs
+NeverOverwrite
+product.wxs
+Permanent
+product.wxs
+PermanentUnmanagedComponent
+product.wxs
+PreMsi45UninstallWhenSuperseded
+product.wxs
+PutGuidHere
+product.wxs
+SharedDllRefCount
+product.wxs
+SimpleComponent
+expected.msi
+product.wxs
+Transitive
+product.wxs
+TwoKeyPaths
+product.wxs
+UninstallWhenSuperseded
+product.wxs
+UnmanagedComponent
+product.wxs
+UnmanagedSharedComponent
+product.wxs
+Win64Component
+expected.msi
+product.wxs
+Win64ComponentGeneratedGUID
+    product.wxs
+COMRegistrationTests
+ValidUnadvertisedClass
+    product.wxs
+CreateFolderTests
+CreateDupicatedFolder1
+product.wxs
+CreateDupicatedFolder2
+product.wxs
+CreateFolderInFloatingComponent
+expected.msi
+product.wxs
+CreateFolderShortcut
+expected.msi
+product.wxs
+CreateFolderWithMultiplePermissions
+expected.msi
+product.wxs
+CreateFolderWithPermissions
+expected.msi
+product.wxs
+CreateUndefinedFolder
+product.wxs
+SimpleCreateFolder
+    expected.msi
+    product.wxs
+EnvironmentTests
+ChangeEnvironment
+expected.msi
+product.wxs
+CreateEnvironment
+expected.msi
+product.wxs
+RemoveEnvironment
+    expected.msi
+    product.wxs
+IsolateComponentTests
+InvalidSharedComponent
+product.wxs
+SimpleIsolateComponent
+    product.wxs
+RefAndGroupTests
+ComponentGroups
+product.wxs
+ComponentRef
+product.wxs
+NestedComponentGroups
+    product.wxs
+RemoveFolderTests
+DirectoryAttributeWithPropertyAttribute
+product.wxs
+DuplicateRemoveFolders
+product.wxs
+SimpleRemoveFolder
+    expected.msi
+    product.wxs
+ReserveCostTests
+InvalidReserveCost
+product.wxs
+InvalidRunFromSourceType
+product.wxs
+InvalidRunLocalType
+product.wxs
+ReserveCostDirectory
+product.wxs
+SimpleReserveCost
+    product.wxs
+ServiceControlTests
+InvalidServiceControlName
+product.wxs
+MultipleServiceArguments
+product.wxs
+RemoveBoth
+product.wxs
+ServiceArgument
+product.wxs
+ServiceControl
+product.wxs
+Wait
+    product.wxs
+ServiceInstallTests
+Arguments
+product.wxs
+EraseDescription1
+product.wxs
+EraseDescription2
+product.wxs
+Interactive
+product.wxs
+InvalidAccount
+product.wxs
+InvalidErrorControl
+product.wxs
+MissingErrorControl
+product.wxs
+MultipleServiceDependencies
+product.wxs
+Name
+product.wxs
+Password
+product.wxs
+ServiceDependencyId1
+product.wxs
+ServiceDependencyId2
+product.wxs
+ServiceDependencyId3
+product.wxs
+ServiceInstall
+product.wxs
+SupportedStartValues
+product.wxs
+SupportedTypes
+product.wxs
+UnsupportedStartValues
+product.wxs
+UnsupportedTypes
+product.wxs
+ValidAccount
+product.wxs
+ValidErrorControl
+    product.wxs
+SFPCatalogTests
+    SFPCatalog
+    product.wxs
+    SFPFile
+        product.wxs
+Conditions
+ComponentConditionTests
+SimpleCondition
+    product.wxs
+FeatureConditionTests
+SimpleCondition
+    product.wxs
+LaunchConditionTests
+    SimpleCondition
+        product.wxs
+CustomActions
+CustomActionTests
+    MissingRequiredAttributes
+    product.wxs
+    SimpleCustomAction
+        expected.msi
+        product.wxs
+CustomTables
+CustomTableTests
+    InvalidType
+    product.wxs
+    NullValues
+    product.wxs
+    SimpleCustomTable
+        expected.msi
+        product.wxs
+Features
+FeatureTests
+Absent
+product.wxs
+AllowAdvertise
+product.wxs
+ConfigurableDirectory
+product.wxs
+FeatureDisplay
+product.wxs
+FeatureLevel
+product.wxs
+InstallDefault
+product.wxs
+MissingFeatureLevel
+product.wxs
+MissingId
+product.wxs
+SimpleFeature
+expected.msi
+product.wxs
+TypicalDefault
+    product.wxs
+RefAndGroupTests
+    ComplexFeatureUsage
+    product.wxs
+    FeatureGroupContainingMergeRef
+    MergeModule.msm
+    Product.wxs
+    FeatureGroups
+    product.wxs
+    FeatureRefs
+    product.wxs
+    NestedFeatureGroups
+    product.wxs
+    NestedFeatures
+        product.wxs
+Files
+CopyFileTests
+CopyExistingFile
+product.wxs
+CopyInstalledFile
+product.wxs
+CopyNonExistingFile
+product.wxs
+MoveExistingFile
+product.wxs
+MoveInstalledFile
+    product.wxs
+FileTests
+AssemblyNullPublicKey
+product.wxs
+AssemblyTarget40Client
+expected.msi
+product.wxs
+CompanionFile
+product.wxs
+DefaultVersion
+product.wxs
+SimpleFile
+    expected.msi
+    product.wxs
+RemoveFilesTests
+    RemoveFileWithDirectory
+    product.wxs
+    RemoveFileWithProperty
+    product.wxs
+    SimpleRemoveFile
+    product.wxs
+    WildcardRemoveFile
+        product.wxs
+InstallPackages
+PackageTests
+AdminImage
+product.wxs
+CompressedPackage
+expected.msi
+product.wxs
+InstallerVersion
+product.wxs
+InstallPrivileges
+product.wxs
+InvalidInstallerVersion
+product.wxs
+InvalidPlatform
+product.wxs
+PackageIds
+product.wxs
+Platforms
+product.wxs
+ShortNames
+product.wxs
+SimplePackage
+    expected.msi
+    product.wxs
+ProductTests
+    AttributesWithWhitespace
+    manufacturer.wxs
+    name.wxs
+    Codepage
+    product.wxs
+    InvalidProductId
+    product.wxs
+    InvalidUpgradeCode
+    product.wxs
+    NonDefaultProduct
+    expected.msi
+    product.wxs
+    ProductIds
+    product.wxs
+    SimpleProduct
+    expected.msi
+    product.wxs
+    UpgradeTable
+    product.wxs
+    UpgradeVersion
+    product.wxs
+    ValidUpgradeCodes
+        product.wxs
+InstanceTransforms
+InstanceTransformTests
+    AutoGenInstanceProductCode
+    product.wxs
+    AutoGenProductId
+    expected.mst
+    product.wxs
+    DuplicateInstanceIds
+    product.wxs
+    InstanceUpgradeCode
+    product.wxs
+    SimpleInstanceTransform
+        expected1.msi
+        expected2.msi
+        expected3.msi
+        expected.msi
+        product.wxs
+Media
+MediaTests
+    SimpleMedia
+        expected.msi
+        product.wxs
+Permissions
+PermissionExTests
+    CreateFolderPermissionEx
+    expected.msi
+    product.wxs
+    FilePermissionEx
+    expected.msi
+    product.wxs
+    PermissionExTwiceOnOneFile
+    expected.msi
+    product.wxs
+    RegistryPermissionEx
+        expected.msi
+        product.wxs
+Registry
+RegistryTests
+    SimpleRegistry
+        expected.msi
+        product.wxs
+RegressionTests
+DuplicateIgnoreModularization
+Product.wxs
+SF1656236
+product.wxs
+SF1824809
+    123456789
+    TextFile1.txt
+    TextFile2.txt
+    product.wxs
+Sequencing
+InstallExecuteSequenceTests
+AllStandardActions
+    expected.msi
+    product.wxs
+SequencingTests
+    SimpleSequencing
+        expected.msi
+        product.wxs
+Shortcuts
+ShortcutPropertyTests
+DuplicateShortcutPropertyIds
+product.wxs
+PreMsi50ShortcutProperty
+product.wxs
+SimpleShortcutProperty
+    expected.msi
+    product.wxs
+ShortcutTests
+    SimpleShortcut
+        expected.msi
+        product.wxs
+SmokeTests
+Scenario02
+    components.wxs
+    customactions.wxs
+    directories.wxi
+    expected.msi
+    features.wxs
+    product.wxs
+    properties.wxs
+SymbolPaths
+SymbolPathTests
+    ComponentSymbolPath
+        expected.msi
+        product.wxs
+UI
+    HyperlinkTests
+    MultipleHyperlinks
+    product.wxs
+    SimpleHyperlink
+        product.wxs
+    UITests
+        SimpleUI
+            expected.msi
+            product.wxs
+BuildingPatches
+PatchFamilies
+    CustomActionRefTests
+        Sequencing
+            baseline.wxs
+            expected.msp
+            patch.wxs
+            upgrade.wxs
+BurnIntegrationTests
+BasicTests
+    A.wxs
+    BundleA.wxs
+    BundleB.wxs
+    B.wxs
+MsbuildIntegrationTests
+    SimpleMsi
+        SimpleMsi.wixproj
+        SimpleMsi.wxs
+RobMen
+bundles
+enu
+enu.wixproj
+enu.wxs
+jpn
+jpn.wixproj
+jpn.wxs
+perUser
+perUser.wixproj
+perUser.wxs
+teststdba
+teststdba.wixproj
+teststdba.wxs
+v1
+v1.wixproj
+v1.wxs
+v1addon-patch
+v1addonpatch.wixproj
+v1addonpatch.wxs
+v1addon-PerMachine
+v1addon.wixproj
+v1addon.wxs
+v2
+    v2.wixproj
+    v2.wxs
+Common.targets
+data
+logo.bmp
+readme.html
+dirs.proj
+make.bat
+manifests
+    3_ext.wxs
+    burninburn.wxs
+    child.wxs
+    detached_container.wxs
+    external_nocache.wxs
+    logo.bmp
+    one_embedded.wxs
+    one_external.wxs
+    one_web.wxs
+    readme.html
+    source_res.wxs
+    v1addon2.wxs
+SharedData
+Authoring
+BasicFragment64bit.wxs
+BasicFragment.wxs
+BasicModule.wxs
+BasicProduct64bit.wxs
+BasicProduct.wxs
+component1.wxi
+component2.wxi
+directories64bit.wxi
+directories.wxi
+dllfile1.wxi
+dllfile2.wxi
+FailureCustomAction.wxi
+feature1.wxi
+feature2.wxi
+file1.wxi
+file2.wxi
+packageelement.wxi
+PropertyFragment.wxs
+Baselines
+MSIs
+    basicproduct.msi
+Files
+    CustomActionFail.exe
+    TestBinaries
+    bin
+    Assembly1.dll
+    Assembly1.pdb
+    Assembly1_Target40Client.dll
+    Assembly1_Target40Client.pdb
+    Assembly2.exe
+    src
+        Assembly1
+        Assembly1.csproj
+        Class1.cs
+        Properties
+        AssemblyInfo.cs
+        ReadMe.txt
+        Assembly2
+        Assembly2.cpp
+        Assembly2.vcproj
+        stdafx.cpp
+        stdafx.h
+        TestBinaries.sln
+    TextFile1.txt
+Tools
+Candle
+Input
+FileSystemTests
+FileNameWithSingleQuotes
+'product'.wxs
+FileNameWithSpace
+pro  duct.wxs
+LongFilePath
+product.wxs
+SmallSizeInputFile
+    product.wxs
+InputTests
+    EmptyWxsFile
+    Product.wxs
+    InvalidWxsFile
+    Product.wxs
+    MultipleWxsFiles
+    feature.wxs
+    Product.wxs
+    NoWxsExtension
+    Product
+    ValidFileWithUnknownExtension
+        Product.foo
+MultipleInputSwitchesTests
+WxAndSw
+    Product.wxs
+PedanticTests
+Product.wxs
+PreProcessor
+ErrorsAndWarningsTests
+Error
+Product.wxs
+Warning
+    Product.wxs
+IncludeFileTests
+IncludeFilesWithEnvVariables
+Product.wxs
+MultipleIncludeFiles
+Product.wxs
+Property2.wxi
+Property3.wxi
+NestedIncludeFiles
+Product.wxs
+Property.wxi
+SearchIncludeFiles
+Product.wxs
+SharedData
+    Property1.wxi
+StatementTests
+ForEach
+Product.wxs
+IfDef
+Product.wxs
+IfNDef
+Product.wxs
+SharedData
+    Product.wxs
+VariablesTests
+    AuthoringVariableRedefinition
+    Product.wxs
+    EnvironmentVariable
+    Product.wxs
+    PreProcessorParam
+    Product.wxs
+    PreProcessorVariable
+    Product.wxs
+    PreProcessorVariableEvaluation
+    Product.wxs
+    PreProcessToFile
+    Product.wxs
+    SystemVariable
+    Product.wxs
+    VariableRedefinition
+        Product.wxs
+RegressionTests
+EmbedCabAttrWithoutCabinetAttr
+EmbedCabProduct.wxs
+NoErrorOnSpecifyingMinSizeInFileSearch
+FileSearch.wxs
+ProductElementNotPopulated
+IncompleteProductElementBug.wxs
+ProductVersionAttributeNotPopulated
+ProductVersionAttributeMissing.wxs
+ShortcutDirectoryNotSet
+ShortcutProduct.wxs
+SourceDirTest
+    product.wxs
+SuppressSchemaValidationTests
+Product.wxs
+SuppressWarningsTests
+Product.wxs
+TraceTests
+Product.wxs
+TreatWarningsAsErrorsTests
+    Product.wxs
+Dark
+BinaryPath
+    BinaryPathTests
+        product.wxs
+Light
+BasePaths
+BasePathTests
+    SimpleBasePath
+        expected.msi
+BindFiles
+BindFilesTests
+    SimpleBindFiles
+        expected.msi
+        product.wxs
+BindPaths
+bindpathtests
+    namedbindpath
+    expected.msi
+    product.wxs
+    simplebindpath
+        expected.msi
+        product.wxs
+Cabs
+CabCachingTests
+InvalidCabCache
+product.wxs
+SimpleCabCaching
+    product.wxs
+ReuseCabTests
+    SimpleReuseCab
+        product.cab
+        product.wxs
+ICEs
+ICEsTests
+SimpleICE
+    product.wxs
+SuppressICEsTests
+    SimpleSuppressICE
+        product.wxs
+Input
+WixlibTests
+MultipleWixlibs
+Component.wxs
+Product.wxs
+MultipleWixlibsWithDirs
+Package.wxs
+ProjectOne.wxs
+ProjectTwo.wxs
+SingleWixlib
+    BasicProduct.wixlib
+    expected.msi
+WixobjTests
+    component1.wxs
+    component2.wxs
+    features.wxs
+    product.wxs
+Localization
+LocalizationTests
+    he-il
+    he-il.msi
+    he-il.wxl
+    Shared
+    product.wxs
+    ValidIdentifier
+        en-US.wxl
+        product.wxs
+RegressionTests
+IncorrectAssemblyType
+    IncorrectAssemblyType.wxs
+Warnings
+    Shared
+        Warning1079.wxs
+Lit
+    BindFiles
+    BindFilesTests
+        SimpleBindFiles
+            product.wxs
+    bindpaths
+    bindpathtests
+        namedbindpath
+        product.wxs
+        simplebindpath
+            product.wxs
+    Input
+    InputTests
+        EmptyWixObjFile
+        EmptyFile.wixobj
+        InvalidWixObjFile
+        Library.wixobj
+        MultipleWixObjFiles
+        ComponentFragment.wxs
+        PropertyFragment.wxs
+        ResponseFile
+        ResponseFile.txt
+        WildcardInput
+            PropertyFragment1.wxs
+            PropertyFragment2.wxs
+            TestPropertyFragment3.wxs
+            TestPropertyFragment4.wxs
+    Localization
+        LocalizationTests
+            Shared
+                en-US.wxl
+                ja-JP.wxl
+UnitTests
+wix.dll
+    PreprocessorUnitTests
+        PreprocessAndComputeHash
+            product.wxs
+Wixproj
+    WixprojTests
+    InstallerWithParameters
+    product.wxs
+    WixProject.wixproj
+    LibraryWithParameters
+    WixProject.wixproj
+    MergeModuleWithParameters
+    WixProject.wixproj
+    SignMsiProject
+    en-us.wxl
+    ja-jp.wxl
+    product.wxs
+    SignMsiProject.wixproj
+    SimpleInstaller
+    WixProject.wixproj
+    SimpleLibrary
+    WixProject.wixproj
+    SimpleMergeModule
+    WixProject.wixproj
+    WixprojWithReferences
+        product.wxs
+        WixProject.wixproj
+    WixTaskTests
+        ProductWixInstallerx64
+        ProductWixInstallerx64.wixproj
+        ProductWixInstallerx86
+        ProductWixInstallerx86.wixproj
+        ProductWixLibraryx64
+        ProductWixLibraryx64.wixproj
+        ProductWixLibraryx86
+            ProductWixLibraryx86.wixproj
+src
+Burn
+Frost
+    Core
+    Core.csproj
+    Data
+    messages.xml
+    Frost.cs
+    FrostException.cs
+    FrostManifest.xml
+    Logger.cs
+    Package.cs
+    Properties
+    AssemblyInfo.cs
+    Scenarios
+    FrostManifest.xml
+    Variables.cs
+    Frost
+    Frost.csproj
+    Program.cs
+    Properties
+        AssemblyInfo.cs
+    Frost.sln
+    Shim
+        AssemblyInfo.cpp
+        CFrostCore.cpp
+        CFrostCore.h
+        CFrostEngine.cpp
+        CFrostEngine.h
+        FrostEvents.h
+        IFrostUserExperience.h
+        precomp.cpp
+        precomp.h
+        shim.h
+        Shim.vcproj
+IntegrationTests
+Burn
+app.config
+AssemblyInfo.cs
+BasicTests.cs
+BurnIntegrationTests.csproj
+BurnTestBase.cs
+packages.config
+RestartTests.cs
+MsbuildIntegrationTests
+    app.config
+    AssemblyInfo.cs
+    BuildTests.cs
+    MsbuildIntegrationTests.csproj
+    packages.config
+UnitTests
+Burn
+AssemblyInfo.cpp
+BurnTestException.h
+BurnUnitTest.h
+BurnUnitTest.rc
+BurnUnitTest.vcxproj
+BurnUnitTest.vcxproj.filters
+CacheTest.cpp
+ElevationTest.cpp
+ManifestHelpers.cpp
+ManifestHelpers.h
+ManifestTest.cpp
+precomp.cpp
+precomp.h
+RegistrationTest.cpp
+SearchTest.cpp
+VariableHelpers.cpp
+VariableHelpers.h
+VariableTest.cpp
+dutil
+AssemblyInfo.cpp
+DictUtilTest.cpp
+DirUtilTests.cpp
+DUtilUnitTest.vcxproj
+DUtilUnitTest.vcxproj.filters
+error.h
+FileUtilTest.cpp
+IniUtilTest.cpp
+MemUtilTest.cpp
+precomp.cpp
+precomp.h
+resource.h
+StrUtilTest.cpp
+UnitTest.rc
+UriUtilTest.cpp
+wix.dll
+    PreprocessorUnitTests.cs
+Utilities
+TestBA
+    Hresult.cs
+    Properties
+    AssemblyInfo.cs
+    TestBA.BootstrapperCore.config
+    TestBA.cs
+    TestBA.csproj
+WixTests
+AssemblyInfo.cs
+BundleBuilder.cs
+BundleInstaller.cs
+BundleRegistration.cs
+Burn
+Burn.DependencyTests.cs
+Burn.EmbeddedTests.cs
+Burn.FailureTests.cs
+Burn.FeatureTests.cs
+Burn.ForwardCompatibleTests.cs
+Burn.MultiplePatchesTests.cs
+Burn.OriginalSourceTests.cs
+Burn.ParentTests.cs
+Burn.PatchTests.cs
+Burn.PermanentTests.cs
+Burn.PolicyTests.cs
+Burn.RegistrationTests.cs
+Burn.RelatedBundleTests.cs
+Burn.SearchTests.cs
+Burn.SlipstreamTests.cs
+BurnTests.cs
+Burn.UpdateBundleTests.cs
+Examples
+ExampleTests.cs
+Extensions
+DependencyExtension
+DependencyExtension.DependencyExtensionTests.cs
+IISExtension
+IISExtension.IISCertificateTests.cs
+IISExtension.IISFilterTests.cs
+IISExtension.IISVirtualDirTests.cs
+IISExtension.IISWebAppPoolTests.cs
+IISExtension.IISWebDirTests.cs
+IISExtension.IISWebErrorTests.cs
+IISExtension.IISWebPropertyTests.cs
+IISExtension.IISWebServiceExtensionTests.cs
+IISExtension.IISWebSiteTests.cs
+IISVerifier.cs
+NetFXExtension
+NetFXExtension.NativeImageTests.cs
+SqlExtension
+SqlExtension.RegressionTests.cs
+SqlExtension.SqlDatabaseTests.cs
+SqlExtension.SqlScriptTests.cs
+SqlExtension.SqlStringTests.cs
+UIExtension
+UIExtension.AdvancedUITests.cs
+UIExtension.FeatureTreeTests.cs
+UIExtension.InstallDirTests.cs
+UtilExtension
+UtilExtension.CAQuietExecTests.cs
+UtilExtension.EventManifestTests.cs
+UtilExtension.FileShareTests.cs
+UtilExtension.PerfCounterManifestTests.cs
+UtilExtension.PerfCounterTests.cs
+UtilExtension.PerformanceCategoryTests.cs
+UtilExtension.PermissionExTests.cs
+UtilExtension.PropertyTests.cs
+UtilExtension.RegressionTests.cs
+UtilExtension.ServiceConfigTests.cs
+UtilExtension.UserTests.cs
+UtilExtension.WixCloseApplicationTests.cs
+UtilExtension.WixInternetShortcutTests.cs
+UtilExtension.WixShellExecBinaryTests.cs
+UtilExtension.WixShellExecTests.cs
+UtilExtension.XmlConfigTests.cs
+UtilExtension.XmlFileTests.cs
+VSExtension
+    VSExtension.VSExtensionTests.cs
+Integration
+BuildingPackages
+    Authoring.FragmentTests.cs
+    Authoring.IdentifierTests.cs
+    Binaries.BinaryTests.cs
+    Bundle.BundleElementTests.cs
+    Bundle.ChainTests.cs
+    Bundle.ComponentSearchTests.cs
+    Bundle.DirectorySearchTests.cs
+    Bundle.FileSearchTests.cs
+    Bundle.LayoutTests.cs
+    Bundle.PackageTests.cs
+    Bundle.PayloadTests.cs
+    Bundle.ProductSearchTests.cs
+    Bundle.RegistrySearchTests.cs
+    BundleTests.cs
+    Bundle.UXTests.cs
+    Bundle.VariableTests.cs
+    Cabinets.CabinetTests.cs
+    Components.ComponentTests.cs
+    Components.COMRegistrationTests.cs
+    Components.CreateFolderTests.cs
+    Components.EnvironmentTests.cs
+    Components.IsolateComponentTests.cs
+    Components.RefAndGroupTests.cs
+    Components.RemoveFolderTests.cs
+    Components.ReserveCostTests.cs
+    Components.ServiceControlTests.cs
+    Components.ServiceInstallTests.cs
+    Components.SFPCatalogTests.cs
+    Conditions.ComponentConditionTests.cs
+    Conditions.ControlConditionTests.cs
+    Conditions.FeatureConditionTests.cs
+    Conditions.LaunchConditionTests.cs
+    CustomActions.CustomActionTests.cs
+    CustomTables.CustomTableTests.cs
+    Directories.DirectoryTests.cs
+    Features.FeatureTests.cs
+    Features.RefAndGroupTests.cs
+    Files.CopyFileTests.cs
+    Files.FileTests.cs
+    Files.RemoveFileTests.cs
+    InstallPackages.PackageTests.cs
+    InstallPackages.ProductTests.cs
+    InstanceTransforms.InstanceTransformTests.cs
+    Media.MediaTests.cs
+    Permissions.PermissionExTests.cs
+    Registry.RegistryTests.cs
+    RegressionTests.cs
+    Sequencing.InstallExecuteSequenceTests.cs
+    Sequencing.SequencingTests.cs
+    Shortcuts.ShortcutPropertyTests.cs
+    Shortcuts.ShortcutTests.cs
+    SmokeTests.cs
+    SymbolPaths.SymbolPathTests.cs
+    UI.HyperlinkTests.cs
+    UI.UITests.cs
+PackageBuilder.cs
+packages.config
+PatchBuilder.cs
+Tools
+Candle
+HelpTests.cs
+Input.FileSystemTests.cs
+Input.InputTests.cs
+MultipleInputSwitchesTests.cs
+Output.FileSystemTests.cs
+Output.OutputTests.cs
+PedanticTests.cs
+PreProcessor.ErrorsAndWarningsTests.cs
+PreProcessor.IncludeFileTests.cs
+PreProcessor.StatementsTests.cs
+PreProcessor.VariableTests.cs
+RegressionTests.cs
+SuppressSchemaValidationTests.cs
+SuppressWarningsTests.cs
+TraceTests.cs
+TreatWarningsAsErrorsTests.cs
+VerboseOutputTests.cs
+Common
+Logo.LogoTests.cs
+Dark
+BinaryPath.BinaryPathTests.cs
+Extensions.ExtensionTests.cs
+Help.HelpTests.cs
+Output.FileSystemTests.cs
+RegressionTests.cs
+Light
+BindFiles.BindFilesTests.cs
+BindPaths.BindPathTests.cs
+Cabs.CabCachingTests.cs
+Cabs.ReuseCabTests.cs
+Cultures.CultureTests.cs
+Help.HelpTests.cs
+ICEs.ICEsTests.cs
+ICEs.SuppressICEsTests.cs
+Input.InputTests.mtx
+Input.WixlibTests.cs
+Input.WixobjTests.cs
+Localization.LocalizationTests.cs
+Messages.PedanticTests.cs
+Messages.VerboseTests.cs
+Output.OutputTests.cs
+Output.OutputTests.mtx
+RegressionTests.cs
+Warnings.SuppressWarningsTests.cs
+Warnings.WarningsAsErrorsTests.cs
+Lit
+    BindFiles.BindFilesTests.cs
+    BindPaths.BindPathTests.cs
+    Help.HelpTests.cs
+    Input.FileSystemTests.cs
+    Input.InputTests.cs
+    Localization.LocalizationTests.cs
+    MultipleSwitches.MultipleSwitchesTests.cs
+    Output.FileSystemTests.cs
+    Output.OutputTests.cs
+    Warnings.SuppressWarningsTests.cs
+    Warnings.TreatWarningsAsErrorsTests.cs
+Wixproj
+WixprojTests.cs
+WixTaskTests.cs
+WixTests.cs
+WixTests.csproj
+WixTests.sln
+WixTestTools
+    AssemblyInfo.cs
+    BuilderBase.cs
+    Builder.cs
+    BundleBuilder.cs
+    BundleInstaller.cs
+    BundleRegistration.cs
+    Burn
+    Detours
+    HijackReboots.cs
+    EngineCleanup
+    EngineCleanup.cs
+    LayoutManager
+    LayoutManager.cs
+    Ux
+        TestUX.cs
+        UxBase.cs
+    OM
+        ElementAttribute
+        XmlAttribute.cs
+        XmlBlob.cs
+        XmlChildElement.cs
+        XmlElement.cs
+        Generator
+        ObjectGenerator.cs
+        XMLGenerator.cs
+        WixAuthoringOM
+            Bundle
+            BundleElement.cs
+            Chain
+            ChainElement.cs
+            ExePackageElement.cs
+            MsiPackageElement.cs
+            MsiPropertyElement.cs
+            MspPackageElement.cs
+            Package.cs
+            PayloadElement.cs
+            Searches
+            ComponentSearchElement.cs
+            DirectorySearchElement.cs
+            FileSearchElement.cs
+            ProductSearchElement.cs
+            RegistrySearchElement.cs
+            Searches.cs
+            UX
+            UxElement.cs
+            Variable
+                VariableElement.cs
+            WixElement.cs
+    CandleArguments.cs
+    Candle.cs
+    CandleStaticMethods.cs
+    DarkArguments.cs
+    Dark.cs
+    DarkStaticMethods.cs
+    DescriptionAttribute.cs
+    ErrorCodes.cs
+    HeatArguments.cs
+    Heat.cs
+    InsigniaArguments.cs
+    Insignia.cs
+    Is64BitSpecificTestAttribute.cs
+    ITestClass.cs
+    LightArguments.cs
+    Light.cs
+    LightStaticMethods.cs
+    LitArguments.cs
+    Lit.cs
+    Message.cs
+    MSBuildArguments.cs
+    MSBuild.cs
+    MSBuildMessage.cs
+    MSIExecArguments.cs
+    MSIExec.cs
+    MSITables.cs
+    MSIVersions.cs
+    NamedFactAttribute.cs
+    PackageBuilder.cs
+    packages.config
+    PatchBuilder.cs
+    PriorityAttribute.cs
+    PyroArguments.cs
+    Pyro.cs
+    QuickTest.cs
+    QuickTestStaticMethods.cs
+    Result.cs
+    RuntimeTestAttribute.cs
+    Settings.cs
+    SmokeArguments.cs
+    Smoke.cs
+    TestException.cs
+    TestTool.cs
+    Tool.cs
+    TorchArguments.cs
+    Torch.cs
+    Utilities
+    FileUtilities.cs
+    MsiUtilities.cs
+    UacUtilities.cs
+    UserUtilities.cs
+    Verifiers
+    Extensions
+    NetFXVerifier.cs
+    PermissionsVerifier.cs
+    RegistryVerifier.cs
+    ServiceVerifier.cs
+    SpecialFoldersVerifier.cs
+    SqlVerifier.cs
+    UserVerifier.cs
+    XMLVerifier.cs
+    FileVerifier.cs
+    LogVerifier.cs
+    MsiVerifier.cs
+    Verifier.cs
+    WixCopArguments.cs
+    WixCop.cs
+    WixMessage.cs
+    WixprojMSBuild.cs
+    WixTestBase.cs
+    WixTestContext.cs
+    WixTestTools.csproj
+    WixToolArguments.cs
+    WixTool.cs
+    WixTools.cs
+    WixUnitArguments.cs
+    WixUnit.cs
+test
+All.testproj
+Msbuild.testproj
+Unit.testproj
+test.bat
+test.proj
+tools
+appsettings.json
+bin
+NuGet.exe
+Dotnet.targets
+Nuget.targets
+OneTimeWixBuildInitialization.proj
+publickey_wix.snk
+release
+curl
+curl.exe
+libcurl.dll
+libcurl_imp.lib
+libeay32.dll
+ssleay32.dll
+zlib1.dll
+histver.js
+release.proj
+WixBuildRelease.proj
+WixHistory.proj
+signing-filter.none.txt
+src
+DocCompiler
+AssemblyInfo.cs
+CommandLine.cs
+DocCompiler.cs
+DocCompiler.csproj
+Document.cs
+IndexedDocument.cs
+Markdown.cs
+VariableSubstitutions.cs
+Xsd
+    docCompiler.xsd
+DocFromXsd
+AssemblyInfo.cs
+CommandLine.cs
+DocFromXsd.cs
+DocFromXsd.csproj
+docfromxsd.exe.manifest
+docfromxsd.rc
+XmlSchemaCompiler.cs
+FlattenXml
+AssemblyInfo.cs
+FlattenXml.cs
+FlattenXml.csproj
+flattenxml.exe.manifest
+flattenxml.rc
+GenerateWixInclude
+App.ico
+AssemblyInfo.cs
+GenerateWixInclude.cs
+GenerateWixInclude.csproj
+MdCompiler
+AssemblyInfo.cs
+CommandLine.cs
+Document.cs
+Markdown.cs
+MdCompiler.cs
+MdCompiler.csproj
+mdcompiler.exe.manifest
+mdcompiler.rc
+VariableSubstitutions.cs
+MsgGen
+App.ico
+AssemblyInfo.cs
+GenerateMessageFiles.cs
+MsgGen.cs
+MsgGen.csproj
+Xsd
+    messages.xsd
+TildeToRelative
+AssemblyInfo.cs
+TildeToRelative.cs
+TildeToRelative.csproj
+tildetorelative.exe.manifest
+tildetorelative.rc
+tools.proj
+WixBuild
+AssemblyInfo.cs
+DeleteRegistry.cs
+DocCompiler.cs
+FlattenXml.cs
+GenerateReleaseInfo.cs
+MsgGen.cs
+Rc.cs
+ReadRegistry.cs
+RegistryBase.cs
+TransformHistoryEntries.cs
+WixBuild.csproj
+WriteRegistry.cs
+XsdGen.cs
+XsdGen
+AssemblyInfo.cs
+CodeDomInterfaces.cs
+CodeDomReader.cs
+ElementCollection.cs
+StronglyTypedClasses.cs
+XsdGen.cs
+XsdGen.csproj
+xsdgen.exe.manifest
+xsdgen.rc
+XsdStitch
+    AssemblyInfo.cs
+    XsdStitch.cs
+    XsdStitch.csproj
+Traversal.targets
+Version.proj
+WixBuild.csproj.props
+WixBuild.csproj.targets
+WixBuild.helpproj.targets
+WixBuild.props
+WixBuild.relproj.targets
+WixBuild.shfbproj.props
+WixBuild.shfbproj.targets
+WixBuild.Signing.targets
+WixBuild.targets
+WixBuild.testproj.targets
+WixBuild.tmp_proj.targets
+WixBuild.Tools.targets
+WixBuild.vcxproj.props
+WixBuild.vcxproj.targets
+WixBuild.Version.targets
+WixBuild.VisualStudioSdk.targets
+WixBuild.wixproj.props
+WixBuild.wixproj.targets
+WixBuild.zipproj.targets
+WixRelease.relproj
+Wix.ruleset
+wix.proj
+
+1025 directories, 3272 files

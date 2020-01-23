@@ -1,0 +1,18 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Thu Jan 23 11:51:22 2020
+URL_BASE: https://bo-ak.org/
+WORDLIST_FILES: /home/dj0k4r/git/git_tutorial/whatcms/CMSList/Joomla.txt
+OPTION: Not Recursive
+
+-----------------
+
+*** Generating Wordlist...                                                                               GENERATED WORDS: 3060
+
+---- Scanning URL: https://bo-ak.org/ ----
+*** Calculating NOT_FOUND code...                                                                                                                                                                                                                                                                                          --> Testing: https://bo-ak.org//home/dj0k4r/myowncript/joomla-cms/                                                                                                                                                                                                           + https://bo-ak.org//home/dj0k4r/myowncript/joomla-cms/ (CODE:302|SIZE:681)
+                                                                                                                                                                                                           --> Testing: https://bo-ak.org/administrator                                                                               ==> DIRECTORY: https://bo-ak.org/administrator/
